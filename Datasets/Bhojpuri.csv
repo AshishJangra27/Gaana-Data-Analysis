@@ -1,0 +1,520 @@
+name,singer,singer_id,duration,link
+Jug Jug Jiyaasu Lalanwa,Alka Yagnik,/artist/alka-yagnik,03:16,https://gaana.com//song/jug-jug-jiyaasu-lalanwa
+Lal Lal Hothwa Se,Lata Mangeshkar|Talat Mahmood,/artist/lata-mangeshkar|/artist/talat-mahmood,03:21,https://gaana.com//song/lal-lal-hothwa-se
+Dhan Dhan Bhag Lalnawa,Alka Yagnik|Udit Narayan|Asha Bhosle,/artist/alka-yagnik|/artist/udit-narayan|/artist/asha-bhosle-1,05:55,https://gaana.com//song/dhan-dhan-bhag-lalnawa
+Kashi Hille Patna Hille,Manna Dey,/artist/manna-dey,03:18,https://gaana.com//song/kashi-hille-patna-hille
+Gorki Patarki Re,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,03:33,https://gaana.com//song/gorki-patarki-re
+Aankh Se Aankh Milke,Suresh Wadkar|Alka Yagnik,/artist/suresh-wadkar|/artist/alka-yagnik,03:14,https://gaana.com//song/aankh-se-aankh-milke
+Gavna Karval Ae Hari Ji,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,05:02,https://gaana.com//song/gavna-karval-ae-hari-ji
+Dekhali Sapanwa Mein Ayile,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,06:47,https://gaana.com//song/dekhali-sapanwa-mein-ayile
+Na Ja Chhod Ke Tu Akele,Kunal Singh|Aanchal|Seema,/artist/kunal-singh|/artist/aanchal-1|/artist/seema,04:41,https://gaana.com//song/na-ja-chhod-ke-tu-akele
+Laagi Nahi Chhoote Ram,Lata Mangeshkar|Talat Mahmood,/artist/lata-mangeshkar|/artist/talat-mahmood,03:17,https://gaana.com//song/laagi-nahi-chhoote-ram
+Hamaar Piyawa,Asha Bhosle,/artist/asha-bhosle-1,02:57,https://gaana.com//song/hamaar-piyawa
+Aankh Mein Suratiya,Chandrani Mukherjee,/artist/chandrani-mukherjee,03:12,https://gaana.com//song/aankh-mein-suratiya
+Birhi Basuriya,Sharda Sinha,/artist/sharda-sinha,07:01,https://gaana.com//song/birhi-basuriya
+Raja Piy Jani Gaanja Ho Kharaab Ho Jaibai,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,06:38,https://gaana.com//song/raja-piy-jani-gaanja-ho-kharaab-ho-jaibai
+Ghir Aayil Kariya Badariya,Alka Yagnik,/artist/alka-yagnik,03:18,https://gaana.com//song/ghir-aayil-kariya-badariya
+Chhodi Gayil Re Raat Sejariya,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,04:49,https://gaana.com//song/chhodi-gayil-re-raat-sejariya
+Papiha Ke Boliya,Sharda Sinha,/artist/sharda-sinha,05:20,https://gaana.com//song/papiha-ke-boliya
+Chodi Ke Chalailu,Chandrani Mukherjee,/artist/chandrani-mukherjee,03:49,https://gaana.com//song/chodi-ke-chalailu
+Ugahe Suraj Dev Bhela Bhinu,VINDHYAVASINI DEVI,/artist/vindhyavasini-devi,02:05,https://gaana.com//song/ugahe-suraj-dev-bhela-bhinu-1
+Ae Doctor Babu Batayi,Shabbir Kumar|Alka Yagnik,/artist/shabbir-kumar|/artist/alka-yagnik,05:16,https://gaana.com//song/ae-doctor-babu-batayi
+Nirhu Hasya Kahani,BECHAN RAM|Saathi,/artist/bechan-ram|/artist/saathi,29:10,https://gaana.com//song/nirhu-hasya-kahani
+More Honthwa Se Nathuniya,Asha Bhosle,/artist/asha-bhosle-1,03:28,https://gaana.com//song/more-honthwa-se-nathuniya
+Hansi Ke Je Dekha Tu Ek Beriya,Asha Bhosle,/artist/asha-bhosle-1,06:32,https://gaana.com//song/hansi-ke-je-dekha-tu-ek-beriya
+Sonwa Ke Pinjra Men,Mohammed Rafi,/artist/mohammad-rafi,03:06,https://gaana.com//song/sonwa-ke-pinjra-men
+Patna Sahariya,Sharda Sinha,/artist/sharda-sinha,06:00,https://gaana.com//song/patna-sahariya
+Chorwa Na Le Jaye,Mohammed Rafi,/artist/mohammad-rafi,03:03,https://gaana.com//song/chorwa-na-le-jaye
+Kanhwa Ke Tilak,Chandrani Mukherjee,/artist/chandrani-mukherjee,02:26,https://gaana.com//song/kanhwa-ke-tilak
+Bada Pareshan,Asha Bhosle,/artist/asha-bhosle-1,03:15,https://gaana.com//song/bada-pareshan-1
+Jaldi Jaldi Chal Re Kahara,Mohammed Rafi,/artist/mohammad-rafi,03:12,https://gaana.com//song/jaldi-jaldi-chal-re-kahara
+Birha Sauteli Maa(Netradaan),Om Prakash Yadav,/artist/om-prakash-yadav,31:12,https://gaana.com//song/birha-sauteli-maanetradaan
+Jahiya Gavna Ke Aai Doli,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,07:56,https://gaana.com//song/jahiya-gavna-ke-aai-doli
+Hansi Hansi Panwa Khiwanle,Mahendra Kapoor|Manna Dey,/artist/mahendra-kapoor|/artist/manna-dey,03:31,https://gaana.com//song/hansi-hansi-panwa-khiwanle
+More Karejwa Men Pir,Lata Mangeshkar|Usha Mangeshkar,/artist/lata-mangeshkar|/artist/usha-mangeshkar-2,02:29,https://gaana.com//song/more-karejwa-men-pir
+Mare Mastniya,Aniruddha Prasad Singh,/artist/aniruddha-prasad-singh,05:11,https://gaana.com//song/mare-mastniya
+Kuch Deja Nishani O Balma,Shama Bano,/artist/shama-bano,03:05,https://gaana.com//song/kuch-deja-nishani-o-balma
+Phoot Gaile Kismatiya - Mohdrafi,Mohammed Rafi,/artist/mohammad-rafi,03:23,https://gaana.com//song/phoot-gaile-kismatiya-1
+Piritiya Kahe Na Lagavle,Sharda Sinha,/artist/sharda-sinha,04:39,https://gaana.com//song/piritiya-kahe-na-lagavle-1
+Badariya Gheri Aayee Nandi,Sharda Sinha,/artist/sharda-sinha,05:18,https://gaana.com//song/badariya-gheri-aayee-nandi
+Hey Tripurari Hey,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:21,https://gaana.com//song/hey-tripurari-hey
+Sajanwa Bairi Bhaile Hamar,Alka Yagnik,/artist/alka-yagnik,06:43,https://gaana.com//song/sajanwa-bairi-bhaile-hamar
+Aajamgadh Harijan Hatyakaand,BECHAN RAM|Saathi,/artist/bechan-ram|/artist/saathi,29:19,https://gaana.com//song/aajamgadh-harijan-hatyakaand
+Ulta Ho Gaile Nagaria,Joginder Singh,/artist/joginder-singh,02:33,https://gaana.com//song/ulta-ho-gaile-nagaria
+Chali Bhai Khetava Ki Aur,Aniruddha Prasad Singh,/artist/aniruddha-prasad-singh,03:19,https://gaana.com//song/chali-bhai-khetava-ki-aur
+Chadhte Phagun Jiyara,Mohammed Rafi,/artist/mohammad-rafi,03:04,https://gaana.com//song/chadhte-phagun-jiyara
+Mori Kalaiya,Lata Mangeshkar,/artist/lata-mangeshkar,03:07,https://gaana.com//song/mori-kalaiya-1
+Jab Hum Jaai Naiharwan,Asha Bhosle|Chorus,/artist/asha-bhosle-1|/artist/chorus,05:06,https://gaana.com//song/jab-hum-jaai-naiharwan
+Saam Chakeba Khelbahe -Tohe Badka Bhaiya Ho,Sharda Sinha,/artist/sharda-sinha,06:01,https://gaana.com//song/saam-chakeba-khelbahe-tohe-badka-bhaiya-ho
+Baanjhi Kewdwa Dhaile Thaadh,Sharda Sinha,/artist/sharda-sinha,08:58,https://gaana.com//song/baanjhi-kewdwa-dhaile-thaadh
+Rakhiya Bandhala Bhaiya,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,https://gaana.com//song/rakhiya-bandhala-bhaiya
+Ye Balma Pardesi,Alka Yagnik|Udit Narayan,/artist/alka-yagnik|/artist/udit-narayan,06:22,https://gaana.com//song/ye-balma-pardesi
+Phoot Gaile Kismatiya,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,03:26,https://gaana.com//song/phoot-gaile-kismatiya
+Birha Bhullu Darji,Om Prakash Yadav,/artist/om-prakash-yadav,31:10,https://gaana.com//song/birha-bhullu-darji
+Ugihen Suraj Gosaiyan Hey,Sharda Sinha,/artist/sharda-sinha,04:42,https://gaana.com//song/ugihen-suraj-gosaiyan-hey
+Hey Ganga Maiya,Sharda Sinha,/artist/sharda-sinha,06:31,https://gaana.com//song/hey-ganga-maiya-8
+Mere Mathe Ka Sindur,Lata Mangeshkar,/artist/lata-mangeshkar,04:17,https://gaana.com//song/mere-mathe-ka-sindur-1
+Sama Khele Chalali,Sharda Sinha,/artist/sharda-sinha,08:51,https://gaana.com//song/sama-khele-chalali
+Satahi Ghorawa Suraj Dev,VINDHYAVASINI DEVI,/artist/vindhyavasini-devi,02:56,https://gaana.com//song/satahi-ghorawa-suraj-dev-2
+Kerawaje Pharela Ghaud Se - Chhath Geet,Preeti Sagar,/artist/preeti-sagar,06:15,https://gaana.com//song/kerawaje-pharela-ghaud-se-chhath-geet-1
+Luk Chuk Badra,Lata Mangeshkar,/artist/lata-mangeshkar,02:42,https://gaana.com//song/luk-chuk-badra
+Bhola Baba Ke Bhawanva,Aniruddha Prasad Singh,/artist/aniruddha-prasad-singh,04:19,https://gaana.com//song/bhola-baba-ke-bhawanva
+Aeke Karvatiya Kari Sejiya Par Bhor,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,07:14,https://gaana.com//song/aeke-karvatiya-kari-sejiya-par-bhor
+Mor Bhangia Ka Manai De,Mohammed Rafi|Asha Bhosle,/artist/mohammad-rafi|/artist/asha-bhosle-1,05:01,https://gaana.com//song/mor-bhangia-ka-manai-de
+Sati Sulochana,HAIDER ALI JUGNU,/artist/haider-ali-jugnu,59:41,https://gaana.com//song/sati-sulochana
+Kahe Heera Se,Mahendra Kapoor,/artist/mahendra-kapoor,06:37,https://gaana.com//song/kahe-heera-se
+Jiyaba Bhail Ji Ke Kaal,Sharda Sinha,/artist/sharda-sinha,06:53,https://gaana.com//song/jiyaba-bhail-ji-ke-kaal
+Ratiya Ghusal Ghar Mein,Asha Bhosle,/artist/asha-bhosle-1,03:24,https://gaana.com//song/ratiya-ghusal-ghar-mein
+Hamar Bail Gadi,Joginder Singh,/artist/joginder-singh,03:08,https://gaana.com//song/hamar-bail-gadi
+Ja Ree Ja Lado,Asha Bhosle|Sathi,/artist/asha-bhosle-1|/artist/sathi,08:12,https://gaana.com//song/ja-ree-ja-lado
+Roz Rahiyo Nihaare Nayanva Sajanva,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,05:42,https://gaana.com//song/roz-rahiyo-nihaare-nayanva-sajanva
+Birha Aginiya Dhadhake,Munna Singh,/artist/munna-singh,07:53,https://gaana.com//song/birha-aginiya-dhadhake
+Todke Pinjra,Asha Bhosle,/artist/asha-bhosle-1,03:34,https://gaana.com//song/todke-pinjra
+Aare Mala Japare,Mahendra Kapoor|Usha Mangeshkar,/artist/mahendra-kapoor|/artist/usha-mangeshkar-2,04:03,https://gaana.com//song/aare-mala-japare-2
+Kahe Bansuria Bajaile - Sad,Lata Mangeshkar,/artist/lata-mangeshkar,03:06,https://gaana.com//song/kahe-bansuria-bajaile-sad
+Munhwase Bola Part - 2,Asha Bhosle|Manna Dey,/artist/asha-bhosle-1|/artist/manna-dey,06:44,https://gaana.com//song/munhwase-bola-part-2
+Rimjhim Barshela Sawanoa - Kajri,Geeta Dutt|Koumodi Mazumder,/artist/geeta-dutt|/artist/koumodi-mazumder,03:36,https://gaana.com//song/rimjhim-barshela-sawanoa-kajri
+Hamari Nathuniya Ke Nagawa,Asha Bhosle,/artist/asha-bhosle-1,05:01,https://gaana.com//song/hamari-nathuniya-ke-nagawa
+Kangna Kahan Se Ayo,Shama Bano,/artist/shama-bano,02:48,https://gaana.com//song/kangna-kahan-se-ayo
+Jaagat Raha Bhaiya,Mohammed Rafi,/artist/mohammad-rafi,03:00,https://gaana.com//song/jaagat-raha-bhaiya
+Rang Ras Ras Barse,Baleshwar|Chorus,/artist/baleshwar|/artist/chorus,06:21,https://gaana.com//song/rang-ras-ras-barse
+Kone Rang Mora Bala,Aniruddha Prasad Singh,/artist/aniruddha-prasad-singh,06:27,https://gaana.com//song/kone-rang-mora-bala
+Chupchap Tu Dekhat Chal,Suresh Wadkar,/artist/suresh-wadkar,05:00,https://gaana.com//song/chupchap-tu-dekhat-chal
+Badlal Desava Ke Byavhaar,Manna Dey|Chorus,/artist/manna-dey|/artist/chorus,06:35,https://gaana.com//song/badlal-desava-ke-byavhaar
+Jiya Na Laage Gharba,Sharda Sinha,/artist/sharda-sinha,05:42,https://gaana.com//song/jiya-na-laage-gharba
+Kehu Lootera Kehu Chor,Asha Bhosle,/artist/asha-bhosle-1,03:35,https://gaana.com//song/kehu-lootera-kehu-chor
+Piya Mehandi Liyaida Motijheel Se,Urmila Srivastav,/artist/urmila-srivastav,06:00,https://gaana.com//song/piya-mehandi-liyaida-motijheel-se
+Ab To Lagat Mora Solvwa Saal,Suman Kalyanpur,/artist/suman-kalyanpur,03:07,https://gaana.com//song/ab-to-lagat-mora-solvwa-saal
+Suraj Dubale Saanjh Suhani,Asha Bhosle|Mahendra Kapoor,/artist/asha-bhosle-1|/artist/mahendra-kapoor,05:00,https://gaana.com//song/suraj-dubale-saanjh-suhani
+Bhabi Jan Najaria Lag Jayegi,Joginder Singh,/artist/joginder-singh,02:41,https://gaana.com//song/bhabi-jan-najaria-lag-jayegi
+Raat Ba Andriya,Sharda Sinha,/artist/sharda-sinha,06:34,https://gaana.com//song/raat-ba-andriya
+Mahabharat Mein Karn Aur Karn Putra Kaushal Ki Jung,BIHARI KAVI|Sathi,/artist/bihari-kavi|/artist/sathi,29:00,https://gaana.com//song/mahabharat-mein-karn-aur-karn-putra-kaushal-ki-jung
+Haath Mein Mehandi Maang Sindurwa,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,04:26,https://gaana.com//song/haath-mein-mehandi-maang-sindurwa-1
+Dog Mog Doli,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,06:08,https://gaana.com//song/dog-mog-doli
+Dadaji Banale Raja Ke Ghoda,Usha Mangeshkar|Shailendra Singh|Mahendra Kapoor,/artist/usha-mangeshkar-2|/artist/shailendra-singh|/artist/mahendra-kapoor,04:42,https://gaana.com//song/dadaji-banale-raja-ke-ghoda
+Anjoriya Ae Gori,Suresh Wadkar|Alka Yagnik,/artist/suresh-wadkar|/artist/alka-yagnik,05:00,https://gaana.com//song/anjoriya-ae-gori
+Sati Sukanya,Mahendra Kapoor|Usha Mangeshkar,/artist/mahendra-kapoor|/artist/usha-mangeshkar-2,04:08,https://gaana.com//song/sati-sukanya-1
+Mahal Par Kaga,Sharda Sinha,/artist/sharda-sinha,05:42,https://gaana.com//song/mahal-par-kaga
+Dumri Ke Ho Phoolba,Sharda Sinha,/artist/sharda-sinha,06:04,https://gaana.com//song/dumri-ke-ho-phoolba
+Munhwase Bola Part - 1,Asha Bhosle|Manna Dey,/artist/asha-bhosle-1|/artist/manna-dey,02:32,https://gaana.com//song/munhwase-bola-part-1
+Jagdambe Bhawani Aavain More Angna,PRABHA SINGH|ANJANA SINGH,/artist/prabha-singh|/artist/anjana-singh,06:08,https://gaana.com//song/jagdambe-bhawani-aavain-more-angna
+Daroga Ji Se Kahiyo,Munni Ketkiwali,/artist/munni-ketkiwali,03:08,https://gaana.com//song/daroga-ji-se-kahiyo
+Jahar Khibe,Sharda Sinha,/artist/sharda-sinha,05:16,https://gaana.com//song/jahar-khibe
+Pardesiya Se Ladal Najariyan,Kavita Krishnamurthy,/artist/kavita-subramaniam,05:27,https://gaana.com//song/pardesiya-se-ladal-najariyan
+Phoolwa Ki Beni Se,Asha Bhosle,/artist/asha-bhosle-1,03:22,https://gaana.com//song/phoolwa-ki-beni-se
+Kalkattwa Se Aavela,Sharda Sinha,/artist/sharda-sinha,06:01,https://gaana.com//song/kalkattwa-se-aavela-1
+Chupchaap Kehu Baithal Ba,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,07:53,https://gaana.com//song/chupchaap-kehu-baithal-ba
+Kiran Phoot Gayeel,Sharda Sinha,/artist/sharda-sinha,05:00,https://gaana.com//song/kiran-phoot-gayeel-1
+So Ja So Ja Mere Lal,Lata Mangeshkar,/artist/lata-mangeshkar,03:18,https://gaana.com//song/so-ja-so-ja-mere-lal
+Maanal Kara Balmu,Sharda Sinha,/artist/sharda-sinha,04:55,https://gaana.com//song/maanal-kara-balmu
+Kekar Naiya Men Irchi Mirichia,VINDHYAVASINI DEVI,/artist/vindhyavasini-devi,02:07,https://gaana.com//song/kekar-naiya-men-irchi-mirichia-1
+Pahile Pahile,Usha Mangeshkar|Dilraj Kaur,/artist/usha-mangeshkar-2|/artist/dilraj-kaur,06:08,https://gaana.com//song/pahile-pahile
+Saj Ke To Gaili Rama,Suman Kalyanpur,/artist/suman-kalyanpur,03:02,https://gaana.com//song/saj-ke-to-gaili-rama
+Jahiya Se Gayeele Saiyan,Sharda Sinha,/artist/sharda-sinha,08:06,https://gaana.com//song/jahiya-se-gayeele-saiyan
+Meri Pariksha Teri Pareeksha,Lata Mangeshkar,/artist/lata-mangeshkar,06:14,https://gaana.com//song/meri-pariksha-teri-pareeksha
+Santoshi Maiya,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:29,https://gaana.com//song/santoshi-maiya
+Gore Se Hum Kaale Pad Gaye,MUNNI DEVI,/artist/munni-devi,07:51,https://gaana.com//song/gore-se-hum-kaale-pad-gaye-1
+Gavnva Na Jaibo Ram,Sharda Sinha,/artist/sharda-sinha,05:04,https://gaana.com//song/gavnva-na-jaibo-ram
+Raakhi Har Saal,Alka Yagnik|Manhar Udhas,/artist/alka-yagnik|/artist/manhar-udhas,06:47,https://gaana.com//song/raakhi-har-saal
+Aare Mala Japare,Mahendra Kapoor|Usha Mangeshkar,/artist/mahendra-kapoor|/artist/usha-mangeshkar-2,04:03,https://gaana.com//song/aare-mala-japare-1
+Laike Namba Tohar,Asha Bhosle,/artist/asha-bhosle-1,03:01,https://gaana.com//song/laike-namba-tohar
+Sasura Se Aave Jaise Naee Dulhiniyaan,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,09:20,https://gaana.com//song/sasura-se-aave-jaise-naee-dulhiniyaan
+He Ganga Maiya,Alka Yagnik,/artist/alka-yagnik,02:49,https://gaana.com//song/he-ganga-maiya
+Ho Ankhiya Lokha Na Bahav,Aniruddha Prasad Singh,/artist/aniruddha-prasad-singh,06:02,https://gaana.com//song/ho-ankhiya-lokha-na-bahav
+Mere Mathe Ka Sindur,Lata Mangeshkar,/artist/lata-mangeshkar,04:17,https://gaana.com//song/mere-mathe-ka-sindur-2
+Saiyan Tohra Khatir,Sharda Sinha,/artist/sharda-sinha,08:00,https://gaana.com//song/saiyan-tohra-khatir-1
+Maiya More Angna Mein Aai Hihur Ke,PRABHA SINGH|ANJANA SINGH,/artist/prabha-singh|/artist/anjana-singh,06:34,https://gaana.com//song/maiya-more-angna-mein-aai-hihur-ke
+Jekra Tan Mein Jawani Ke,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,06:34,https://gaana.com//song/jekra-tan-mein-jawani-ke
+Dinwa Ginat Mori,Suman Kalyanpur,/artist/suman-kalyanpur,03:15,https://gaana.com//song/dinwa-ginat-mori
+Kanwal Khiil Jaye,Shama Bano,/artist/shama-bano,03:00,https://gaana.com//song/kanwal-khiil-jaye
+Jhini Jhini Achrawa,Aniruddha Prasad Singh,/artist/aniruddha-prasad-singh,05:05,https://gaana.com//song/jhini-jhini-achrawa
+Dulhania Banade Balmu,Asha Bhosle,/artist/asha-bhosle-1,03:12,https://gaana.com//song/dulhania-banade-balmu
+Jai Jai Hoy Jaikaar Ho Maiya More,PRABHA SINGH|ANJANA SINGH,/artist/prabha-singh|/artist/anjana-singh,05:55,https://gaana.com//song/jai-jai-hoy-jaikaar-ho-maiya-more
+Aaj Mahafil Mei,Asha Bhosle|Mahendra Kapoor,/artist/asha-bhosle-1|/artist/mahendra-kapoor,03:51,https://gaana.com//song/aaj-mahafil-mei
+Ek Te Chadhal Jawaniya,Asha Bhosle,/artist/asha-bhosle-1,06:08,https://gaana.com//song/ek-te-chadhal-jawaniya
+Patra Ki Hat Par Nariyar,VINDHYAVASINI DEVI,/artist/vindhyavasini-devi,02:16,https://gaana.com//song/patra-ki-hat-par-nariyar-1
+Tohre Bhawan Badi Bheed Ho Kaise,PRABHA SINGH|ANJANA SINGH,/artist/prabha-singh|/artist/anjana-singh,05:29,https://gaana.com//song/tohre-bhawan-badi-bheed-ho-kaise
+Sunil Ye Shivji,Usha Mangeshkar|Chorus,/artist/usha-mangeshkar-2|/artist/chorus,05:03,https://gaana.com//song/sunil-ye-shivji
+Kekar Naiya Men Irchi Mirichia,VINDHYAVASINI DEVI,/artist/vindhyavasini-devi,02:07,https://gaana.com//song/kekar-naiya-men-irchi-mirichia-2
+Humse Na Hoi Banihariya,Sharda Sinha,/artist/sharda-sinha,04:00,https://gaana.com//song/humse-na-hoi-banihariya
+Chaar Pokhar Ke,Sharda Sinha,/artist/sharda-sinha,06:08,https://gaana.com//song/chaar-pokhar-ke
+Mora Pichuarb,Sharda Sinha,/artist/sharda-sinha,04:49,https://gaana.com//song/mora-pichuarb
+Jise Ishq Ka Ho Dawa,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,10:41,https://gaana.com//song/jise-ishq-ka-ho-dawa
+Beti Ki Paribhasha,Ram Lautan Vishwakarma,/artist/ramlautan-vishwakarma-1,08:48,https://gaana.com//song/beti-ki-paribhasha
+Logwaan Det - Kaahe Gaari,Sharda Sinha,/artist/sharda-sinha,07:52,https://gaana.com//song/logwaan-det-kaahe-gaari
+Maiya Jhule Chanan Jhulanwa,Urmila Srivastav,/artist/urmila-srivastav,05:51,https://gaana.com//song/maiya-jhule-chanan-jhulanwa
+Karfew Lage Kotwali Men,Joginder Singh,/artist/joginder-singh,02:58,https://gaana.com//song/karfew-lage-kotwali-men
+Muratiya Maiya Ke Neek Lage,PRABHA SINGH|ANJANA SINGH,/artist/prabha-singh|/artist/anjana-singh,07:53,https://gaana.com//song/muratiya-maiya-ke-neek-lage
+Hamka Lai Chal,Asha Bhosle|Mahendra Kapoor,/artist/asha-bhosle-1|/artist/mahendra-kapoor,04:26,https://gaana.com//song/hamka-lai-chal
+Saat Bahin Mori Devi Sharda,PRABHA SINGH|ANJANA SINGH,/artist/prabha-singh|/artist/anjana-singh,04:36,https://gaana.com//song/saat-bahin-mori-devi-sharda
+Saanwar - Sawar Suratiya Tohaar Dulha,Sharda Sinha,/artist/sharda-sinha,08:31,https://gaana.com//song/saanwar-sawar-suratiya-tohaar-dulha
+Gawna Kara Ke Kahe Chhodal,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,11:07,https://gaana.com//song/gawna-kara-ke-kahe-chhodal
+Ram Lakhan Dono Bhaiya,Usha Mangeshkar|Alka Yagnik,/artist/usha-mangeshkar-2|/artist/alka-yagnik,04:23,https://gaana.com//song/ram-lakhan-dono-bhaiya
+Bit Jala Ratiya Suhani,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,05:36,https://gaana.com//song/bit-jala-ratiya-suhani-1
+Johar Singh Krantikari(Shabnam Baai),KASHI BULLU YADAV|Sathi,/artist/kashi-bullu-yadav|/artist/sathi,29:56,https://gaana.com//song/johar-singh-krantikarishabnam-baai
+Chadhal Jawani,Asha Bhosle,/artist/asha-bhosle-1,03:44,https://gaana.com//song/chadhal-jawani
+Fulwa Niyar Naar Sukvaar,Mohammed Rafi,/artist/mohammad-rafi,03:28,https://gaana.com//song/fulwa-niyar-naar-sukvaar
+Rashik Bhramare,Asha Bhosle,/artist/asha-bhosle-1,04:24,https://gaana.com//song/rashik-bhramare-1
+Satahi Ghorawa Suraj Dev,VINDHYAVASINI DEVI,/artist/vindhyavasini-devi,02:56,https://gaana.com//song/satahi-ghorawa-suraj-dev-1
+Tohre Patri Kamaria Patang Goria,Suresh Wadkar|Usha Mangeshkar,/artist/suresh-wadkar|/artist/usha-mangeshkar-2,06:17,https://gaana.com//song/tohre-patri-kamaria-patang-goria
+Sun Kake Gharva Jab Se Gayil Baharva,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,05:55,https://gaana.com//song/sun-kake-gharva-jab-se-gayil-baharva
+Ugahe Suraj Dev Bhela Bhinu,VINDHYAVASINI DEVI,/artist/vindhyavasini-devi,02:05,https://gaana.com//song/ugahe-suraj-dev-bhela-bhinu-2
+Kisanin Banih Na,Aniruddha Prasad Singh,/artist/aniruddha-prasad-singh,06:50,https://gaana.com//song/kisanin-banih-na
+Sanwar Goriya,Kishore Kumar,/artist/kishore-kumar,03:13,https://gaana.com//song/sanwar-goriya
+Kabhiyon Peecha Na,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:16,https://gaana.com//song/kabhiyon-peecha-na
+Kahat Nisadh,Aniruddha Prasad Singh,/artist/aniruddha-prasad-singh,04:25,https://gaana.com//song/kahat-nisadh
+Pior Dhonia Malmal Ke,Kishore Kumar,/artist/kishore-kumar,04:55,https://gaana.com//song/pior-dhonia-malmal-ke
+Na Darbe Jaan Laike Hatheli Par,Geeta Dutt|Kaumudi Majumdar|Manna Dey,/artist/geeta-dutt|/artist/kaumudi-majumdar|/artist/manna-dey,03:23,https://gaana.com//song/na-darbe-jaan-laike-hatheli-par
+Naihar Mein Jhula,Asha Bhosle|Usha Mangeshkar,/artist/asha-bhosle-1|/artist/usha-mangeshkar-2,03:32,https://gaana.com//song/naihar-mein-jhula
+Ho Mori Bhouji,Alka Yagnik|Suresh Wadkar,/artist/alka-yagnik|/artist/suresh-wadkar,03:16,https://gaana.com//song/ho-mori-bhouji
+Najar Toy Hoy Gay Jigar Ke Paar,MUNNI DEVI,/artist/munni-devi,06:36,https://gaana.com//song/najar-toy-hoy-gay-jigar-ke-paar-1
+Barsane Ma Rang Barse,Mahendra Kapoor,/artist/mahendra-kapoor,06:21,https://gaana.com//song/barsane-ma-rang-barse
+Laga Laga Re,Geeta Dutt|Sulochana Kadam,/artist/geeta-dutt|/artist/sulochana-kadam,03:28,https://gaana.com//song/laga-laga-re
+Na Jaani Ram Bindiyan Kahan Gir Gayee,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,03:39,https://gaana.com//song/na-jaani-ram-bindiyan-kahan-gir-gayee-1
+Tadap Tadap Jiyawa Dehiya Mein,Mohammed Rafi,/artist/mohammad-rafi,03:03,https://gaana.com//song/tadap-tadap-jiyawa-dehiya-mein
+Beg Latkake Chalti Bazar,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,06:21,https://gaana.com//song/beg-latkake-chalti-bazar
+Bada Pyar Se Bolabela,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,08:37,https://gaana.com//song/bada-pyar-se-bolabela
+Jawani Paakal Mochhiya Par,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,08:33,https://gaana.com//song/jawani-paakal-mochhiya-par
+Dehiya Khilall,Suresh Wadkar|Alka Yagnik,/artist/suresh-wadkar|/artist/alka-yagnik,04:36,https://gaana.com//song/dehiya-khilall
+Baat Karte Rahi Pyar Dheere Dheere,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,05:55,https://gaana.com//song/baat-karte-rahi-pyar-dheere-dheere
+Patra Ki Hat Par Nariyar,VINDHYAVASINI DEVI,/artist/vindhyavasini-devi,02:16,https://gaana.com//song/patra-ki-hat-par-nariyar-2
+Chum Chatakan,HAIDER ALI JUGNU,/artist/haider-ali-jugnu,01:01:00,https://gaana.com//song/chum-chatakan
+Aptan Lagi Rahi,Sharda Sinha,/artist/sharda-sinha,06:53,https://gaana.com//song/aptan-lagi-rahi
+Aa Re Re Re Ee Ka,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:15,https://gaana.com//song/aa-re-re-re-ee-ka
+Bhaiya Hamre Ram Jaisan,Shailendra Singh|Suresh Wadkar|Udit Narayan,/artist/shailendra-singh|/artist/suresh-wadkar|/artist/udit-narayan,03:48,https://gaana.com//song/bhaiya-hamre-ram-jaisan
+Rupahli Madhu Raat Mein,Asha Bhosle|Mahendra Kapoor,/artist/asha-bhosle-1|/artist/mahendra-kapoor,05:26,https://gaana.com//song/rupahli-madhu-raat-mein
+Launda Patwari Ka Bada Namkeen,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,05:55,https://gaana.com//song/launda-patwari-ka-bada-namkeen
+Palang Chorhi Nache,Asha Bhosle|Usha Mangeshkar,/artist/asha-bhosle-1|/artist/usha-mangeshkar-2,03:27,https://gaana.com//song/palang-chorhi-nache
+Sutal Sanaih Aake Ke Do Jagagayil,Bharat Sharma Vyas,/artist/bharat-sharma-vyas,07:01,https://gaana.com//song/sutal-sanaih-aake-ke-do-jagagayil
+Ghoongta Uthaave Dulhaniya,Sharda Sinha,/artist/sharda-sinha,08:12,https://gaana.com//song/ghoongta-uthaave-dulhaniya
+Karvat Phera Do Balmua,Suresh Wadkar|Dilraj Kaur,/artist/suresh-wadkar|/artist/dilraj-kaur,05:16,https://gaana.com//song/karvat-phera-do-balmua
+O Pinjre Ke Tote Bata,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:28,https://gaana.com//song/o-pinjre-ke-tote-bata-1
+Rimjhim Barse Sawanwa Ho,Urmila Srivastav,/artist/urmila-srivastav,05:37,https://gaana.com//song/rimjhim-barse-sawanwa-ho
+Hayr Mori Barkha Bahar,Shama Bano,/artist/shama-bano,03:16,https://gaana.com//song/hayr-mori-barkha-bahar
+Sang Sang Beti,Manna Dey|Mohammed Rafi,/artist/manna-dey|/artist/mohammad-rafi,03:22,https://gaana.com//song/sang-sang-beti
+Tori Banki Re Pagadia,Asha Bhosle|Anand kumar C.,/artist/asha-bhosle-1|/artist/anandkumar-c,07:05,https://gaana.com//song/tori-banki-re-pagadia
+Devar Bhabhi Ka Pyar,Ram Lautan Vishwakarma,/artist/ramlautan-vishwakarma-1,20:23,https://gaana.com//song/devar-bhabhi-ka-pyar
+Ae Ho Dagabaz Balma,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:55,https://gaana.com//song/ae-ho-dagabaz-balma
+Jayiyo Re Chanda Jayiyo,Anuradha Paudwal|Suresh Wadkar,/artist/anuradha-paudwal-2|/artist/suresh-wadkar,06:34,https://gaana.com//song/jayiyo-re-chanda-jayiyo
+Kailai Yaar Goriya,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,04:24,https://gaana.com//song/kailai-yaar-goriya-1
+Rah - Rah Maske Duino Jobanwa,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,05:13,https://gaana.com//song/rah-rah-maske-duino-jobanwa-1
+Aayil Barkha Bahar,Asha Bhosle,/artist/asha-bhosle-1,03:00,https://gaana.com//song/aayil-barkha-bahar
+Jiya Kasak Masak Mor Rahe Lagal,Mohammed Rafi,/artist/mohammad-rafi,03:01,https://gaana.com//song/jiya-kasak-masak-mor-rahe-lagal
+Na Kehu Jane Kehu Samjhe,Manna Dey,/artist/manna-dey,03:21,https://gaana.com//song/na-kehu-jane-kehu-samjhe
+Buri Nazar Wale Tora Munh Kaala,Alka Yagnik|Udit Narayan,/artist/alka-yagnik|/artist/udit-narayan,06:00,https://gaana.com//song/buri-nazar-wale-tora-munh-kaala
+Ishq Karaye O Jiski Jeb Me - Kejri,Mahendra Kapoor|Manna Dey,/artist/mahendra-kapoor|/artist/manna-dey,03:26,https://gaana.com//song/ishq-karaye-o-jiski-jeb-me-kejri
+Aag Bam Bamak Bam,Kishore Kumar,/artist/kishore-kumar,05:00,https://gaana.com//song/aag-bam-bamak-bam
+Phool Bagiya Ka,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,02:53,https://gaana.com//song/phool-bagiya-ka
+Sabki God Sanwarnewali,Usha Mangeshkar,/artist/usha-mangeshkar-2,04:35,https://gaana.com//song/sabki-god-sanwarnewali-1
+Ramayan Mein Mandodri Janm Aur Ravan Vivah  Sita Janm Aur Shree Ram Vivah,BIHARI KAVI|Sathi,/artist/bihari-kavi|/artist/sathi,30:00,https://gaana.com//song/ramayan-mein-mandodri-janm-aur-ravan-vivah-sita-janm-aur-shree-ram-vivah
+Aaja Re Mitva,Mohammad Aziz|Alka Yagnik,/artist/mohammad-aziz|/artist/alka-yagnik,06:44,https://gaana.com//song/aaja-re-mitva
+Seeta Ke Sang Saheliyan,Sharda Sinha,/artist/sharda-sinha,06:48,https://gaana.com//song/seeta-ke-sang-saheliyan
+Akeli Dar Laage Raat Mori Amma,MUNNI DEVI,/artist/munni-devi,05:20,https://gaana.com//song/akeli-dar-laage-raat-mori-amma-2
+Macharia Legai Mundarya Churaye,Razia Begum,/artist/razia-begum,03:22,https://gaana.com//song/macharia-legai-mundarya-churaye
+Kurta Mufat Men Dhoye Dhobla,Razia Begum,/artist/razia-begum,03:07,https://gaana.com//song/kurta-mufat-men-dhoye-dhobla
+Kajar Bin Kari,Mohammed Rafi,/artist/mohammad-rafi,03:04,https://gaana.com//song/kajar-bin-kari
+Pawan Chalo Dhire,Razia Begum,/artist/razia-begum,03:13,https://gaana.com//song/pawan-chalo-dhire
+Bida Karaye Le Jaale Re Baalam,MUNNI DEVI,/artist/munni-devi,05:18,https://gaana.com//song/bida-karaye-le-jaale-re-baalam-1
+Mori Bhaujia Ke,Lata Mangeshkar|Usha Mangeshkar,/artist/lata-mangeshkar|/artist/usha-mangeshkar-2,03:32,https://gaana.com//song/mori-bhaujia-ke
+Bhagalpur Wali Kamar Jab,Shankar Yadav,/artist/shankar-yadav,03:34,https://gaana.com//song/bhagalpur-wali-kamar-jab
+Nirmohi Chhod Gaye Re,MUNNI DEVI,/artist/munni-devi,03:54,https://gaana.com//song/nirmohi-chhod-gaye-re-1
+Kaare Kaare Kesiya,Manna Dey|Suman Kalyanpur,/artist/manna-dey|/artist/suman-kalyanpur,03:29,https://gaana.com//song/kaare-kaare-kesiya
+Aashak Mashook Sama Sami,Asha Bhosle|Mahendra Kapoor|Anand kumar C.,/artist/asha-bhosle-1|/artist/mahendra-kapoor|/artist/anandkumar-c,05:35,https://gaana.com//song/aashak-mashook-sama-sami
+Jaan Laike Hatheli Par,Geeta Dutt|Manna Dey|Kaumodi Mazumder,/artist/geeta-dutt|/artist/manna-dey|/artist/kaumodi-mazumder,03:23,https://gaana.com//song/jaan-laike-hatheli-par-1
+Dheere Dheere Beet Gayeel,Alka Yagnik|Sathi,/artist/alka-yagnik|/artist/sathi,05:29,https://gaana.com//song/dheere-dheere-beet-gayeel
+Aav I Neendar Rani,Chandrani Mukherjee,/artist/chandrani-mukherjee,04:00,https://gaana.com//song/aav-i-neendar-rani
+Thoke Dulha,Asha Bhosle|Suresh Wadkar,/artist/asha-bhosle-1|/artist/suresh-wadkar,02:56,https://gaana.com//song/thoke-dulha
+Bada Dagabaj,Alka Yagnik|Udit Narayan,/artist/alka-yagnik|/artist/udit-narayan,03:25,https://gaana.com//song/bada-dagabaj
+Nadiya Ke Kinare Mora Dera,Yasmin Faizabadi,/artist/yasmin-faizabadi,03:08,https://gaana.com//song/nadiya-ke-kinare-mora-dera
+Gawanva Kaahe Le Aael,Munna Singh,/artist/munna-singh,08:06,https://gaana.com//song/gawanva-kaahe-le-aael
+Dai Ke Ankhiyan Mein Kajra,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,05:13,https://gaana.com//song/dai-ke-ankhiyan-mein-kajra-1
+Hum To Kishan Bhaiya,Mahendra Kapoor,/artist/mahendra-kapoor,03:21,https://gaana.com//song/hum-to-kishan-bhaiya
+Jab Tak Suraj Chand Rahega,Usha Mangeshkar,/artist/usha-mangeshkar-2,07:14,https://gaana.com//song/jab-tak-suraj-chand-rahega
+Ee Batabe Ke Pori,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:12,https://gaana.com//song/ee-batabe-ke-pori
+Gahra Kuwan Rassi Chhoti Si,Minni Ketkiwali,/artist/minni-ketkiwali,03:11,https://gaana.com//song/gahra-kuwan-rassi-chhoti-si
+Sir Ke Sundoor Re Gavanva,Sharda Sinha,/artist/sharda-sinha,08:13,https://gaana.com//song/sir-ke-sundoor-re-gavanva
+Raaoor Nehiya Ba Anmol,Suresh Wadkar|Chandrani Mukherjee,/artist/suresh-wadkar|/artist/chandrani-mukherjee,05:00,https://gaana.com//song/raaoor-nehiya-ba-anmol
+Khayike Maghiya Pan,Dilraj Kaur,/artist/dilraj-kaur,06:47,https://gaana.com//song/khayike-maghiya-pan
+Jeth Mahinwa Ka Din Dupahriya,Alka Yagnik,/artist/alka-yagnik,04:36,https://gaana.com//song/jeth-mahinwa-ka-din-dupahriya
+Sharabi Humka Mila Re Balma,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,05:17,https://gaana.com//song/sharabi-humka-mila-re-balma-1
+Aai Gayile Duara Kahaar,Dilraj Kaur,/artist/dilraj-kaur,06:21,https://gaana.com//song/aai-gayile-duara-kahaar
+Jounpur Ki Masahuri,Ram Lautan Vishwakarma,/artist/ramlautan-vishwakarma-1,04:55,https://gaana.com//song/jounpur-ki-masahuri
+Chirai To Chirai Baheliya,Usha Mangeshkar|Udit Narayan,/artist/usha-mangeshkar-2|/artist/udit-narayan,03:02,https://gaana.com//song/chirai-to-chirai-baheliya
+Mare Marda Ke Mehriya,Munna Singh,/artist/munna-singh,06:47,https://gaana.com//song/mare-marda-ke-mehriya
+Rampur Se Chakku,Dilraj Kaur,/artist/dilraj-kaur,03:12,https://gaana.com//song/rampur-se-chakku
+Base Mora Tohre Pe Pran,Mohammed Rafi,/artist/mohammad-rafi,03:26,https://gaana.com//song/base-mora-tohre-pe-pran
+Pyar Kayili To Dar Kono,Anuradha Paudwal|Suresh Wadkar,/artist/anuradha-paudwal-2|/artist/suresh-wadkar,05:02,https://gaana.com//song/pyar-kayili-to-dar-kono
+Assi Chutki Nabbe Taal,Amit Kumar,/artist/amit-kumar,05:42,https://gaana.com//song/assi-chutki-nabbe-taal
+Teej Kajri Ka Dina Nagichan Ba,Urmila Srivastav,/artist/urmila-srivastav,06:45,https://gaana.com//song/teej-kajri-ka-dina-nagichan-ba
+Lagena No - No Meri Ho Matari Karade Gouna,MUNNI DEVI,/artist/munni-devi,06:03,https://gaana.com//song/lagena-no-no-meri-ho-matari-karade-gouna-1
+Indal Haran,DEENA NATH YADAV,/artist/deena-nath-yadav,30:35,https://gaana.com//song/indal-haran
+Umar Ladkiyan Na Chhedo Saiyan,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,03:36,https://gaana.com//song/umar-ladkiyan-na-chhedo-saiyan-1
+Aav I Neendar Rani - 2,Chandrani Mukherjee,/artist/chandrani-mukherjee,01:00,https://gaana.com//song/aav-i-neendar-rani-2
+Bola Bola Daibu Ki Jaibu Thana Mein,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,04:30,https://gaana.com//song/bola-bola-daibu-ki-jaibu-thana-mein-1
+Akeli Dar Laage Raat Mori Amma,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,05:02,https://gaana.com//song/akeli-dar-laage-raat-mori-amma
+Sochle Rahin Hum Pyar Na Karbai,Hemlata,/artist/hemlata,04:02,https://gaana.com//song/sochle-rahin-hum-pyar-na-karbai
+O Pinjre Ke Tote Bata,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:28,https://gaana.com//song/o-pinjre-ke-tote-bata-2
+Ban Jaion Piya Ki Jogan - Chaiti,Suman Kalyanpur,/artist/suman-kalyanpur,03:16,https://gaana.com//song/ban-jaion-piya-ki-jogan-chaiti
+Jundari Bachon Sugna Se,Razia Begum,/artist/razia-begum,03:31,https://gaana.com//song/jundari-bachon-sugna-se
+Kabhi Pyar Mila Na Yahan,Pankaj Mitra,/artist/pankaj-mitra,03:03,https://gaana.com//song/kabhi-pyar-mila-na-yahan
+Calcatta Se Bambey Tak Hum,Asha Bhosle,/artist/asha-bhosle-1,05:16,https://gaana.com//song/calcatta-se-bambey-tak-hum
+Manhu More Bhaiya,Shabbir Kumar,/artist/shabbir-kumar,09:36,https://gaana.com//song/manhu-more-bhaiya
+Maayi Re Maayi Meet Ro Ao Maayi,Usha Mangeshkar|Alka Yagnik,/artist/usha-mangeshkar-2|/artist/alka-yagnik,04:36,https://gaana.com//song/maayi-re-maayi-meet-ro-ao-maayi
+Rang Mein Hori Kaise Kheloori Sanwariya,MUNNI DEVI,/artist/munni-devi,05:14,https://gaana.com//song/rang-mein-hori-kaise-kheloori-sanwariya-1
+Jadwa Do Nagina Ungriya Maa,MUNNI DEVI,/artist/munni-devi,04:15,https://gaana.com//song/jadwa-do-nagina-ungriya-maa-1
+Aaj Chamkat Ba,Priti Sagar|Dilraj Kaur,/artist/priti-sagar|/artist/dilraj-kaur,03:24,https://gaana.com//song/aaj-chamkat-ba
+Milalba Sharabi Sainya,Munna Singh,/artist/munna-singh,07:01,https://gaana.com//song/milalba-sharabi-sainya
+Patna Se Vaidhya Bulaayi D,Sharda Sinha,/artist/sharda-sinha,04:00,https://gaana.com//song/patna-se-vaidhya-bulaayi-d
+Bahela Piritiya Ke Nadia,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:31,https://gaana.com//song/bahela-piritiya-ke-nadia
+Kisan Aur Kaptan,Shankar Yadav,/artist/shankar-yadav,06:51,https://gaana.com//song/kisan-aur-kaptan
+Mohe Pagal Banake Jawani,Asha Bhosle,/artist/asha-bhosle-1,03:16,https://gaana.com//song/mohe-pagal-banake-jawani
+Mujaffarpur Ke Lichiya,Chandrani Mukherjee,/artist/chandrani-mukherjee,04:00,https://gaana.com//song/mujaffarpur-ke-lichiya
+Parichan Challi Sasu Suhagin,Sharda Sinha,/artist/sharda-sinha,07:01,https://gaana.com//song/parichan-challi-sasu-suhagin
+Hamra Balma Beimaan Sautanava Ko Chaahe,FATMA|Saira Bano Faizabadi,/artist/fatma|/artist/saira-bano-faizabadi-20,04:36,https://gaana.com//song/hamra-balma-beimaan-sautanava-ko-chaahe
+Kabil Choudhary,VISHWANATH YADAV,/artist/vishwanath-yadav,28:43,https://gaana.com//song/kabil-choudhary
+Banwari Ho,Suman Kalyanpur,/artist/suman-kalyanpur,03:21,https://gaana.com//song/banwari-ho
+Dag Lagake Gharbar,Mahendra Kapoor,/artist/mahendra-kapoor,06:04,https://gaana.com//song/dag-lagake-gharbar
+Na Ja Chod Ke Tu Akele,Alka Yagnik,/artist/alka-yagnik,04:49,https://gaana.com//song/na-ja-chod-ke-tu-akele
+Main Hoon Kali Kachnar,Razia Begum,/artist/razia-begum,02:50,https://gaana.com//song/main-hoon-kali-kachnar
+Leke Julmi Jawani,Asha Bhosle,/artist/asha-bhosle-1,03:25,https://gaana.com//song/leke-julmi-jawani
+Jaunpur Kaand,HEERA LAL YADAV,/artist/heera-lal-yadav,31:10,https://gaana.com//song/jaunpur-kaand
+Naiya Bhanvar Mein Maiya,Ram Lautan Vishwakarma,/artist/ramlautan-vishwakarma-1,03:22,https://gaana.com//song/naiya-bhanvar-mein-maiya
+Chaar Dina Kai Zindagani,Manna Dey,/artist/manna-dey,03:24,https://gaana.com//song/chaar-dina-kai-zindagani
+Duh Din Mein,Asha Bhosle,/artist/asha-bhosle-1,05:45,https://gaana.com//song/duh-din-mein
+Darbhanga Rajni Kand,KASHI BULLU YADAV|Sathi,/artist/kashi-bullu-yadav|/artist/sathi,30:53,https://gaana.com//song/darbhanga-rajni-kand
+Rajai Vina Retiya,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:11,https://gaana.com//song/rajai-vina-retiya
+Hare Bhole Nath Shiv Shankar Ee Dukh Hamra Haraa,Usha Mangeshkar,/artist/usha-mangeshkar-2,08:19,https://gaana.com//song/hare-bhole-nath-shiv-shankar-ee-dukh-hamra-haraa
+Mahabharat Mein Bhim Dwara Bakasur Ka Vadh,Paras Nath Yadav|PARTI,/artist/paras-nath-yadav|/artist/parti,30:24,https://gaana.com//song/mahabharat-mein-bhim-dwara-bakasur-ka-vadh-1
+Tani Hokhe Da Biyah Chhaila Hamra Se,Shabbir Kumar|Chandrani Mukherjee,/artist/shabbir-kumar|/artist/chandrani-mukherjee,04:00,https://gaana.com//song/tani-hokhe-da-biyah-chhaila-hamra-se
+Nanad Fulgenwa Ke Bhari Hayi Pani,Dilraj Kaur,/artist/dilraj-kaur,07:14,https://gaana.com//song/nanad-fulgenwa-ke-bhari-hayi-pani
+Kaise Khele Jaibu Sawan Mein,Urmila Srivastav,/artist/urmila-srivastav,06:46,https://gaana.com//song/kaise-khele-jaibu-sawan-mein
+Prem Angin Mein Bahut Hum Jarli,Suresh Wadkar|Alka Yagnik,/artist/suresh-wadkar|/artist/alka-yagnik,05:29,https://gaana.com//song/prem-angin-mein-bahut-hum-jarli
+Urhanian He Bhouji,Shankar Yadav,/artist/shankar-yadav,03:01,https://gaana.com//song/urhanian-he-bhouji
+Hamaar Piyava Hamke Kora Uthave,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,05:55,https://gaana.com//song/hamaar-piyava-hamke-kora-uthave
+Sath Take Ki Tohri Naukri,Chandrani Mukherjee,/artist/chandrani-mukherjee,05:42,https://gaana.com//song/sath-take-ki-tohri-naukri
+Deke Daga,Usha Mangeshkar,/artist/usha-mangeshkar-2,02:49,https://gaana.com//song/deke-daga-1
+Andheriya Hai Raat Sajan Rahio Ki Jaiho,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,03:05,https://gaana.com//song/andheriya-hai-raat-sajan-rahio-ki-jaiho-1
+Aise Chale Purva,Asha Bhosle,/artist/asha-bhosle-1,02:55,https://gaana.com//song/aise-chale-purva
+Sajana Gaile Pardes (Vishad),YASHPAL SINGH|Kavita Krishnamurthy,/artist/yashpal-singh|/artist/kavita-subramaniam,05:42,https://gaana.com//song/sajana-gaile-pardes-vishad
+Dekh Budhu Ke Man Mein Priti Jaagal,Alka Yagnik|Udit Narayan,/artist/alka-yagnik|/artist/udit-narayan,05:02,https://gaana.com//song/dekh-budhu-ke-man-mein-priti-jaagal
+Haar Naulakha De Ke,Dilraj Kaur,/artist/dilraj-kaur,05:16,https://gaana.com//song/haar-naulakha-de-ke
+Na Tu Kuchh Bola Na Ham Kuchh Boli,Alka Yagnik|Suresh Wadkar,/artist/alka-yagnik|/artist/suresh-wadkar,05:09,https://gaana.com//song/na-tu-kuchh-bola-na-ham-kuchh-boli
+Kaam Nahi Kaaj,Asha Bhosle,/artist/asha-bhosle-1,03:03,https://gaana.com//song/kaam-nahi-kaaj
+Kal Supne Mein Jahmi,Dilraj Kaur|Saathi,/artist/dilraj-kaur|/artist/saathi,06:34,https://gaana.com//song/kal-supne-mein-jahmi
+Nimiya Ke Daadh Maiya,CHANDRAMANI MUKHERJEE,/artist/chandramani-mukherjee,03:40,https://gaana.com//song/nimiya-ke-daadh-maiya
+Utha Gori Bol Gayo Mandir Mein Koaa,MUNNI DEVI,/artist/munni-devi,04:03,https://gaana.com//song/utha-gori-bol-gayo-mandir-mein-koaa-1
+O Gujariya,SAYID KHAN,/artist/sayid-khan,04:36,https://gaana.com//song/o-gujariya
+Ankhiyan Men Gori Anjile Hai Gulal,Asha Bhosle|Mahendra Kapoor,/artist/asha-bhosle-1|/artist/mahendra-kapoor,04:25,https://gaana.com//song/ankhiyan-men-gori-anjile-hai-gulal
+Souteli Maa,Ram Lautan Vishwakarma,/artist/ramlautan-vishwakarma-1,16:09,https://gaana.com//song/souteli-maa
+Chadli Jawani Udela Nayan Par,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,05:34,https://gaana.com//song/chadli-jawani-udela-nayan-par-1
+Khul Ke Pyar Kari Ja,Anuradha Paudwal|Suresh Wadkar,/artist/anuradha-paudwal-2|/artist/suresh-wadkar,05:29,https://gaana.com//song/khul-ke-pyar-kari-ja
+Hamre Hathwa Mein,Mahendra Kapoor,/artist/mahendra-kapoor,03:18,https://gaana.com//song/hamare-hathwe-main
+Padal Daka Chane Ke Khet Mein,Asha Bhosle,/artist/asha-bhosle-1,05:09,https://gaana.com//song/padal-daka-chane-ke-khet-mein
+Baanh Ke Raakhab Rasriya Se,Alka Yagnik,/artist/alka-yagnik,04:49,https://gaana.com//song/baanh-ke-raakhab-rasriya-se
+Devi Maiyya,Usha Mangeshkar,/artist/usha-mangeshkar-2,04:00,https://gaana.com//song/devi-maiyya
+Hathiya Hathiya Sor Kayile,CHANDRAMANI MUKHERJEE,/artist/chandramani-mukherjee,03:31,https://gaana.com//song/hathiya-hathiya-sor-kayile
+Rashik Bhramare,Asha Bhosle,/artist/asha-bhosle-1,04:24,https://gaana.com//song/rashik-bhramare-2
+Yashoda Tohare Lala Se Mai Haari,Urmila Srivastav,/artist/urmila-srivastav,05:31,https://gaana.com//song/yashoda-tohare-lala-se-mai-haari
+Ganga Jaisan Bhauji Hamaar,CHANDRAMANI MUKHERJEE|Udit Narayan,/artist/chandramani-mukherjee|/artist/udit-narayan,05:29,https://gaana.com//song/ganga-jaisan-bhauji-hamaar
+Rasgulla Se Marke,Baleswar,/artist/baleswar-16,06:05,https://gaana.com//song/rasgulla-se-marke
+Aaja Aaja Raja Kareja Mein,Anuradha Paudwal|Suresh Wadkar,/artist/anuradha-paudwal-2|/artist/suresh-wadkar,03:00,https://gaana.com//song/aaja-aaja-raja-kareja-mein
+Manawa Na Laage Dekhi Saawari Surtiya,Anupama Deshpande|KISHORE DAYARAM,/artist/anupama-deshpande|/artist/kishore-dayaram,05:42,https://gaana.com//song/manawa-na-laage-dekhi-saawari-surtiya
+Baeran Ho Gayi Jhuleniya,MUNNI DEVI,/artist/munni-devi,03:57,https://gaana.com//song/baeran-ho-gayi-jhuleniya-1
+Bhauji Jaise Bhaiya Mane,Geeta Dutt,/artist/geeta-dutt,03:28,https://gaana.com//song/bhauji-jaise-bhaiya-mane
+Jaane Hame Hai Babina,MUNNI DEVI,/artist/munni-devi,05:42,https://gaana.com//song/jaane-hame-hai-babina-1
+Haay Re Jiyara(Vivah Geet),Sharda Sinha,/artist/sharda-sinha,04:36,https://gaana.com//song/haay-re-jiyaravivah-geet
+Chaahe Hamen Maaro Katari,Alka Yagnik,/artist/alka-yagnik,05:02,https://gaana.com//song/chaahe-hamen-maaro-katari
+Bagia Mein Amba,Asha Bhosle|Suresh Wadkar,/artist/asha-bhosle-1|/artist/suresh-wadkar,03:12,https://gaana.com//song/bagia-mein-amba
+Piya Rakhih Senurawa Ke Laaj,Suresh Wadkar|CHANDRAMANI MUKHERJEE,/artist/suresh-wadkar|/artist/chandramani-mukherjee,04:05,https://gaana.com//song/piya-rakhih-senurawa-ke-laaj
+Aisan Basuria Bajao,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:11,https://gaana.com//song/aisan-basuria-bajao
+Kitna Gayile Jail Khana,Dilraj Kaur,/artist/dilraj-kaur,06:21,https://gaana.com//song/kitna-gayile-jail-khana
+Aayal Tufan Mail Gadiya,Anuradha Paudwal|Dilraj Kaur|Sathi,/artist/anuradha-paudwal-2|/artist/dilraj-kaur|/artist/sathi,06:54,https://gaana.com//song/aayal-tufan-mail-gadiya
+Saab Dukh Sahli,Usha Mangeshkar,/artist/usha-mangeshkar-2,05:55,https://gaana.com//song/saab-dukh-sahli
+Nimiya Tale Doli Rakh De,Sharda Sinha,/artist/sharda-sinha,08:43,https://gaana.com//song/nimiya-tale-doli-rakh-de
+Badi Maja Aave Chane Ke Khet Mein,AMARJEET KAVI|Party,/artist/amarjeet-kavi|/artist/party,07:01,https://gaana.com//song/badi-maja-aave-chane-ke-khet-mein
+Ae Sajan Hum Mudri,Anuradha Paudwal|Mohammad Aziz,/artist/anuradha-paudwal-2|/artist/mohammad-aziz,05:42,https://gaana.com//song/ae-sajan-hum-mudri
+Ae Doctor Babu,Dilraj Kaur|Mohammad Aziz,/artist/dilraj-kaur|/artist/mohammad-aziz,05:02,https://gaana.com//song/ae-doctor-babu
+Banaras Ka Panda,Baleswar,/artist/baleswar-16,06:02,https://gaana.com//song/banaras-ka-panda
+Kajarwa Ho Raja,Munna Singh,/artist/munna-singh,08:06,https://gaana.com//song/kajarwa-ho-raja
+Bala Jobna Hai Hai,Suresh Wadkar|Dilraj Kaur,/artist/suresh-wadkar|/artist/dilraj-kaur,05:55,https://gaana.com//song/bala-jobna-hai-hai
+Dekh Dehiyan Phulaail,Dilraj Kaur|Suresh Wadkar,/artist/dilraj-kaur|/artist/suresh-wadkar,02:54,https://gaana.com//song/dekh-dehiyan-phulaail
+Baba A Baba,Chandrani Mukherjee,/artist/chandrani-mukherjee,04:00,https://gaana.com//song/baba-a-baba
+Lahre Chunariya Dhani,YASHPAL SINGH|Kavita Krishnamurthy,/artist/yashpal-singh|/artist/kavita-subramaniam,06:08,https://gaana.com//song/lahre-chunariya-dhani
+Vahi Ek Insaa Insaan Hoga,Ram Lautan Vishwakarma,/artist/ramlautan-vishwakarma-1,06:22,https://gaana.com//song/vahi-ek-insaa-insaan-hoga
+Maathe Maati Ke Tika,Mahendra Kapoor|Chandrani Mukherjee,/artist/mahendra-kapoor|/artist/chandrani-mukherjee,06:34,https://gaana.com//song/maathe-maati-ke-tika
+Kalkatwa Se Balmuwa Mora Aavelna,KASHI BULLU YADAV,/artist/kashi-bullu-yadav,10:00,https://gaana.com//song/kalkatwa-se-balmuwa-mora-aavelna
+Gor Gor Dahiyanse,Talat Mahmood|Usha Mangeshkar,/artist/talat-mahmood|/artist/usha-mangeshkar-2,03:20,https://gaana.com//song/gor-gor-dahiyanse
+Ankhiyan Se Ankhiyan,Suresh Wadkar|Udit Narayan,/artist/suresh-wadkar|/artist/udit-narayan,03:18,https://gaana.com//song/ankhiyan-se-ankhiyan
+Sati Sukanya,Mahendra Kapoor|Usha Mangeshkar,/artist/mahendra-kapoor|/artist/usha-mangeshkar-2,04:08,https://gaana.com//song/sati-sukanya-2
+Kayise Khele Jaayi,CHANDRAMANI MUKHERJEE,/artist/chandramani-mukherjee,03:48,https://gaana.com//song/kayise-khele-jaayi
+Jab Ghadiya Bajave Sadhe Chaar,Suresh Wadkar|Alka Yagnik,/artist/suresh-wadkar|/artist/alka-yagnik,05:02,https://gaana.com//song/jab-ghadiya-bajave-sadhe-chaar
+Chhodi De Police Ke Noukariya,Munna Singh,/artist/munna-singh,08:19,https://gaana.com//song/chhodi-de-police-ke-noukariya
+Chahe Hille Dharti,Mahendra Kapoor,/artist/mahendra-kapoor,02:41,https://gaana.com//song/chahe-hille-dharti
+Umiriya Bhayile(Nautanki),Dilraj Kaur,/artist/dilraj-kaur,05:16,https://gaana.com//song/umiriya-bhayilenautanki
+Baoor Ho Gaye Lee Gori,Asha Bhosle|Manna Dey,/artist/asha-bhosle-1|/artist/manna-dey,06:36,https://gaana.com//song/baoor-ho-gaye-lee-gori
+Sabki God Sanwarnewali,Usha Mangeshkar,/artist/usha-mangeshkar-2,04:35,https://gaana.com//song/sabki-god-sanwarnewali-2
+Pitari Ke Nathiya Pe Itna Guman,Suman Kalyanpur,/artist/suman-kalyanpur,03:32,https://gaana.com//song/pitari-ke-nathiya-pe-itna-guman
+Bhaile Sagunwa Ki Abke,Aparna Mayekar|Dilraj Kaur|Suresh Wadkar|Udit Narayan,/artist/aparna-mayekar|/artist/dilraj-kaur|/artist/suresh-wadkar|/artist/udit-narayan,06:02,https://gaana.com//song/bhaile-sagunwa-ki-abke
+Taadi Khanwa Mein Taadiya Chuat Hai,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,04:36,https://gaana.com//song/taadi-khanwa-mein-taadiya-chuat-hai-1
+Adhi Adhi Ratiya,Asha Bhosle,/artist/asha-bhosle-1,03:11,https://gaana.com//song/adhi-adhi-ratiya
+A Vakeel Babu,Asha Bhosle|Mohammad Aziz,/artist/asha-bhosle-1|/artist/mohammad-aziz,06:30,https://gaana.com//song/a-vakeel-babu
+Ratiya Sansana Hoye More Raja,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,05:11,https://gaana.com//song/ratiya-sansana-hoye-more-raja-1
+Ladika Ho Bis Baris Ka,YASHPAL SINGH|Kavita Krishnamurthy,/artist/yashpal-singh|/artist/kavita-subramaniam,05:02,https://gaana.com//song/ladika-ho-bis-baris-ka
+Ae Jameen Gagan Ke Malik,Dilraj Kaur,/artist/dilraj-kaur,05:29,https://gaana.com//song/ae-jameen-gagan-ke-malik
+Chor Chor Chor Chor - Chori Kare Chor,Alka Yagnik|Udit Narayan,/artist/alka-yagnik|/artist/udit-narayan,05:00,https://gaana.com//song/chor-chor-chor-chor-chori-kare-chor
+Dildaar Dagabaaj Raja Wahi Bagiya Ma,Yasmin Faizabadi,/artist/yasmin-faizabadi,05:16,https://gaana.com//song/dildaar-dagabaaj-raja-wahi-bagiya-ma
+Debey Gahanaa,Mahendra Kapoor|Vani Jairam,/artist/mahendra-kapoor|/artist/vani-jayaram,03:23,https://gaana.com//song/debey-gahanaa
+O Baanki Dhobiniya,Anuradha Paudwal|Kavita Krishnamurthy,/artist/anuradha-paudwal-2|/artist/kavita-subramaniam,07:01,https://gaana.com//song/o-baanki-dhobiniya
+Tora Se Rajina Re Naginiyaan,Shabbir Kumar,/artist/shabbir-kumar,05:02,https://gaana.com//song/tora-se-rajina-re-naginiyaan
+Chali Aawa Sugmona Nadiya Ke Paar,Chandrani Mukherjee|BRIJ KISHOR,/artist/chandrani-mukherjee|/artist/brij-kishor,06:47,https://gaana.com//song/chali-aawa-sugmona-nadiya-ke-paar
+Jeeora Khol Ke Mang,Alka Yagnik,/artist/alka-yagnik,05:04,https://gaana.com//song/jeeora-khol-ke-mang
+Launde Ghoomat Hai Laundiya Ke Saath,Yasmin Faizabadi,/artist/yasmin-faizabadi,05:14,https://gaana.com//song/launde-ghoomat-hai-laundiya-ke-saath
+Rate Mor Balmua,Dilraj Kaur|Chandrani Mukherjee,/artist/dilraj-kaur|/artist/chandrani-mukherjee,06:08,https://gaana.com//song/rate-mor-balmua
+Mahabharat Mein Krishan Barbreek Sanwaad,Paras Nath Yadav|PARTI,/artist/paras-nath-yadav|/artist/parti,15:04,https://gaana.com//song/mahabharat-mein-krishan-barbreek-sanwaad-1
+Maai Na Rahit,Usha Mangeshkar,/artist/usha-mangeshkar-2,06:08,https://gaana.com//song/maai-na-rahit
+Ugle Suraj Mora Angana,Suman Kalyanpur,/artist/suman-kalyanpur,03:22,https://gaana.com//song/ugle-suraj-mora-angana
+Kahal Je Hamra Ke Yar,Suresh Wadkar|Shabbir Kumar,/artist/suresh-wadkar|/artist/shabbir-kumar,04:36,https://gaana.com//song/kahal-je-hamra-ke-yar
+Odhaniya Humke Bana La,Dilraj Kaur|Mohammad Aziz,/artist/dilraj-kaur|/artist/mohammad-aziz,05:42,https://gaana.com//song/odhaniya-humke-bana-la
+Kavne Karanwa Bhauji Gharba Mein Bolvalu,Baleshwar|Monika|Sathi,/artist/baleshwar|/artist/monika|/artist/sathi,07:00,https://gaana.com//song/kavne-karanwa-bhauji-gharba-mein-bolvalu
+Jab Se Shyam Gaye Pardesh,Urmila Srivastav,/artist/urmila-srivastav,04:46,https://gaana.com//song/jab-se-shyam-gaye-pardesh
+Sun Le Arajiya,Usha Mangeshkar,/artist/usha-mangeshkar-2,05:02,https://gaana.com//song/sun-le-arajiya
+Kal Thi Jo Khali,Alka Yagnik|Badari,/artist/alka-yagnik|/artist/badari,06:26,https://gaana.com//song/kal-thi-jo-khali
+Are Rama Rimjhim Barsela,Manna Dey,/artist/manna-dey,03:29,https://gaana.com//song/are-rama-rimjhim-barsela
+Ego Chumma Tu De Da Udhaar,Dilraj Kaur|Qayum Ahmed,/artist/dilraj-kaur|/artist/qayum-ahmed,05:29,https://gaana.com//song/ego-chumma-tu-de-da-udhaar
+Poochho Mati Raja,Asha Bhosle|Usha Mangeshkar,/artist/asha-bhosle-1|/artist/usha-mangeshkar-2,05:38,https://gaana.com//song/poochho-mati-raja
+Mahadev Ji Bhangiya Ke Bal Par,Suresh Wadkar,/artist/suresh-wadkar,05:02,https://gaana.com//song/mahadev-ji-bhangiya-ke-bal-par
+Jyotishi Mora Jog To Dekho Re,Asha Bhosle,/artist/asha-bhosle-1,04:36,https://gaana.com//song/jyotishi-mora-jog-to-dekho-re
+Sui Ke Chheda Mein Hathi,HEERA LAL YADAV,/artist/heera-lal-yadav,31:10,https://gaana.com//song/sui-ke-chheda-mein-hathi
+Krishan Aur Arjun Sangharsh,KASHI BULLU YADAV,/artist/kashi-bullu-yadav,28:00,https://gaana.com//song/krishan-aur-arjun-sangharsh
+Madhur Bhayal Dinwa,Manna Dey|Anand kumar C.,/artist/manna-dey|/artist/anandkumar-c,03:26,https://gaana.com//song/madhur-bhayal-dinwa
+Boot Polish-Boot Polish,Usha Mangeshkar,/artist/usha-mangeshkar-2,05:02,https://gaana.com//song/boot-polish-boot-polish-1
+Nathuniye Pe Goli Maare,Dilraj Kaur,/artist/dilraj-kaur,05:55,https://gaana.com//song/nathuniye-pe-goli-maare
+Sainya Tohre Karan,Mahendra Kapoor,/artist/mahendra-kapoor,02:52,https://gaana.com//song/sainya-tohre-karan
+Badi Badnami Bhali,Mahendra Kapoor,/artist/mahendra-kapoor,03:08,https://gaana.com//song/badi-badnami-bhali
+Ae Hamri Bhauji,Alka Yagnik|Kavita Krishnamurthy,/artist/alka-yagnik|/artist/kavita-subramaniam,05:23,https://gaana.com//song/ae-hamri-bhauji
+Are Rama Mile Na Jabania,Asha Bhosle,/artist/asha-bhosle-1,05:55,https://gaana.com//song/are-rama-mile-na-jabania
+Maida Ke Loyiaa Ayisan,CHANDRAMANI MUKHERJEE,/artist/chandramani-mukherjee,02:29,https://gaana.com//song/maida-ke-loyiaa-ayisan
+Ram Jane Ka Likhal Baa,Anuradha Paudwal,/artist/anuradha-paudwal-2,06:36,https://gaana.com//song/ram-jane-ka-likhal-baa
+Bol Bol Babua Ji Bol,Anuradha Paudwal,/artist/anuradha-paudwal-2,06:47,https://gaana.com//song/bol-bol-babua-ji-bol
+Upar Baithal Ek,Mahendra Kapoor,/artist/mahendra-kapoor,07:48,https://gaana.com//song/upar-baithal-ek
+Mori Aarji Suni Maharaj Ho,Chandrani Mukherjee,/artist/chandrani-mukherjee,03:25,https://gaana.com//song/mori-aarji-suni-maharaj-ho
+Mangiya Ke Senoor Jaral,CHANDRAMANI MUKHERJEE,/artist/chandramani-mukherjee,05:29,https://gaana.com//song/mangiya-ke-senoor-jaral
+Anguri Mein Das Le Ba Naginiyan,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,04:09,https://gaana.com//song/anguri-mein-das-le-ba-naginiyan
+Balam Be Sabra Khol Khol Dekhe,Razia Begum,/artist/razia-begum,03:17,https://gaana.com//song/balam-be-sabra-khol-khol-dekhe
+Kali Kali Mahakali,Aarti Mukherji,/artist/aarti-mukherji,07:01,https://gaana.com//song/kali-kali-mahakali
+Khelat Mein Rehni(Vidaai Geet),Sharda Sinha,/artist/sharda-sinha,07:27,https://gaana.com//song/khelat-mein-rehnividaai-geet
+Mora Rangeela Sajanwa,Asha Bhosle,/artist/asha-bhosle-1,09:35,https://gaana.com//song/mora-rangeela-sajanwa
+Tora Lekha Ke Do Snahiya,CHANDRAMANI MUKHERJEE,/artist/chandramani-mukherjee,05:29,https://gaana.com//song/tora-lekha-ke-do-snahiya
+Kaahe Sor Bhayil,Suresh Wadkar|Alka Yagnik,/artist/suresh-wadkar|/artist/alka-yagnik,05:16,https://gaana.com//song/kaahe-sor-bhayil
+Barhein Baras Mein Raja Maange Gavanwa,Yasmin Faizabadi,/artist/yasmin-faizabadi,05:29,https://gaana.com//song/barhein-baras-mein-raja-maange-gavanwa
+Nehi Chahiya,Baleswar,/artist/baleswar-16,06:00,https://gaana.com//song/nehi-chahiya
+Guiyan Kaise Bharhun Chhot Ba,Urmila Srivastav,/artist/urmila-srivastav,06:53,https://gaana.com//song/guiyan-kaise-bharhun-chhot-ba
+Bichhua Baaje Tekuliya Hanse,Asha Bhosle|Chorus,/artist/asha-bhosle-1|/artist/chorus,03:22,https://gaana.com//song/bichhua-baaje-tekuliya-hanse
+Chambal Ki Sherni,DEENA NATH YADAV,/artist/deena-nath-yadav-1,29:19,https://gaana.com//song/chambal-ki-sherni
+Daag Lagake,Mahendra Kapoor,/artist/mahendra-kapoor,06:07,https://gaana.com//song/daag-lagake
+Aabat Naahi Chain,Manna Dey|Anuradha Paudwal,/artist/manna-dey|/artist/anuradha-paudwal-2,03:44,https://gaana.com//song/aabat-naahi-chain
+Ja Re Bahiniya Ban Ke Dulhiniyan,Hariharan,/artist/hariharan,06:34,https://gaana.com//song/ja-re-bahiniya-ban-ke-dulhiniyan
+E Gaadi Hai Sarkaari Balam Tani Dheere Chalai Ho,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,04:36,https://gaana.com//song/e-gaadi-hai-sarkaari-balam-tani-dheere-chalai-ho
+Bina Bagiya Ke Bhanwra,Baleswar,/artist/baleswar-16,05:16,https://gaana.com//song/bina-bagiya-ke-bhanwra
+Chhote Chhote Gauanwa Hamre,Manna Dey|Chorus,/artist/manna-dey|/artist/chorus,06:37,https://gaana.com//song/chhote-chhote-gauanwa-hamre
+Kaili Bharosa Tohar,Asha Bhosle|Suresh Wadkar,/artist/asha-bhosle-1|/artist/suresh-wadkar,03:05,https://gaana.com//song/kaili-bharosa-tohar
+Saiya Bina Ghar Suna,Shashi Gupta,/artist/shashi-gupta,05:02,https://gaana.com//song/saiya-bina-ghar-suna
+Pooja Karbo Re-Tohare Charanwa Ke,Alka Yagnik|Dilraj Kaur,/artist/alka-yagnik|/artist/dilraj-kaur,06:08,https://gaana.com//song/pooja-karbo-re-tohare-charanwa-ke
+Jab Barase Badrwa,Alka Yagnik|Udit Narayan,/artist/alka-yagnik|/artist/udit-narayan,05:29,https://gaana.com//song/jab-barase-badrwa
+Channa Gehu Ke Khetba,Aarti Mukherji|Suresh Wadkar,/artist/aarti-mukherji|/artist/suresh-wadkar,03:33,https://gaana.com//song/channa-gehu-ke-khetba
+Dum Dadaka,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:26,https://gaana.com//song/dum-dadaka
+Suraj Ke Jaise Chamke Hamar,Shailender Singh|Alka Yagnik,/artist/shailender-singh|/artist/alka-yagnik,05:02,https://gaana.com//song/suraj-ke-jaise-chamke-hamar
+Hare Rama Rimjhim(Kajri),Mahendra Kapoor|Dilraj Kaur|BABY PREETY,/artist/mahendra-kapoor|/artist/dilraj-kaur|/artist/baby-preety,07:27,https://gaana.com//song/hare-rama-rimjhimkajri
+Purab Pachhimwa Se,Kamal Barot|Usha Mangeshkar,/artist/kamal-barot|/artist/usha-mangeshkar-2,06:38,https://gaana.com//song/purab-pachhimwa-se
+Laal Othwa Se Barse Lalaiya,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,04:34,https://gaana.com//song/laal-othwa-se-barse-lalaiya-1
+Dhanki Rahibai Putaria Ke Nahi,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:33,https://gaana.com//song/dhanki-rahibai-putaria-ke-nahi
+Charmar Bole Charpaai Ho,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,06:07,https://gaana.com//song/charmar-bole-charpaai-ho-1
+Aansu Se Bharal Ankhiya,SUDHIR KUMAR,/artist/sudhir-kumar,05:02,https://gaana.com//song/aansu-se-bharal-ankhiya
+Gori Ho Ya Kali Dilwali Chahiye,Baleshwar|Shanta Singh|Sathi,/artist/baleshwar|/artist/shanta-singh|/artist/sathi,06:51,https://gaana.com//song/gori-ho-ya-kali-dilwali-chahiye
+Naginiya Aail Ba,Alka Yagnik|Anuradha Paudwal,/artist/alka-yagnik|/artist/anuradha-paudwal-2,06:00,https://gaana.com//song/naginiya-aail-ba
+Hari Hari Aayal Maas Sawanwa,Urmila Srivastav,/artist/urmila-srivastav,07:55,https://gaana.com//song/hari-hari-aayal-maas-sawanwa
+Samdhi Laye Hain Baraat,Jaspal Singh,/artist/jaspal-singh,04:04,https://gaana.com//song/samdhi-laye-hain-baraat
+Bonde Bonde Na,Chandrani Mukherjee,/artist/chandrani-mukherjee,05:00,https://gaana.com//song/bonde-bonde-na
+Duara Laagal Bariyatiya,Kavita Krishnamurthy|Chandrani|Sathi,/artist/kavita-subramaniam|/artist/chandrani|/artist/sathi,02:51,https://gaana.com//song/duara-laagal-bariyatiya
+Gaye Hairai Guiyan Humri Jhulaniya,Urmila Srivastav,/artist/urmila-srivastav,05:32,https://gaana.com//song/gaye-hairai-guiyan-humri-jhulaniya
+Allah Ke Hajir Jaan Ke,Suresh Wadkar|Alka Yagnik,/artist/suresh-wadkar|/artist/alka-yagnik,05:50,https://gaana.com//song/allah-ke-hajir-jaan-ke
+Ab To Chala Sambhal Ke Chacha,Mahendra Kapoor|Manna Dey,/artist/mahendra-kapoor|/artist/manna-dey,03:17,https://gaana.com//song/ab-to-chala-sambhal-ke-chacha
+Piya Ka Ghar Pyara Laage Ho,Meenakshi Gupta,/artist/meenakshi-gupta,09:37,https://gaana.com//song/piya-ka-ghar-pyara-laage-ho
+Patli Kamariya,Alka Yagnik|Hariharan|Shailender Singh|Chorus,/artist/alka-yagnik|/artist/hariharan|/artist/shailender-singh|/artist/chorus,04:15,https://gaana.com//song/patli-kamariya-3
+Chham Se Bole Jhumka,Mohammad Aziz,/artist/mohammad-aziz,04:08,https://gaana.com//song/chham-se-bole-jhumka
+Bikaee A Babu B A  Pass Ghoda,Baleshwar|Sathi,/artist/baleshwar|/artist/sathi,05:05,https://gaana.com//song/bikaee-a-babu-b-a-pass-ghoda
+Kesariya Banna Baago Mein,Kumud Sahay,/artist/kumud-sahay,05:01,https://gaana.com//song/kesariya-banna-baago-mein
+Dulhaniya Kee Doli,Mohammad Aziz,/artist/mohammad-aziz,07:53,https://gaana.com//song/dulhaniya-kee-doli
+Hum Aaili Sarniya Tohar,Anuradha Paudwal|Sathi,/artist/anuradha-paudwal-2|/artist/sathi,07:14,https://gaana.com//song/hum-aaili-sarniya-tohar
+Chhote Chedva Mein Daal Ke,RAM MURAT,/artist/ram-murat,07:27,https://gaana.com//song/chhote-chedva-mein-daal-ke
+Naahi Bisri Suratia,Asha Bhosle,/artist/asha-bhosle-1,05:55,https://gaana.com//song/naahi-bisri-suratia
+Rukee Na Jawaniya Ke Gadi,Alka Yagnik|Sathi,/artist/alka-yagnik|/artist/sathi,05:00,https://gaana.com//song/rukee-na-jawaniya-ke-gadi
+Teeje Lachke Kamariya Re Sajani,Baleshwar|Sathi,/artist/baleshwar|/artist/sathi,05:47,https://gaana.com//song/teeje-lachke-kamariya-re-sajani
+Suna Hai Mohabbat,Mohammad Aziz|Chandrani Mukherjee,/artist/mohammad-aziz|/artist/chandrani-mukherjee,04:57,https://gaana.com//song/suna-hai-mohabbat
+Lakhon Baris Se,Mahendra Kapoor,/artist/mahendra-kapoor,07:42,https://gaana.com//song/lakhon-baris-se
+Bhayao Sugna Parayo,Shobha Gurtu,/artist/shobha-gurtu,06:08,https://gaana.com//song/bhayao-sugna-parayo
+Tohre Naina Me Khoi Gaile,Geeta Dutt|Manna Dey,/artist/geeta-dutt|/artist/manna-dey,03:02,https://gaana.com//song/tohre-naina-me-khoi-gaile
+Rava Palkan Ke Parda,Suresh Wadkar|Alka Yagnik,/artist/suresh-wadkar|/artist/alka-yagnik,06:08,https://gaana.com//song/rava-palkan-ke-parda
+Jab Se Botaliya Ke Aadat Bhaeel,Shabbir Kumar,/artist/shabbir-kumar,05:16,https://gaana.com//song/jab-se-botaliya-ke-aadat-bhaeel
+Dard Wala Nimbua Lete Aana,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,04:09,https://gaana.com//song/dard-wala-nimbua-lete-aana-1
+Saiyan Bali Umriya Mein Laaye Gauna,Saira Bano Faizabadi,/artist/saira-bano-faizabadi-20,05:42,https://gaana.com//song/saiyan-bali-umriya-mein-laaye-gauna
+Shree Krishan Leela -Raas Leela,Bechan Ram Rajbhar|Sathi,/artist/bechan-ram-rajbhar|/artist/sathi,28:00,https://gaana.com//song/shree-krishan-leela-raas-leela
+Maathe Maati Ke Tika (Sad),Chandrani Mukherjee|Mohammad Aziz,/artist/chandrani-mukherjee|/artist/mohammad-aziz,02:20,https://gaana.com//song/maathe-maati-ke-tika-sad
+Jehiya Se Ban Gayel,Asha Bhosle,/artist/asha-bhosle-1,06:12,https://gaana.com//song/jehiya-se-ban-gayel
+Jobnava Bada Jor Maarela,FATMA|Saira Bano Faizabadi,/artist/fatma|/artist/saira-bano-faizabadi-20,05:42,https://gaana.com//song/jobnava-bada-jor-maarela
+Lach Lach Lachke Mori Kamariya,Alka Yagnik,/artist/alka-yagnik,05:42,https://gaana.com//song/lach-lach-lachke-mori-kamariya
+Rang Barse Holi Ke Rang,KYUM AHMED,/artist/kyum-ahmed,05:37,https://gaana.com//song/rang-barse-holi-ke-rang-1
+O Gori Torimori,Manna Dey,/artist/manna-dey,02:57,https://gaana.com//song/o-gori-torimori
+Hamar Sajna Ki,Asha Bhosle,/artist/asha-bhosle-1,03:23,https://gaana.com//song/hamar-sajna-ki
+Chahe Aag Laago,Suresh Wadkar|Alka Yagnik,/artist/suresh-wadkar|/artist/alka-yagnik,05:00,https://gaana.com//song/chahe-aag-laago
+Pahila Pahal Saiyan Lavlai Gavanwa,Yasmin Faizabadi,/artist/yasmin-faizabadi,05:58,https://gaana.com//song/pahila-pahal-saiyan-lavlai-gavanwa
+Prabhuji Binti,Mahendra Kapoor,/artist/mahendra-kapoor,03:53,https://gaana.com//song/prabhuji-binti-1
+Naugad Kaand,HEERA LAL YADAV,/artist/heera-lal-yadav,30:09,https://gaana.com//song/naugad-kaand-1
+Hamse Tu Bachke Kahan Jaiba,Alka Yagnik,/artist/alka-yagnik,05:00,https://gaana.com//song/hamse-tu-bachke-kahan-jaiba
+Laila Majnu Part - I,Kamlesh Mishra|Niamat Ali|Azim|Mushtaq Ali|Ramlakhan,/artist/kamlesh-mishra|/artist/niamat-ali|/artist/azim|/artist/mushtaq-ali|/artist/ramlakhan,06:48,https://gaana.com//song/laila-majnu-part-i
+Rim Jhim Barse,Asha Bhosle|Preet Sagar,/artist/asha-bhosle-1|/artist/preet-sagar,05:48,https://gaana.com//song/rim-jhim-barse
+Hum Chanda Tu Chakor,Anuradha Paudwal|Udit Narayan,/artist/anuradha-paudwal-2|/artist/udit-narayan,04:00,https://gaana.com//song/hum-chanda-tu-chakor
+Mathwa Pe Dhaile Chhitaniya Ho,Shabbir Kumar|Chandrani Mukherjee,/artist/shabbir-kumar|/artist/chandrani-mukherjee,04:49,https://gaana.com//song/mathwa-pe-dhaile-chhitaniya-ho
+Dil Debe Na Hum,Asha Bhosle,/artist/asha-bhosle-1,05:16,https://gaana.com//song/dil-debe-na-hum
+Mor Bagiya Gujar Gaile Amava,Suman Kalyanpur,/artist/suman-kalyanpur,03:27,https://gaana.com//song/mor-bagiya-gujar-gaile-amava
+Bhasurwa(Sanskar Geet),Sharda Sinha,/artist/sharda-sinha,02:00,https://gaana.com//song/bhasurwasanskar-geet
+Babu Padhe Jaala,Baleshwar|Shanta Singh|Sathi,/artist/baleshwar|/artist/shanta-singh|/artist/sathi,07:33,https://gaana.com//song/babu-padhe-jaala
+Hairan Mora Kangna Raat Jhakajhorima,Yasmin Faizabadi,/artist/yasmin-faizabadi,03:57,https://gaana.com//song/hairan-mora-kangna-raat-jhakajhorima
+Jhuru Jhuru Bahele Pavanva,Anuradha Paudwal,/artist/anuradha-paudwal-2,06:08,https://gaana.com//song/jhuru-jhuru-bahele-pavanva
+Kehu Se Kam Nahin Tohari Dulhiniya,Asha Bhosle,/artist/asha-bhosle-1,04:23,https://gaana.com//song/kehu-se-kam-nahin-tohari-dulhiniya
+Ketna Janamwa Se,Suresh Wadkar|Usha Mangeshkar,/artist/suresh-wadkar|/artist/usha-mangeshkar-2,03:09,https://gaana.com//song/ketna-janamwa-se
+A Saperau,Alka Yagnik,/artist/alka-yagnik,05:00,https://gaana.com//song/a-saperau
+Aayle Barati Ho,RAM LAUTAN VISHVAKARMA,/artist/ram-lautan-vishvakarma,08:00,https://gaana.com//song/aayle-barati-ho
+Ek Ta Dehiya Sukwar,Alka Yagnik|Hariharan|Chorus,/artist/alka-yagnik|/artist/hariharan|/artist/chorus,06:08,https://gaana.com//song/ek-ta-dehiya-sukwar
+Saari Re Umiriya,Alka Yagnik,/artist/alka-yagnik,05:56,https://gaana.com//song/saari-re-umiriya
+Chal Chal Hamaare Sang Ganga Paar,Anuradha Paudwal|Suresh Wadkar,/artist/anuradha-paudwal-2|/artist/suresh-wadkar,04:00,https://gaana.com//song/chal-chal-hamaare-sang-ganga-paar
+Baaje Jhanana Paiyjniya,FATMA|Saira Bano Faizabadi,/artist/fatma|/artist/saira-bano-faizabadi-20,06:08,https://gaana.com//song/baaje-jhanana-paiyjniya
+Dharti Karela Ho,Mahendra Kapoor,/artist/mahendra-kapoor,03:07,https://gaana.com//song/dharti-karela-ho
+Dheere-Dheere Aihein Saiyan Humri Saijariya,Yasmin Faizabadi,/artist/yasmin-faizabadi,04:20,https://gaana.com//song/dheere-dheere-aihein-saiyan-humri-saijariya
+Tani Dheere Na Chal,Shobha Joshi|Udit Narayan|Mahendra Kapoor,/artist/shobha-joshi|/artist/udit-narayan|/artist/mahendra-kapoor,04:49,https://gaana.com//song/tani-dheere-na-chal
+Charhti Jawani,Dilbar Khan|Prativa,/artist/dilbar-khan|/artist/prativa,03:09,https://gaana.com//song/charhti-jawani
+Rakhi Ke Bandhan Bhaiya  Tohari Kalaaee,Chandrani Mukherjee,/artist/chandrani-mukherjee,05:00,https://gaana.com//song/rakhi-ke-bandhan-bhaiya-tohari-kalaaee
+Ladhikaiyan Ma Ba Jab E Chohna,Geeta Dutt|Mahendra Kapoor,/artist/geeta-dutt|/artist/mahendra-kapoor,03:34,https://gaana.com//song/ladhikaiyan-ma-ba-jab-e-chohna
+Suee Dolai Kalaai Bich Ghadiya Mein,AMARJEET KAVI|Party,/artist/amarjeet-kavi|/artist/party,06:21,https://gaana.com//song/suee-dolai-kalaai-bich-ghadiya-mein
+Aawa Ho Aawa,Kavita Krishnamurthy|Udit Narayan,/artist/kavita-subramaniam|/artist/udit-narayan,05:02,https://gaana.com//song/aawa-ho-aawa
+Ek Mutthi Kharai Ke Kaile Anokha Hai,Chandrani Mukherjee,/artist/chandrani-mukherjee,03:02,https://gaana.com//song/ek-mutthi-kharai-ke-kaile-anokha-hai
+Laaj Se Mari Jaye,Mahendra Kapoor,/artist/mahendra-kapoor,06:05,https://gaana.com//song/laaj-se-mari-jaye
+Kahale Rahu Ki Doctor,Dilraj Kaur,/artist/dilraj-kaur,04:09,https://gaana.com//song/kahale-rahu-ki-doctor
+Akhiyan Milaay Ke Tani,Baleshwar|Shanta Singh|Sathi,/artist/baleshwar|/artist/shanta-singh|/artist/sathi,07:02,https://gaana.com//song/akhiyan-milaay-ke-tani
+Saiyan Moujwa Udaave Kalkattwa Mein,Yasmin Faizabadi,/artist/yasmin-faizabadi,04:13,https://gaana.com//song/saiyan-moujwa-udaave-kalkattwa-mein
+Itni Badi Nanadi Jobnava Dikhaave,FATMA|Saira Bano Faizabadi,/artist/fatma|/artist/saira-bano-faizabadi-20,05:42,https://gaana.com//song/itni-badi-nanadi-jobnava-dikhaave
+Nirmohi Daga Deke,Suman Kalyanpur,/artist/suman-kalyanpur,03:03,https://gaana.com//song/nirmohi-daga-deke
+Hamse Nazariya Milake,Anuradha Paudwal|Udit Narayan,/artist/anuradha-paudwal-2|/artist/udit-narayan,06:13,https://gaana.com//song/hamse-nazariya-milake
+Laikey Haathwaa Mein Haathwa,Anuradha Paudwal,/artist/anuradha-paudwal-2,03:22,https://gaana.com//song/laikey-haathwaa-mein-haathwa
+Kaise Likhela Vidhan Karamwa,Junaid Akhtar,/artist/junaid-akhtar,05:56,https://gaana.com//song/kaise-likhela-vidhan-karamwa
+Jali Hai Nafrat Ki Aag Dil Men,Asha Bhosle,/artist/asha-bhosle-1,08:34,https://gaana.com//song/jali-hai-nafrat-ki-aag-dil-men
+Theek Dupehariya Ke Gokha Jarela Ram,Shabbir Kumar|Chandrani Mukherjee,/artist/shabbir-kumar|/artist/chandrani-mukherjee,05:00,https://gaana.com//song/theek-dupehariya-ke-gokha-jarela-ram
+Aapan Bana Ke Saiyan,Mohammad Aziz|Kavita Krishnamurthy,/artist/mohammad-aziz|/artist/kavita-subramaniam,05:02,https://gaana.com//song/aapan-bana-ke-saiyan
+Kedas Kaila Ho,Mahendra Kapoor,/artist/mahendra-kapoor,03:28,https://gaana.com//song/kedas-kaila-ho
+Jai Bajrang Bali,Manna Dey,/artist/manna-dey,03:02,https://gaana.com//song/jai-bajrang-bali-1
+Daradiya Hai Saiyan Ji,Alka Yagnik,/artist/alka-yagnik,04:00,https://gaana.com//song/daradiya-hai-saiyan-ji
+Bardone Banhai Gaura,Vishwanath Mishra,/artist/vishwanath-mishra,03:03,https://gaana.com//song/gora-tor-bhangia
+Gandhi Ke Pujaari,Baleshwar|Sathi,/artist/baleshwar|/artist/sathi,06:00,https://gaana.com//song/gandhi-ke-pujaari
+Niviya Ki Dadhiya Maiyya Mori,Chandrani Mukherjee|Saathi,/artist/chandrani-mukherjee|/artist/saathi,03:58,https://gaana.com//song/niviya-ki-dadhiya-maiyya-mori
+Mangala Se Nahin Mili,Manna Dey,/artist/manna-dey,02:59,https://gaana.com//song/mangala-se-nahin-mili
+Tohake Mubarak Ho Naie Dulhaniya,Asha Bhosle,/artist/asha-bhosle-1,05:29,https://gaana.com//song/tohake-mubarak-ho-naie-dulhaniya

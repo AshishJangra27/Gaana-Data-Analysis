@@ -1,0 +1,959 @@
+name,singer,singer_id,duration,link
+Aaj Ei Dintake,Kishore Kumar,/artist/kishore-kumar,04:28,https://gaana.com//song/aaj-ei-dintake
+Amar Swapna Tumi Ogo,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,03:55,https://gaana.com//song/amar-swapna-tumi-ogo
+Ami Chini Go Chini Tomare,Kishore Kumar,/artist/kishore-kumar,02:27,https://gaana.com//song/ami-chini-go-chini-tomare-2
+Purano Sei Diner,Debabrata Biswas,/artist/debabrata-biswas,03:03,https://gaana.com//song/purano-sei-diner-2
+Aamar Pujar Phool,Kishore Kumar,/artist/kishore-kumar,04:27,https://gaana.com//song/aamar-pujar-phool-1
+Se Jeno Aamar Pashe,Kishore Kumar,/artist/kishore-kumar,03:30,https://gaana.com//song/se-jeno-aamar-pashe-1
+Mone Pore Ruby Roy,R. D. Burman,/artist/r-d-burman,03:27,https://gaana.com//song/mone-pore-ruby-roy-4
+Coffee Houser Sei Addata Aaj Aar Nei,Manna Dey,/artist/manna-dey,06:26,https://gaana.com//song/coffee-houser-sei-addata-aaj-aar-nei-3
+Sei Raate Raat Chhilo Purnima,Kishore Kumar,/artist/kishore-kumar,04:05,https://gaana.com//song/sei-raate-raat-chhilo-purnima
+Ei Path Jodi Na Shes Hoy,Sandhya Mukherjee|Hemant Kumar,/artist/sandhya-mukherjee|/artist/hemanta-mukherjee,03:11,https://gaana.com//song/ei-path-jodi-na-shes-hoy
+Tumi Kon Kananer Phul,Asha Bhosle,/artist/asha-bhosle-1,03:58,https://gaana.com//song/tumi-kon-kananer-phul-1
+Amar Swapna Je Satyi,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:27,https://gaana.com//song/amar-swapna-je-satyi
+Nayan Sarasi Keno Bhoreche Jaale,Kishore Kumar,/artist/kishore-kumar,03:25,https://gaana.com//song/nayan-sarasi-keno-bhoreche-jaale
+Jodi Hoi Chorkanta,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,03:21,https://gaana.com//song/jodi-hoi-chorkanta
+Mon-Majhi Re,R. D. Burman,/artist/r-d-burman,06:21,https://gaana.com//song/monmajhi-re
+Tare Ami Chokhe Dekhini,Kishore Kumar,/artist/kishore-kumar,03:08,https://gaana.com//song/taare-ami-chokhe-dekhini
+Aamar Bhalobasar Rajprasade,Manna Dey,/artist/manna-dey,03:36,https://gaana.com//song/aamar-bhalobasar-rajprasade-2
+Aaj Milan Tithir Purnima Chand,Kishore Kumar,/artist/kishore-kumar,04:22,https://gaana.com//song/aaj-milan-tithir-purnima-chand
+Jakhan Keu Amake Pagol Bale,Manna Dey,/artist/manna-dey,06:38,https://gaana.com//song/jakhan-keu-amake-pagol-bale-2
+Coffee Houser Sei Addata Aaj Aar Nei,Manna Dey,/artist/manna-dey,06:26,https://gaana.com//song/coffee-houser-sei-addata-aaj-aar-nei-4
+Chokher Jaler Hoyna Kono Rang,Kishore Kumar,/artist/kishore-kumar,04:28,https://gaana.com//song/chokher-jaler-hoyna-kono-rang-1
+Chirodini Tumi Je Aamar- Male,Kishore Kumar,/artist/kishore-kumar,07:11,https://gaana.com//song/chirodini-tumi-je-aamar-male
+Jani Tomar Premer Jogyo Ami To Noi,Manna Dey,/artist/manna-dey,03:26,https://gaana.com//song/jani-tomar-premer-jogyo-ami-to-noi
+Bandhagharer Andhakare,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:32,https://gaana.com//song/bandhagharer-andhakare
+O Chand Samle Rakho Jochhnake,Manna Dey,/artist/manna-dey,03:11,https://gaana.com//song/o-chand-samle-rakho-jochhnake-2
+Na Na Na Kachhe Esona,Asha Bhosle|S. P. Balasubrahmanyam,/artist/asha-bhosle-1|/artist/s-p-balasubrahamanyam,05:05,https://gaana.com//song/na-na-na-kachhe-esona
+Sundari Go Dohai Dohai,Manna Dey,/artist/manna-dey,03:18,https://gaana.com//song/sundari-go-dohai-dohai-2
+Asha Chhilo Bhalobasa Chhilo,Kishore Kumar,/artist/kishore-kumar,04:12,https://gaana.com//song/asha-chhilo-bhalobasa-chhhilo
+Hoyto Amake Karo Mone,Kishore Kumar,/artist/kishore-kumar,03:49,https://gaana.com//song/hoyto-amake-karo-mone
+Mone Porle,Arijit Singh,/artist/arijit-singh,06:12,https://gaana.com//song/moneporle
+Gunjane Dole Je Bhramar,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:15,https://gaana.com//song/gunjane-dole-je-bhramar
+Phulkali Re Phulkali,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,05:19,https://gaana.com//song/phulkali-re-phulkali
+Keno Re Tui Chorli,Kishore Kumar,/artist/kishore-kumar,02:30,https://gaana.com//song/keno-re-tui-chorli-1
+"Rangini Kato Mon, Mon Dite Chay",Manna Dey,/artist/manna-dey,03:13,https://gaana.com//song/rangini-kato-mon-mon-dite-chay
+Bolchi Tomar Kane Kane- Female,Lata Mangeshkar,/artist/lata-mangeshkar,07:01,https://gaana.com//song/bolchi-tomar-kane-kane-female
+Din Khon Mapa Ache,Arijit Singh,/artist/arijit-singh,05:32,https://gaana.com//song/dinkhonmapaache
+Lalita Go Oke Aaj Chole Jete Bal Na,Manna Dey,/artist/manna-dey,03:21,https://gaana.com//song/lalita-go-oke-aaj-chole-jete-bal-na-2
+Prithibi Bodle Gechhe,Kishore Kumar,/artist/kishore-kumar,03:31,https://gaana.com//song/prithibi-bodle-gechhe
+Ek Tanete Jemon Temon,Kishore Kumar|Swapan Chakraborty,/artist/kishore-kumar|/artist/swapan-chakraborty,04:48,https://gaana.com//song/ek-tanete-jemon-temon-1
+Aaj Theke Aar Bhalobasar,Kishore Kumar,/artist/kishore-kumar,03:19,https://gaana.com//song/aaj-theke-aar-bhalobasar
+Hridayer Gaan Shikhe To Gaay Go Sabai,Manna Dey,/artist/manna-dey,03:02,https://gaana.com//song/hridayer-gaan-shikhe-to-gaay-go-sabai-1
+E Gaane Prajapati (Stereo),Sandhya Mukherjee,/artist/sandhya-mukherjee,03:24,https://gaana.com//song/e-gaane-prajapati
+Chhero Na Chhero Na Haath,Kishore Kumar|Sabina Yasmeen,/artist/kishore-kumar|/artist/sabina-yasmeen,04:55,https://gaana.com//song/chhero-na-chhero-na-haath
+Ami Cheye Cheye Dekhi,Shyamal Mitra,/artist/shyamal-mitra,03:14,https://gaana.com//song/ami-cheye-cheye-dekhi
+Dole Dodul Dole Jhulana,Manabendra Mukherjee|Shyamal Mitra,/artist/manabendra-mukherjee|/artist/shyamal-mitra,03:07,https://gaana.com//song/dole-dodul-dole-jhulana
+Tomay Porechhe Mone,Kishore Kumar,/artist/kishore-kumar,03:23,https://gaana.com//song/tomay-porechhe-mone-2
+Mangaldeep Jwele (Part 1),Lata Mangeshkar|Others,/artist/lata-mangeshkar|/artist/others,05:09,https://gaana.com//song/mangal-deep-jwele
+Shono Mon Boli Tomay,R. D. Burman,/artist/r-d-burman,03:11,https://gaana.com//song/shono-mon-boli-tomay
+Tora Je Ja Bolish,Debabrata Biswas,/artist/debabrata-biswas,02:38,https://gaana.com//song/tora-je-ja-bolish-1
+Chirodini Tumi Je Aamar- Female,Asha Bhosle,/artist/asha-bhosle-1,07:09,https://gaana.com//song/chirodini-tumi-je-aamar-female
+Aamar Swapna Je,Lata Mangeshkar|Kishore Kumar,/artist/lata-mangeshkar|/artist/kishore-kumar,07:28,https://gaana.com//song/aamar-swapna-je-1
+Ka Phonta Chokher Jal Phelechho,Manna Dey,/artist/manna-dey,03:21,https://gaana.com//song/ka-phonta-chokher-jal-phelechho-1
+Katoi Ranga Dekhi Duniyay,Amar Pal,/artist/amar-pal,01:56,https://gaana.com//song/kotoi-rongo-dekhi-duniai
+Bhalo Bashi Bhalo Bashi,Amit Kumar|Kavita Krishnamurthy,/artist/amit-kumar|/artist/kavita-subramaniam,05:00,https://gaana.com//song/bhalo-bashi-bhalo-bashi
+Sandhya Belay Tumi Ami,Asha Bhosle,/artist/asha-bhosle-1,03:03,https://gaana.com//song/sandhya-belay-tumi-ami-4
+Chole Jete Jete Din,Lata Mangeshkar,/artist/lata-mangeshkar,03:19,https://gaana.com//song/chole-jete-jete-din
+Bulbul Pakhi Maiana,Antara Chwdhury,/artist/antara-chwdhury,03:23,https://gaana.com//song/bulbul-pakhi-maiana
+Janmadin,Kishore Kumar,/artist/kishore-kumar,03:33,https://gaana.com//song/janmadin
+Ami Jamini Tumi Shashi Hey,Manna Dey,/artist/manna-dey,03:16,https://gaana.com//song/aami-jamini-tumi-soshi-he
+Ami Taar Thikana Rakhini,Manna Dey,/artist/manna-dey,03:18,https://gaana.com//song/ami-taar-thikana-rakhini-1
+Aar Ki Tomay Chharchhi,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,04:09,https://gaana.com//song/aar-ki-tomay-chharchhi
+Bom Bhole,Kishore Kumar,/artist/kishore-kumar,03:55,https://gaana.com//song/bom-bhole
+Gahan Megher Chhaya Ghanay,Manna Dey,/artist/manna-dey,03:26,https://gaana.com//song/gahan-megher-chhaya-ghanay-1
+Kato Naree Achhe E Gokule,Asha Bhosle|Kishore Kumar|Tanuja,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/tanuja,02:36,https://gaana.com//song/kato-naree-achhe-e-gokule
+Karo Keu Naiko Aami,Kishore Kumar,/artist/kishore-kumar,04:46,https://gaana.com//song/karo-keu-naiko-aami-1
+Balo Ki Achhe Go,R. D. Burman,/artist/r-d-burman,03:15,https://gaana.com//song/balo-ki-achhe-go
+Ami Gaan Shonabo,Hemant Kumar,/artist/hemanta-mukherjee,03:04,https://gaana.com//song/ami-gaan-shonabo
+Na Mon Lage Na,Lata Mangeshkar,/artist/lata-mangeshkar,03:15,https://gaana.com//song/na-mon-lage-na
+Najar Diyo Na,Kishore Kumar,/artist/kishore-kumar,04:59,https://gaana.com//song/najar-diyo-na
+Mon Janala Khule Dena,Kishore Kumar,/artist/kishore-kumar,03:24,https://gaana.com//song/mon-janala-khule-dena-1
+Pora Banshi Shunle E Mon,Asha Bhosle,/artist/asha-bhosle-1,03:27,https://gaana.com//song/pora-banshi-shunle-e-mon-1
+Amar Deep Nebhano Raat,Kishore Kumar,/artist/kishore-kumar,03:28,https://gaana.com//song/amar-deep-nebhano-raat
+O Mor Moyna Go,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,https://gaana.com//song/o-mor-moyna-go-6
+Abhimane Chole Jeo Na,Manna Dey,/artist/manna-dey,03:17,https://gaana.com//song/abhimane-chole-jeo-na-3
+Prem Baro Madhur,Kishore Kumar,/artist/kishore-kumar,05:15,https://gaana.com//song/prem-baro-madhur
+Na Na Na Aaj Raate Aar,Manna Dey,/artist/manna-dey,03:29,https://gaana.com//song/na-na-na-aaj-rate-aar
+Sedino Akashe Chhilo Kato Tara,Kishore Kumar,/artist/kishore-kumar,03:21,https://gaana.com//song/sedino-akashe-chhilo-kato-tara
+Bhuter Raja Dilo Bor,Anup Ghoshal|Rabi Ghosh,/artist/anup-ghoshal-1|/artist/rabi-ghosh,02:22,https://gaana.com//song/bhuter-raja-dilobor
+Naam Amar Kishore Kumar Ganguly,Kishore Kumar,/artist/kishore-kumar,06:46,https://gaana.com//song/naam-amar-kishore-kumar-ganguly-1
+Bhoy Dekhas Na (Male) Voice & Guitars,Arijit Singh,/artist/arijit-singh,06:31,https://gaana.com//song/bhoydekhasnamalevoiceguitars
+Hoyto Tomari Janya,Manna Dey,/artist/manna-dey,03:17,https://gaana.com//song/hoyto-tomari-janya
+Piya Bholo Abhimaan,Ajoy Chakrabarty,/artist/ajoy-chakrabarty,06:37,https://gaana.com//song/piya-bholo-abhimaan
+Ami Nei Ami Nei,Kishore Kumar,/artist/kishore-kumar,03:22,https://gaana.com//song/ami-nei-bhabtei-byathay-mon-bhore-jay
+Shono Mon Boli Tomay,R. D. Burman,/artist/r-d-burman,03:11,https://gaana.com//song/shono-mon-boli-tomay-4
+Hai Hai Ki Herilam,Utpalendu Chowdhury,/artist/utpalendu-chowdhury,03:16,https://gaana.com//song/hai-hai-ki-herilam
+Kolkata Kolkata,Bappi Lahiri,/artist/bappi-lahiri,04:12,https://gaana.com//song/kolkata-kolkata
+Gharete Bhramar Elo Gunguniye,Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,03:07,https://gaana.com//song/gharete-bhramar-elo-gunguniye-1
+Mor Bhabanare Ki Haoway Matalo,Hemant Kumar,/artist/hemanta-mukherjee,02:24,https://gaana.com//song/mor-bhabonare-ki-haoay-matalo-2
+Ami Ek Jajabar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:05,https://gaana.com//song/ami-ek-jajabar-2
+Dekhore Nayan Melay,Anup Ghoshal,/artist/anup-ghoshal-1,01:55,https://gaana.com//song/dekhore-nayan-melay
+Ek Je Chhilo Raja,Anup Ghoshal|Rabi Ghosh,/artist/anup-ghoshal-1|/artist/rabi-ghosh,02:45,https://gaana.com//song/ek-je-chhilo-raja
+Ei Meghla Dine Ekla,Hemant Kumar,/artist/hemanta-mukherjee,02:49,https://gaana.com//song/ei-meghla-dine-ekla-1
+Ami Pathbhola Ek Pathik Esechhi (Duet),Kanika Banerjee|Suchitra Mitra|Hemant Kumar,/artist/kanika-banerjee|/artist/suchitra-mitra|/artist/hemanta-mukherjee,03:13,https://gaana.com//song/ami-pathbhola-ek-pathik-esechhi-1
+Shudhu Bhalobasha Diye,Hemant Kumar,/artist/hemanta-mukherjee,03:28,https://gaana.com//song/shudhu-bhalobasha-diye
+Deke Deke Kato,R. D. Burman,/artist/r-d-burman,03:06,https://gaana.com//song/deke-deke-kato
+Manush Manusher Jannya,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:02,https://gaana.com//song/manush-manusher-jannya-2
+Aha Ki Ananda,Anup Ghoshal,/artist/anup-ghoshal-1,02:53,https://gaana.com//song/aha-ki-ananda-1
+Darjeeling Jatra,R. D. Burman,/artist/r-d-burman,03:08,https://gaana.com//song/darjeeling-jatra
+Moner Manush :- (Mon Jakhan Jagli Nare and Milan Habe Kata Dine),Dohar,/artist/dohar,07:18,https://gaana.com//song/moner-manush-mon-jakhon-jagli-nare-milan-habe-kata-dine
+Katha Diye Ele Na,Asha Bhosle,/artist/asha-bhosle-1,03:35,https://gaana.com//song/katha-diye-ele-na-4
+Amar Shilpi Tumi Kishore Kumar,Kumar Sanu,/artist/kumar-sanu,06:00,https://gaana.com//song/amar-shilpi-tumi-kishore-kumar
+Champa Chameli Golaperi Baage,Manna Dey|Sandhya Mukherjee,/artist/manna-dey|/artist/sandhya-mukherjee,03:11,https://gaana.com//song/champa-chameli-golaperi-baage
+Nishidin Nishidin,Lata Mangeshkar,/artist/lata-mangeshkar,03:11,https://gaana.com//song/nishidin-nishidin-2
+Jete Jete Pathe Holo,R. D. Burman,/artist/r-d-burman,03:07,https://gaana.com//song/jete-jete-pathe-holo-2
+Saat Bhai Champa Jagore,Lata Mangeshkar,/artist/lata-mangeshkar,03:23,https://gaana.com//song/saat-bhai-champa-jagore-2
+Antabihin Kate Na Aar Jeno (Baro Shunya Shunya),Lata Mangeshkar,/artist/lata-mangeshkar,03:18,https://gaana.com//song/antabihin-kate-na-aar-jeno-1
+Ei Mom Jochhonay Ango Bhijiye,Aarti Mukherji,/artist/aarti-mukherji,03:28,https://gaana.com//song/ei-mom-jochhonay-ango-bhijiye-4
+Tomar Pujar Chhaley,Debabrata Biswas,/artist/debabrata-biswas,03:06,https://gaana.com//song/tomar-pujar-chhaley-1
+Tomate Amate Dekha Hoyechhilo,R. D. Burman,/artist/r-d-burman,02:54,https://gaana.com//song/tomate-amate-dekha-hoyechhilo
+Jete Jete Pathe Holo,R. D. Burman,/artist/r-d-burman,03:07,https://gaana.com//song/jete-jete-pathe-holo
+Ei Sundar Swarnali Sandhaye,Geeta Dutt,/artist/geeta-dutt,03:25,https://gaana.com//song/ei-sundar-swarnali-sandhaye
+Mayur Aakaash,Bappi Lahiri,/artist/bappi-lahiri,03:08,https://gaana.com//song/mayur-aakaash
+Olir Katha Shune Bakul Hase,Hemant Kumar,/artist/hemanta-mukherjee,03:02,https://gaana.com//song/olir-katha-shune-bakul-hase
+Aebar Pujoye Chaaye,Alka Yagnik,/artist/alka-yagnik,05:22,https://gaana.com//song/aebar-pujoye-chaaye
+Jani Na Aaj Je Apon,Asha Bhosle,/artist/asha-bhosle-1,02:42,https://gaana.com//song/jani-na-aaj-je-apan
+Takhon Tomar Ekush Bachhar,Aarti Mukherji,/artist/aarti-mukherji,03:22,https://gaana.com//song/takhon-tomar-ekush-bachhar-4
+Nagor Amar Kancha Peerit,Asha Bhosle|Shailender Singh,/artist/asha-bhosle-1|/artist/shailender-singh,04:42,https://gaana.com//song/nagor-amar-kancha-peerit
+Oi Dustu Chokher Mishti Hasi,Sandhya Mukherjee|Hemant Kumar,/artist/sandhya-mukherjee|/artist/hemanta-mukherjee,03:04,https://gaana.com//song/oi-dustu-chokher-mishti-hasi
+Mor Bina Othe Kon Sure Baji,Swagatalakshmi Dasgupta,/artist/swagatalakshmi-dasgupta,03:42,https://gaana.com//song/mor-bina-othe-kon-sure-baji-1
+Phire Eso Anuradha,R. D. Burman,/artist/r-d-burman,03:23,https://gaana.com//song/phire-eso-anuradha-3
+Sajani Go Premer Katha,R. D. Burman,/artist/r-d-burman,03:28,https://gaana.com//song/sajani-go-premer-katha-2
+Jete Dao Amay Dekona,Asha Bhosle,/artist/asha-bhosle-1,03:09,https://gaana.com//song/jete-dao-amay-dekona-2
+Jibane Ki Pabo Na,Manna Dey,/artist/manna-dey,03:13,https://gaana.com//song/jibane-ki-pabo-na-1
+Tolo Chhinnabeena,Asha Bhosle,/artist/asha-bhosle-1,05:13,https://gaana.com//song/tolo-chhinnabeena
+Kalo Meyer Payer Tolaaye,Panna Lal Bhattacharjee,/artist/panna-lal-bhattacharjee,03:13,https://gaana.com//song/kalo-meyer-payer-tolaaye-1
+O Amar Sajani Go,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,06:18,https://gaana.com//song/o-amar-sajani-go
+Chhande Chhande Gaane Gaane,Asha Bhosle,/artist/asha-bhosle-1,03:33,https://gaana.com//song/chhande-chhande-gaane-gaane-2
+Badhu Kon Alo (Part 1),Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,05:02,https://gaana.com//song/bnadhu-kon-alo-laaglo-chokhe-1
+Eshe Hirok Deshe,Anup Ghoshal,/artist/anup-ghoshal-1,02:55,https://gaana.com//song/eshe-hirok-deshe
+Jana - Gana - Mana - Orchestra,Akashvani Vadya Vrinda,/artist/akashvani-vadya-vrinda,00:55,https://gaana.com//song/jana-gana-mana-orchestra
+O Tui Nayan Pakhi Amar Re,Lata Mangeshkar,/artist/lata-mangeshkar,03:16,https://gaana.com//song/o-tui-nayan-pakhi-amar-re
+Aasbo Aar Ekdin Aaj Jai,Asha Bhosle,/artist/asha-bhosle-1,02:52,https://gaana.com//song/aasbo-aar-ekdin-aaj-jai
+Chokhe Chokhe Katha Balo,Asha Bhosle,/artist/asha-bhosle-1,03:26,https://gaana.com//song/chokhe-chokhe-katha-balo
+Phire Eso Anuradha,R. D. Burman,/artist/r-d-burman,03:23,https://gaana.com//song/phire-eso-anuradha
+Ami Dur Hote Tomarei Dekhechhi,Hemant Kumar,/artist/hemanta-mukherjee,03:05,https://gaana.com//song/ami-dur-hote-tomarei-dekhechhi-1
+Hey Nutan Dekha Dik Aar-Bar,Swagatalakshmi Dasgupta,/artist/swagatalakshmi-dasgupta,04:38,https://gaana.com//song/hey-nutan-dekha-dik-aarbaar
+Ek Je Chhilo Maachhi,Antara Chwdhury,/artist/antara-chwdhury,03:01,https://gaana.com//song/ek-je-chhilo-maachhi
+Ami Mon Diye Chi,Asha Bhosle,/artist/asha-bhosle-1,05:20,https://gaana.com//song/ami-mon-diye-chi
+Bidhir Bandhan Katbe Tumi,Kishore Kumar,/artist/kishore-kumar,02:07,https://gaana.com//song/bidhir-bandhan-bhangbe-tumi
+Maharaja Tomarey Shelam,Anup Ghoshal|Rabi Ghosh,/artist/anup-ghoshal-1|/artist/rabi-ghosh,03:37,https://gaana.com//song/maharaja-tomarey-shelam
+Ami Je Jalsaghare (Stereo),Sandhya Mukherjee,/artist/sandhya-mukherjee,03:21,https://gaana.com//song/ami-je-jalsaghare
+Aamar Eche Korche Bhalo,Bappi Lahiri|Asha Bhosle,/artist/bappi-lahiri|/artist/asha-bhosle-1,06:23,https://gaana.com//song/aamar-eche-korche-bhalo
+Balo Ki Achhe Go,R. D. Burman,/artist/r-d-burman,03:15,https://gaana.com//song/balo-ki-achhe-go-4
+Tomari Chalar Pathe,Asha Bhosle,/artist/asha-bhosle-1,04:45,https://gaana.com//song/tomari-chalar-pathe
+Ore Baba Dekho Cheye,Anup Ghoshal,/artist/anup-ghoshal-1,03:43,https://gaana.com//song/orey-baba-dekho-cheye
+Keno Kichhu Katha Balo Na,Lata Mangeshkar,/artist/lata-mangeshkar,03:05,https://gaana.com//song/keno-kichhu-katha-balo-na-3
+Aayre Chhute Aai,Antara Chwdhury,/artist/antara-chwdhury,03:28,https://gaana.com//song/aayre-chhute-aai
+Je Khanei Thako Sukhe Thako,Asha Bhosle,/artist/asha-bhosle-1,05:13,https://gaana.com//song/je-khanei-thako-sukhe-thako
+Dekhle Kemon Tumi Khel,Kishore Kumar,/artist/kishore-kumar,06:05,https://gaana.com//song/dekhle-kemon-tumi-khel
+Aei Gaaneri Shure Shure,Mohammad Aziz,/artist/mohammad-aziz,06:01,https://gaana.com//song/aei-gaaneri-shure-shure
+Phire Elam Dure Giye,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,04:05,https://gaana.com//song/phire-elam-dure-giye
+Pa Ma Ga Re Sa,Lata Mangeshkar,/artist/lata-mangeshkar,03:07,https://gaana.com//song/pa-ma-ga-re-sa-4
+Na Dir Dir Da,Antara Chwdhury,/artist/antara-chwdhury,02:58,https://gaana.com//song/na-dir-dir-da
+Swapna Mahale Ajo Nishirate,Bappi Lahiri,/artist/bappi-lahiri,03:23,https://gaana.com//song/swapna-mahale-ajo-nishirate
+Nadir Paare Uthchhe Dhonya,R. D. Burman,/artist/r-d-burman,06:00,https://gaana.com//song/nadir-paare-uthchhe-dhonya
+Keu Jane Na Tumi Je Amar,R. D. Burman,/artist/r-d-burman,04:46,https://gaana.com//song/keu-jane-na-tumi-je-amar
+Ore Amar Mon,Dwijen Mukherjee,/artist/dwijen-mukherjee,03:23,https://gaana.com//song/ore-amar-mon
+Bujhbe Na Keu Bujhbe Na,Lata Mangeshkar,/artist/lata-mangeshkar,04:36,https://gaana.com//song/bujhbe-na-keu-bujhbe-na
+Taare Bole Diyo,Hemant Kumar,/artist/hemanta-mukherjee,03:22,https://gaana.com//song/taare-bole-diyo
+Dongshili Tui,Lata Mangeshkar,/artist/lata-mangeshkar,03:13,https://gaana.com//song/dongshili-tui
+Jani Na Kothay Tumi,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,03:12,https://gaana.com//song/jani-na-kothay-tumi
+Bolchi Tomar Kane Kane- Duet,Bappi Lahiri|Rema Lahiri,/artist/bappi-lahiri|/artist/rema-lahiri,04:24,https://gaana.com//song/bolchi-tomar-kane-kane-duet
+Lakshmiti Dohai Tomar,Asha Bhosle,/artist/asha-bhosle-1,03:19,https://gaana.com//song/lakshmiti-dohai-tomar-2
+Phire Elam Dure Giye,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,04:05,https://gaana.com//song/phire-elam-dure-giye-1
+Chupi Chupi Kaache Aesho,Alka Yagnik,/artist/alka-yagnik,05:53,https://gaana.com//song/chupi-chupi-kaache-aesho
+Ei Purnima Raat,Hemant Kumar,/artist/hemanta-mukherjee,03:03,https://gaana.com//song/ei-purnima-raat
+Kono Kaaj Noy Aaj,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:31,https://gaana.com//song/kono-kaaj-noy-aaj
+Shudhu Jaowa Asa,Lopamudra Mitra,/artist/lopamudra-mitra,04:39,https://gaana.com//song/shudhu-jaowa-asa
+Otho Otho Surjayre,Lata Mangeshkar,/artist/lata-mangeshkar,05:02,https://gaana.com//song/otho-otho-surjayre
+Drishya Dekhi Anya,Anup Ghoshal,/artist/anup-ghoshal-1,01:32,https://gaana.com//song/drishya-dekhi-anya
+Nei Sei Purnima Raat,Asha Bhosle,/artist/asha-bhosle-1,03:19,https://gaana.com//song/neyi-seyi-purnima-raat
+Ogo Aar Kichhu To Naai,Lata Mangeshkar,/artist/lata-mangeshkar,03:11,https://gaana.com//song/ogo-aar-kichhu-to-naai-1
+Kobe Je Kothay,Bhupinder Singh,/artist/bhupinder-singh,04:23,https://gaana.com//song/kobe-je-kothay
+Sei Raate Raat Chhilo Purnima,Kishore Kumar,/artist/kishore-kumar,04:05,https://gaana.com//song/sei-raate-raat-chhilo-purnima-2
+Sukher Majhey Tomay,Indrani Sen,/artist/indrani-sen,03:13,https://gaana.com//song/sukher-majhey-tomay
+Saraswati,Atanu Sanyal,/artist/atanu-sanyal,01:53,https://gaana.com//song/saraswati-3
+Sunilo Saagarey,Debabrata Biswas,/artist/debabrata-biswas,03:12,https://gaana.com//song/sunilo-saagarey-1
+Otho Otho Suryai Re,Lata Mangeshkar,/artist/lata-mangeshkar,05:03,https://gaana.com//song/otho-otho-suryai-re-1
+E Jiban Premeri Ek Patabahar Kabita,Kishore Kumar,/artist/kishore-kumar,04:58,https://gaana.com//song/e-jiban-premeri-ek-patabahar-kabita-1
+Bistirna Dupare,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,06:18,https://gaana.com//song/bistirna-dupare-3
+Menokaa Maathaay Dilo Ghomtaa,Purna Das Baul,/artist/purna-das-baul,02:57,https://gaana.com//song/menokaa-maathaay-dilo-ghomtaa
+Paye Pari Baghmama,Anup Ghoshal,/artist/anup-ghoshal-1,03:18,https://gaana.com//song/paye-pari-baghmama
+Joriye Dhorechhi Jare,Kishore Kumar,/artist/kishore-kumar,03:17,https://gaana.com//song/joriye-dhorechhi-jare-2
+Amar Natun Gaaner Janamatithi,Hemant Kumar,/artist/hemanta-mukherjee,03:42,https://gaana.com//song/amar-natun-gaaner-janamatithi-2
+Ami Tomar Preme Habo Sabar,Sagar Sen,/artist/sagar-sen,03:14,https://gaana.com//song/ami-tomar-preme-habo-sabar-3
+Bhalo Jodi Baso Sakhi,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,03:01,https://gaana.com//song/bhalo-jodi-baso-sakhi
+Katha Kichhu Kichhu Bujhe Nite Hoy,Shyamal Mitra|Aarti Mukherji,/artist/shyamal-mitra|/artist/aarti-mukherji,03:49,https://gaana.com//song/katha-kichhu-kichhu-bujhey-nitey-hoy
+Jiban Khatar Prati Patay,Shyamal Mitra,/artist/shyamal-mitra,03:17,https://gaana.com//song/jeevankhatar-proti-patay
+Amar Moner Ei Mayurmahale,Kishore Kumar,/artist/kishore-kumar,03:09,https://gaana.com//song/amar-moner-ei-mayurmahale-5
+Alo Aar Alo Diye (Mone Hoy Aaj Ami),Asha Bhosle,/artist/asha-bhosle-1,04:06,https://gaana.com//song/alo-aar-alo-diye
+Godhuli Gaganey,Debabrata Biswas,/artist/debabrata-biswas,02:57,https://gaana.com//song/godhuli-gaganey-2
+Abar Habe To Dekha,Manna Dey,/artist/manna-dey,03:01,https://gaana.com//song/abar-habe-to-dekha-2
+Akash Keno Daake,Kishore Kumar,/artist/kishore-kumar,03:14,https://gaana.com//song/akash-keno-daake
+Madhabi Phutechhe Oi,Lata Mangeshkar|R. D. Burman,/artist/lata-mangeshkar|/artist/r-d-burman,04:24,https://gaana.com//song/madhabi-phutechhe-oi
+Ek Je Chhilo Dushtu Chhele,Antara Chwdhury,/artist/antara-chwdhury,03:25,https://gaana.com//song/ek-je-chhilo-dushtu-chhele
+Ki Hobe Aar Purono Diner Katha,R. D. Burman,/artist/r-d-burman,05:06,https://gaana.com//song/ki-hobe-aar-purono-diner-katha-1
+Mone Naa Rang Lagle,Asha Bhosle|Kishore Kumar|Chorus,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/chorus,05:18,https://gaana.com//song/mone-naa-rang-lagle
+Monta Aamar Hariye Geche,Vijayta Pandit,/artist/vijayta-pandit,04:39,https://gaana.com//song/monta-aamar-hariye-geche
+Ei To Jiban,Kishore Kumar,/artist/kishore-kumar,04:22,https://gaana.com//song/ei-to-jiban-1
+Kato Madhur E Jibon,Kishore Kumar,/artist/kishore-kumar,03:25,https://gaana.com//song/kato-madhur-e-jibon-2
+Ei Je Nadi Jay Sagare,Kishore Kumar,/artist/kishore-kumar,03:29,https://gaana.com//song/ei-je-nadi-jay-sagare-5
+Teenti Mantra Niye,Shyamal Mitra,/artist/shyamal-mitra,03:45,https://gaana.com//song/teenti-mantra-niye
+Sakhi Bhabana Kahare Bale,Lata Mangeshkar|Kavita Krishnamurthy,/artist/lata-mangeshkar|/artist/kavita-subramaniam,03:18,https://gaana.com//song/sakhi-bhabana-kahare-bale-2
+Ketechhe Ekela Biraher Bela,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,03:13,https://gaana.com//song/ketechhe-ekela-biraher-bela-2
+Deke Deke Kato,R. D. Burman,/artist/r-d-burman,03:06,https://gaana.com//song/deke-deke-kato-3
+Eso Amar Ghare - Hemanta Mukherjee,Hemant Kumar,/artist/hemanta-mukherjee,04:28,https://gaana.com//song/eso-amar-ghare-7
+Jay Din Emni Jodi,Hemant Kumar,/artist/hemanta-mukherjee,03:17,https://gaana.com//song/jay-din-emni-jodi
+Ki Name Deke Bolbo Tomake,Shyamal Mitra,/artist/shyamal-mitra,02:52,https://gaana.com//song/ki-name-deke-bolbo-tomake-2
+O Pakhi Ure Aay,Asha Bhosle,/artist/asha-bhosle-1,03:25,https://gaana.com//song/o-pakhi-ure-aay
+Phool Koli Re Phool Koli,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,05:21,https://gaana.com//song/phool-koli-re-phool-koli-1
+Hey Dola Hey Dola,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:26,https://gaana.com//song/hey-dola-hey-dola-1
+Ei Chhotto Chhotto Paye,Aarti Mukherji|Pratima Banerjee,/artist/aarti-mukherji|/artist/pratima-banerjee,03:31,https://gaana.com//song/ei-chhotto-chhotto-paye
+Chandra Je Tui,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,https://gaana.com//song/chandra-je-tui
+Ganga Amar Ma,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:04,https://gaana.com//song/ganga-amar-ma-2
+Chintamoyee Tara Tumi,Panna Lal Bhattacharjee,/artist/panna-lal-bhattacharjee,03:02,https://gaana.com//song/chintamoyee-tara-tumi-1
+Tumi Je Premer,Kishore Kumar|Aarti Mukherji,/artist/kishore-kumar|/artist/aarti-mukherji,03:21,https://gaana.com//song/tumi-je-premer
+Jani Na Kothay Tumi,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,03:12,https://gaana.com//song/jani-na-kothay-tumi-1
+Dure Akash Samiyanai,Lata Mangeshkar,/artist/lata-mangeshkar,03:31,https://gaana.com//song/dure-akash-samiyanai
+Rui Katla Ilish Bhebe,Sabina Yasmeen,/artist/sabina-yasmeen,04:56,https://gaana.com//song/rui-katla-ilish-to-noy
+Ektu Baso Chole Jeo Na,Asha Bhosle,/artist/asha-bhosle-1,04:55,https://gaana.com//song/ektu-baso-chole-jeo-na
+Charon Dhorite Diyo Go (Male),Hemant Kumar,/artist/hemanta-mukherjee,04:23,https://gaana.com//song/charana-dharite-diyo-go-3
+Aaro Kachakachi,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,03:35,https://gaana.com//song/aaro-kachakachi-1
+Ekbar Bidaay De Ma,Lata Mangeshkar,/artist/lata-mangeshkar,03:13,https://gaana.com//song/ekbar-bidaay-de-ma
+Banshi Shune Ki,Asha Bhosle,/artist/asha-bhosle-1,05:25,https://gaana.com//song/banshi-shune-ki-4
+Pora Banshi Shunle E Mon,Asha Bhosle,/artist/asha-bhosle-1,03:27,https://gaana.com//song/pora-banshi-shunle-e-mon-2
+Aami Ekjon Saanto Sishto,Kishore Kumar,/artist/kishore-kumar,03:18,https://gaana.com//song/aami-ekjon-saanto-sishto
+Felu Theme,various,/artist/various-2,53:06,https://gaana.com//song/felu-theme
+Halla Cholechhe Juddhe,Kamu Mukherjee|Jahor Roy,/artist/kamu-mukherjee|/artist/jahor-roy-4,01:42,https://gaana.com//song/halla-cholechhe-juddhay
+"O,sona Byang",Antara Chwdhury,/artist/antara-chwdhury,06:11,https://gaana.com//song/osona-byang
+Ki Ashai Bandhi Khelaghar,Kishore Kumar,/artist/kishore-kumar,04:28,https://gaana.com//song/ki-ashai-bandhi-khelaghar
+Chand Aar Shurjo,Alka Yagnik,/artist/alka-yagnik,04:35,https://gaana.com//song/chand-aar-shurjo
+Jana Ajana Pathey Cholechhi,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,04:29,https://gaana.com//song/jana-ajana-pathey-cholechhi-1
+Aay Aay Chhute Aay,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:12,https://gaana.com//song/aay-aay-chhute-aay-2
+Oi Mahasindhur Opar Theke,Manna Dey,/artist/manna-dey,03:41,https://gaana.com//song/oi-mahasindhur-opar-theke-5
+Ei Chhande Chhande Bhara,Sandhya Mukherjee|Hemant Kumar,/artist/sandhya-mukherjee|/artist/hemanta-mukherjee,03:06,https://gaana.com//song/ei-chhande-chhande-bhara
+Dinguli Mor,Debabrata Biswas,/artist/debabrata-biswas,03:05,https://gaana.com//song/dinguli-mor-2
+Hridayer Gaan Shikhe To Gaay Go Sabai,Manna Dey,/artist/manna-dey,03:02,https://gaana.com//song/hridayer-gaan-shikhe-to-gaay-go-sabai
+Mone Pore Ruby Roy,R. D. Burman,/artist/r-d-burman,03:25,https://gaana.com//song/mone-pare-ruby-roy
+Tumi Jodi Thaktey,Kumar Sanu,/artist/kumar-sanu,05:00,https://gaana.com//song/tumi-jodi-thaktey
+Mor Bhabonare (Duet),Saptarshi|SAHANA BAJPEI,/artist/saptarshi|/artist/sahana-bajpei,04:07,https://gaana.com//song/morbhabonareduet
+Namo Mata Saraswati,Sandhya Mukherjee|Tarun Banerjee|Aarti Mukherji,/artist/sandhya-mukherjee|/artist/tarun-banerjee|/artist/aarti-mukherji,06:57,https://gaana.com//song/namo-mata-saraswati
+O Prajapati Prajapati,Lata Mangeshkar,/artist/lata-mangeshkar,03:00,https://gaana.com//song/o-prajapati-prajapati-4
+Sagar Sangame,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:17,https://gaana.com//song/sagar-sangame-3
+Katha Dao Aabar Asbe,Manna Dey,/artist/manna-dey,03:18,https://gaana.com//song/katha-dao-aabar-asbe-2
+Tomake Lagche Bhari Chena,Bappi Lahiri|Alka Yagnik,/artist/bappi-lahiri|/artist/alka-yagnik,05:47,https://gaana.com//song/tomake-lagche-bhari-chena
+Esho Go Jweley,Debabrata Biswas,/artist/debabrata-biswas,03:03,https://gaana.com//song/esho-go-jweley-1
+Amar Sakal Raser Dhara,Hemant Kumar|Aarti Mukherji,/artist/hemanta-mukherjee|/artist/aarti-mukherji,03:14,https://gaana.com//song/amar-sakal-raser-dhara
+"Ore Bondhure, Ore Sathi Re",Kishore Kumar,/artist/kishore-kumar,04:00,https://gaana.com//song/ore-bondhure-ore-sathi-re
+Na Bole Esechhi,Aarti Mukherji,/artist/aarti-mukherji,03:21,https://gaana.com//song/na-bole-esechhi-2
+Ja Ja Ja Bhule Ja,Lata Mangeshkar,/artist/lata-mangeshkar,03:26,https://gaana.com//song/ja-ja-ja-bhule-ja
+Keno Je Kandao Bare Bare,Lata Mangeshkar,/artist/lata-mangeshkar,03:38,https://gaana.com//song/keno-je-kandao-bare-bare-1
+E Ki Chanchalata Jage,Hemant Kumar,/artist/hemanta-mukherjee,03:09,https://gaana.com//song/e-ki-chanchalata-jage-2
+Moner Janala Dhore Unki Diye,Hemant Kumar,/artist/hemanta-mukherjee,03:25,https://gaana.com//song/moner-janala-dhore-unki-diye-1
+Ogo Moner Duyare Danriye Theko Na,Aarti Mukherji,/artist/aarti-mukherji,03:22,https://gaana.com//song/ogo-moner-duyare-danriye-theko-na-3
+Kichhu To Chahini Ami,Lata Mangeshkar,/artist/lata-mangeshkar,03:29,https://gaana.com//song/kichhu-to-chahini-ami
+Ektu Baso Chole Jeo Na,Asha Bhosle,/artist/asha-bhosle-1,04:55,https://gaana.com//song/ektu-baso-chole-jeo-na-1
+Akash Keno Daake,Kishore Kumar,/artist/kishore-kumar,03:14,https://gaana.com//song/akash-keno-daake-3
+Aakash Bhara,Debabrata Biswas,/artist/debabrata-biswas,02:51,https://gaana.com//song/aakash-bhara-4
+Dhoronako Shantrimoshai,Anup Ghoshal,/artist/anup-ghoshal-1,01:41,https://gaana.com//song/dhoronako-shantrimoshai
+Aaj Jiban Khunje Pabi,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:48,https://gaana.com//song/aaj-jiban-khunje-pabi-1
+Bhoy Dekhas Na (The Agnee Version),Mohan Kannan,/artist/mohan-kanan,06:11,https://gaana.com//song/bhoydekhasnatheagneeversion
+Ami Sahebo Noi Golamo Noi,Hemant Kumar,/artist/hemanta-mukherjee,02:35,https://gaana.com//song/ami-sahebo-noi-golamo-noi
+Hayre Pora Banshi,Lata Mangeshkar,/artist/lata-mangeshkar,05:15,https://gaana.com//song/hayre-pora-banshi
+Tomader Aasare Aaj,Lata Mangeshkar,/artist/lata-mangeshkar,04:38,https://gaana.com//song/tomader-aasare-aaj-1
+Amar Mon Manne Na,Asha Bhosle,/artist/asha-bhosle-1,03:46,https://gaana.com//song/amar-mon-manne-na-1
+Gun Gun Kare Mon,Amit Kumar|Asha Bhosle,/artist/amit-kumar|/artist/asha-bhosle-1,04:27,https://gaana.com//song/gun-gun-kare-mon
+Phule Gandha Nei,Asha Bhosle,/artist/asha-bhosle-1,03:23,https://gaana.com//song/phule-gandha-nei-1
+Katha Hoyechhilo,Asha Bhosle,/artist/asha-bhosle-1,04:49,https://gaana.com//song/katha-hoyechhilo
+Ami Dukkhake Sukh Bhebe,Kishore Kumar,/artist/kishore-kumar,04:24,https://gaana.com//song/ami-dukkhake-sukh-bhebe
+E Monihar Amay,Debabrata Biswas,/artist/debabrata-biswas,03:08,https://gaana.com//song/e-monihar-amay-1
+Ek Din Aaro Gelo,Kishore Kumar,/artist/kishore-kumar,04:29,https://gaana.com//song/ek-din-aro-gelo
+Na Ekhoni Noy Jabe,Asha Bhosle,/artist/asha-bhosle-1,03:33,https://gaana.com//song/na-ekhoni-noy-jabe-1
+Tomar Akash Duti Chokhe,Nirmal Mishra,/artist/nirmal-mishra,03:18,https://gaana.com//song/tomar-akash-duti-chokhe-1
+Aar Bilamba Noy,Anup Ghoshal,/artist/anup-ghoshal-1,02:14,https://gaana.com//song/aar-bilamba-noy
+Tumi Ele Anek Diner Pare,Hemant Kumar,/artist/hemanta-mukherjee,03:18,https://gaana.com//song/tumi-ele-anek-diner-pare-1
+Kajol Kajol Chokhe,Geeta Dutt|Hemant Kumar,/artist/geeta-dutt|/artist/hemanta-mukherjee,03:13,https://gaana.com//song/kajol-kajol-chokhe
+Tomaar Holo Shuru (db),Debabrata Biswas,/artist/debabrata-biswas,03:13,https://gaana.com//song/tomaar-holo-shuru-db
+Phul Phute Jhore Jaay,Asha Bhosle,/artist/asha-bhosle-1,04:57,https://gaana.com//song/phool-phute-jhare-jaay
+Ele Na Tumi Je,R. D. Burman,/artist/r-d-burman,03:19,https://gaana.com//song/ele-na-tumi-je-3
+Khelbo Holi Rang Debo Na,Asha Bhosle|Kavita Krishnamurthy,/artist/asha-bhosle-1|/artist/kavita-subramaniam,04:03,https://gaana.com//song/khelbo-holi-rang-debo-na
+Sajani Go Premer Katha,R. D. Burman,/artist/r-d-burman,03:28,https://gaana.com//song/sajani-go-premer-katha
+Ek Din Pakhi Ure Jabe,Kishore Kumar,/artist/kishore-kumar,03:18,https://gaana.com//song/ek-din-pakhi-ure-jabe-2
+Ek Tanete Jemon Temon,Kishore Kumar|Swapan Chakraborty,/artist/kishore-kumar|/artist/swapan-chakraborty,04:48,https://gaana.com//song/ek-tanete-jemon-temon
+Ek Din Pakhi Ure Jabe,Kishore Kumar,/artist/kishore-kumar,03:18,https://gaana.com//song/ek-din-pakhi-ure-jabe
+Emon Madhur Sandhyay,Asha Bhosle,/artist/asha-bhosle-1,05:43,https://gaana.com//song/emon-madhur-sandhyay
+Aamar Bhalobasar Rajprasade,Manna Dey,/artist/manna-dey,03:36,https://gaana.com//song/aamar-bhalobasar-rajprasade-1
+Naari Charitra Bejaay Jatil,Kishore Kumar,/artist/kishore-kumar,02:43,https://gaana.com//song/naari-charitra-bejaay-jatil
+Bhalobeshe Dekei Dekho Na,Asha Bhosle,/artist/asha-bhosle-1,03:55,https://gaana.com//song/bhalobeshe-dekei-dekho-na
+Gaane Bhuban Bhoriye Debe,Shyamal Mitra,/artist/shyamal-mitra,03:28,https://gaana.com//song/gaane-bhuban-bhoriye-debe
+Ei Korechho Bhalo,Hemant Kumar,/artist/hemanta-mukherjee,03:04,https://gaana.com//song/ei-korechho-bhalo-6
+Baro Asha Kore Esechhi Go,Arundhati Holme Chowdhury|Hemant Kumar,/artist/arundhati-holme-chowdhury|/artist/hemanta-mukherjee,03:03,https://gaana.com//song/baro-asha-kore-esechhi-go
+Ore Batas Phulshakhate,Sandhya Mukherjee|Hemant Kumar,/artist/sandhya-mukherjee|/artist/hemanta-mukherjee,03:22,https://gaana.com//song/ore-batas-phulshakhate
+Kine De Reshmi Churi,Asha Bhosle,/artist/asha-bhosle-1,03:14,https://gaana.com//song/kine-de-reshmi-churi-2
+Moner Naam Madhumati,Asha Bhosle,/artist/asha-bhosle-1,03:01,https://gaana.com//song/moner-naam-madhumati
+Nadir Paare Uthchhe Dhonya,R. D. Burman,/artist/r-d-burman,06:00,https://gaana.com//song/nadir-paare-uthchhe-dhonya-2
+Bristi Bristi Bristi,Lata Mangeshkar,/artist/lata-mangeshkar,02:47,https://gaana.com//song/bristi-bristi-bristi
+Guru Bine Bondhu Naai Re Aar,Amar Pal,/artist/amar-pal,02:45,https://gaana.com//song/guru-bine-bandhu-naai-re-aar
+Cigarette Naho Tumi Swet-Pari,Kishore Kumar,/artist/kishore-kumar,04:00,https://gaana.com//song/cigarette-naho-tumi-swetpari
+Charon Dhorite Diyo Go (Female),Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,04:22,https://gaana.com//song/charana-dharite-diyo-go-2
+Ke Jabi Aay,Lata Mangeshkar,/artist/lata-mangeshkar,03:39,https://gaana.com//song/ke-jabi-aay
+Ebar Ami Amar Theke,Lata Mangeshkar,/artist/lata-mangeshkar,03:52,https://gaana.com//song/ebar-ami-amar-theke
+Tumi Aamar Asha,Kishore Kumar,/artist/kishore-kumar,07:00,https://gaana.com//song/tumi-aamar-asha
+Chokhe Naame Brishti,Asha Bhosle,/artist/asha-bhosle-1,03:17,https://gaana.com//song/chokhe-naame-brishti-2
+Ami Premer Pather Pathik,Kishore Kumar,/artist/kishore-kumar,03:25,https://gaana.com//song/ami-premer-pather-pathik
+Tarpar Tar Aar Par Nei,Hemant Kumar,/artist/hemanta-mukherjee,03:11,https://gaana.com//song/tarpar-tar-aar-par-nei-hemanta
+Aay Khuku Aay (Keta Na Somay),Hemant Kumar|Sravanti Mazumder,/artist/hemanta-mukherjee|/artist/sravanti-mazumder,05:05,https://gaana.com//song/aai-khuku-ai
+Ektuku Chhonwa Lage,Kishore Kumar,/artist/kishore-kumar,03:13,https://gaana.com//song/ektuku-chhowa-laage
+Danriye Achho Tumi Amar Gaaner O Paare,Sandhya Mukherjee,/artist/sandhya-mukherjee,04:04,https://gaana.com//song/danriye-achho-tumi-aamar-gaaner-o-paare
+Moyna Balo Tumi,Asha Bhosle,/artist/asha-bhosle-1,03:28,https://gaana.com//song/moyna-balo-tumi-asha-bhosle
+Keu Jane Na Tumi Je Amar,R. D. Burman,/artist/r-d-burman,04:46,https://gaana.com//song/keu-jane-na-tumi-je-amar-2
+Du Chokhe Brishti,Alka Yagnik,/artist/alka-yagnik,04:54,https://gaana.com//song/du-chokhe-brishti
+Emon Ekta Jhinuk Khunje,Nirmal Mishra,/artist/nirmal-mishra,03:35,https://gaana.com//song/emon-ekta-jhinuk-khunje-2
+Thuilam Re Mon Padmapatay,Asha Bhosle,/artist/asha-bhosle-1,03:06,https://gaana.com//song/thuilam-re-mon-padmapatay
+Jana Gana Mana - Military Band,Normon Richardazz|Harbert Murril,/artist/normon-richardazz|/artist/harbert-murril,00:56,https://gaana.com//song/jana-gana-mana-military-band
+Bone Noy Mone Mor,Manabendra Mukherjee,/artist/manabendra-mukherjee,03:17,https://gaana.com//song/bone-noy-mone-mor-1
+Dake Loke Amake Clown,Kishore Kumar,/artist/kishore-kumar,04:18,https://gaana.com//song/dake-loke-amake-clown-1
+Kolahal To Baron Holo,Debabrata Biswas,/artist/debabrata-biswas,03:14,https://gaana.com//song/kolahal-to-baron-holo-1
+"Aar Nai Re Bela, Namlo Chhaya",Sumitra Sen,/artist/sumitra-sen,03:19,https://gaana.com//song/aar-nai-re-bela-namlo-chhaya-3
+Ami Cholte Cholte Theme Gechhi,Lata Mangeshkar,/artist/lata-mangeshkar,03:54,https://gaana.com//song/ami-cholte-cholte-theme-gechhi-2
+Swapan Jodi Madhur Emon,Manna Dey,/artist/manna-dey,02:49,https://gaana.com//song/swapan-jodi-madhur-emon-3
+Madhumas Jay,R. D. Burman,/artist/r-d-burman,03:27,https://gaana.com//song/madhumas-jay-3
+Shamla Gaanyer Kajla Meye,Hemant Kumar|Aarti Mukherji,/artist/hemanta-mukherjee|/artist/aarti-mukherji,04:21,https://gaana.com//song/shamla-gaanyer-kajla-meye
+Dil Dariyar Majhete,Purna Das Baul,/artist/purna-das-baul,02:54,https://gaana.com//song/dil-dariyar-majhete-2
+Ami Chaee Chaee Chaee,Sapna Mukherjee,/artist/sapna-mukherjee,04:10,https://gaana.com//song/ami-chaee-chaee-chaee
+Tari:- (Ebar Tor Mora Gange and Samal Samal Samal),Dohar,/artist/dohar,05:56,https://gaana.com//song/tari-ebar-tor-mara-gange-samal-samal-samal
+Madhobi Modhupey Holo Mitali,Aarti Mukherji,/artist/aarti-mukherji,03:23,https://gaana.com//song/madhobi-modhupey-holo-mitali
+Ki Je Kori Dure Jete Hay,Lata Mangeshkar,/artist/lata-mangeshkar,03:22,https://gaana.com//song/ki-je-kori-dure-jete-hay
+Ami Je Jalsaghare,Manna Dey,/artist/manna-dey,03:02,https://gaana.com//song/aami-je-jalsaghare
+Mon Bolchhe,Asha Bhosle,/artist/asha-bhosle-1,03:38,https://gaana.com//song/mon-bolchhe
+Amar Balar Kichhu Chhilo Na,Haimanti Shukla,/artist/haimanti-shukla,03:16,https://gaana.com//song/amar-balar-kichhu-chhilo-na-2
+Chaaridike Paaper Andhar (Manush Janam Diye Bidhi),Kishore Kumar,/artist/kishore-kumar,03:23,https://gaana.com//song/chaaridike-paaper-andhar-2
+Ami Je Ke Tomar,Kishore Kumar,/artist/kishore-kumar,05:12,https://gaana.com//song/ami-je-ke-tomar-3
+Shaon Raate Jodi,Manna Dey,/artist/manna-dey,04:18,https://gaana.com//song/shawono-raate-jodi
+Rui Katla Ilish To Noy,Kishore Kumar,/artist/kishore-kumar,05:01,https://gaana.com//song/rui-katla-ilish-bhebe
+Hay Re Kala Eki Jwala,Asha Bhosle,/artist/asha-bhosle-1,04:54,https://gaana.com//song/hay-re-kala-eki-jwala
+Mukhe Bolleye Prem Hoye Na,Alka Yagnik,/artist/alka-yagnik,06:54,https://gaana.com//song/mukhe-bolleye-prem-hoye-na
+Chakrita Ami Peyegechi Bela 2441139,Anjan Dutt,/artist/anjan-dutt,05:09,https://gaana.com//song/chakrita-ami-peyegechi-bela-2441139
+O Amar Pran Sajani (Champabothi Kanya),Lata Mangeshkar,/artist/lata-mangeshkar,04:59,https://gaana.com//song/o-amar-pran-sajani-champabothi-kanya
+Jodi Bhabo Bhalobeshe,Alka Yagnik,/artist/alka-yagnik,05:49,https://gaana.com//song/jodi-bhabo-bhalobeshe
+Andhakarer Ei Raater Sheshe,Kishore Kumar,/artist/kishore-kumar,04:58,https://gaana.com//song/andhakarer-ei-rater-sheshe
+Amar Raat Pohaalo (d B),Debabrata Biswas,/artist/debabrata-biswas,02:54,https://gaana.com//song/amar-raat-pohaalo-d-b-1
+Bangla:- (Ami Bangla Mayer Chhele and Amar Sonar Bangla),Dohar,/artist/dohar,09:48,https://gaana.com//song/bangla-ami-bangla-mayer-chhele-amar-sonar-bangla
+Sukno Patar Nupur Paye,Feroza Begum,/artist/feroza-begum,03:10,https://gaana.com//song/sukno-patar-nupur-paye
+Jodi Kagoje Lekho Naam,Manna Dey,/artist/manna-dey,03:26,https://gaana.com//song/jodi-kagoje-lekho-naam-1
+Na Chahile Jare Paoya Jaay - Manna Dey,Manna Dey,/artist/manna-dey,03:01,https://gaana.com//song/na-chahile-jare-paowa-jay
+Jhilik Jhilik Jhinuk,Lata Mangeshkar,/artist/lata-mangeshkar,03:08,https://gaana.com//song/jhilik-jhilik-jhinuk-4
+Purano Sei Diner Kotha,Hemant Kumar,/artist/hemanta-mukherjee,03:36,https://gaana.com//song/purano-sei-diner-kotha
+O Tota Pakhi Re,Nirmal Mishra,/artist/nirmal-mishra,02:56,https://gaana.com//song/o-tota-pakhi-re-1
+Bhoy Dekhas Na Please (Female),Sunidhi Chauhan,/artist/sunidhi-chauhan,06:05,https://gaana.com//song/bhoydekhasnapleasefemale
+She Keno Amay,Pankaj Udhas,/artist/pankaj-udhas,03:37,https://gaana.com//song/she-keno-amay
+Jeevanamaraner,Debabrata Biswas,/artist/debabrata-biswas,03:08,https://gaana.com//song/jeevanamaraner
+Ore Bagha Re,Rabi Ghosh|Anup Ghoshal,/artist/rabi-ghosh|/artist/anup-ghoshal-1,02:02,https://gaana.com//song/oray-bagharay
+Eureka Eureka,Kishore Kumar|Ranu Mukherjee|Chorus,/artist/kishore-kumar|/artist/ranu-mukherjee|/artist/chorus,03:30,https://gaana.com//song/eureka-eureka-1
+Chhinnapatar Sajai Taranee,Sumitra Sen,/artist/sumitra-sen,03:03,https://gaana.com//song/chhinnapatar-sajai-taranee
+Amar Chetana Chaitanya Kore,Panna Lal Bhattacharjee,/artist/panna-lal-bhattacharjee,03:03,https://gaana.com//song/amar-chetana-chaitanya-kore-1
+Amar Hriday Tomar Aapan Haater Dole (Duet),Arundhati Holme Chowdhury|Santu Mukherjee,/artist/arundhati-holme-chowdhury|/artist/santu-mukherjee-3,03:52,https://gaana.com//song/amar-hriday-tomar-aapan-haater
+Ek Din Aaro Gelo,Kishore Kumar,/artist/kishore-kumar,04:29,https://gaana.com//song/ek-din-aaro-gelo-1
+Madhumas Jay,R. D. Burman,/artist/r-d-burman,03:27,https://gaana.com//song/madhumas-jay
+Hotam Jodi Tota Pakhi,Lata Mangeshkar,/artist/lata-mangeshkar,04:23,https://gaana.com//song/hotam-jodi-tota-pakhi
+Aadho Aalo Chhayte,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,05:15,https://gaana.com//song/aadho-aalo-chhayte
+Ami Tomar Majhe Pelam Khunje,Hemant Kumar,/artist/hemanta-mukherjee,03:09,https://gaana.com//song/ami-tomar-majhe-pelam-khunje-1
+Ore Mon-Mayana,Lata Mangeshkar,/artist/lata-mangeshkar,02:57,https://gaana.com//song/ore-mon-mayana-1
+Machher Kanta Khonpar Kanta,Asha Bhosle,/artist/asha-bhosle-1,02:57,https://gaana.com//song/machher-kanta-khonpar-kanta-2
+Bhalobese Sakhi Nibhrite Jatane,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,03:19,https://gaana.com//song/bhalobese-sakhi-nribhrite-jataane
+Nahin Surya Nahin Jyoti,Anup Jalota,/artist/anup-jalota,05:47,https://gaana.com//song/nahin-surya-nahin-jyoti
+Ek Baishakhe Dekha Holo Dujanay,Aarti Mukherji,/artist/aarti-mukherji,03:31,https://gaana.com//song/ek-baishakhe-dekha-holo-dujanay-2
+Ei Sundar Raatri,Sandhya Mukherjee,/artist/sandhya-mukherjee,03:15,https://gaana.com//song/ei-sundar-raatri
+O Montrimoshai,Rabi Ghosh|Anup Ghoshal,/artist/rabi-ghosh|/artist/anup-ghoshal-1,01:37,https://gaana.com//song/o-montrimoshai
+Iskabaner Deshe,Antara Chwdhury,/artist/antara-chwdhury,03:51,https://gaana.com//song/iskabaner-deshe-1
+Gun Gun Gun Kunje Amar,Asha Bhosle,/artist/asha-bhosle-1,03:08,https://gaana.com//song/gun-gun-gun-kunje-amar
+Golemale Gole Male Pirit Koiro Na,Purna Das Baul,/artist/purna-das-baul,03:06,https://gaana.com//song/golemale-gole-male-pirit-koiro-na
+Tomaro Ashimey,Debabrata Biswas,/artist/debabrata-biswas,03:02,https://gaana.com//song/tomaro-ashimey
+Amar Moner Ei Mayurmahale,Kishore Kumar,/artist/kishore-kumar,03:09,https://gaana.com//song/amar-moner-ei-mayurmahale
+Ami Je Ke Tomar,Lata Mangeshkar,/artist/lata-mangeshkar,05:17,https://gaana.com//song/ami-je-ke-tomar
+Tomate Amate Dekha Hoyechhilo,R. D. Burman,/artist/r-d-burman,02:54,https://gaana.com//song/tomate-amate-dekha-hoyechhilo-2
+Raat Je Madhumati,Asha Bhosle,/artist/asha-bhosle-1,02:15,https://gaana.com//song/raat-je-madhumati
+Ei Brishtite Bhije Mati,Manna Dey|Lata Mangeshkar,/artist/manna-dey|/artist/lata-mangeshkar,04:46,https://gaana.com//song/ei-brishtite-bhije-mati
+Ke Pratham Kachhe Esechhi,Lata Mangeshkar|Manna Dey,/artist/lata-mangeshkar|/artist/manna-dey,03:16,https://gaana.com//song/ke-pratham-kachhe-esechhi
+Pherano Jabe Na Aar,Hemant Kumar,/artist/hemanta-mukherjee,03:22,https://gaana.com//song/pherano-jabe-na-aar
+Chanchal Moyuri E Raat,Lata Mangeshkar,/artist/lata-mangeshkar,03:25,https://gaana.com//song/chanchala-moyuri-e-raat
+Ei To Bhalo Legechhilo - Hemanta Mukherjee,Hemant Kumar,/artist/hemanta-mukherjee,03:33,https://gaana.com//song/ei-to-bhalo-legechhilo-3
+Eso Pranbharan,Arundhati Holme Chowdhury|Bitu Samajpati,/artist/arundhati-holme-chowdhury|/artist/bitu-samajpati,03:00,https://gaana.com//song/eso-pranbharan-1
+Ami Aaj Bhebechhi Mone,Hemant Kumar,/artist/hemanta-mukherjee,03:03,https://gaana.com//song/ami-aaj-bhebechhi-mone-1
+Baro Eka Laage,Manna Dey,/artist/manna-dey,03:31,https://gaana.com//song/baro-eka-laage
+Nohi Jantra,Anup Ghoshal,/artist/anup-ghoshal-1,04:26,https://gaana.com//song/nohi-jantra
+Pranbhara Swapna,Kishore Kumar|Chandrani Mukherjee,/artist/kishore-kumar|/artist/chandrani-mukherjee,04:25,https://gaana.com//song/pranbhara-swapna
+Sabar Aarale,Lata Mangeshkar,/artist/lata-mangeshkar,04:53,https://gaana.com//song/sabar-aarale-1
+Tapur Tupur Sara Dupur,Aarti Mukherji,/artist/aarti-mukherji,02:47,https://gaana.com//song/tapur-tupur-sara-dupur-2
+Amay Bolo Na Gahite,Suchitra Mitra,/artist/suchitra-mitra,05:01,https://gaana.com//song/amay-bolo-na-gahite
+Ore Sujan Naiya,R. D. Burman,/artist/r-d-burman,02:17,https://gaana.com//song/ore-sujan-naiya
+Aami Dasyir Sathey Kori Dosti,Manna Dey,/artist/manna-dey,02:29,https://gaana.com//song/aami-dasyir-sathey-kori-dosti-1
+Na Na Emon Korey,Asha Bhosle,/artist/asha-bhosle-1,02:05,https://gaana.com//song/na-na-emon-korey
+Katha Hoyechhilo,Asha Bhosle,/artist/asha-bhosle-1,04:51,https://gaana.com//song/katha-hoyechhilo-1
+Pathey Chhile Jetey,Debabrata Biswas,/artist/debabrata-biswas,03:28,https://gaana.com//song/pathey-chhile-jetey
+Jakhan Porbe Na Mor Payer Chinha,Hemant Kumar,/artist/hemanta-mukherjee,02:45,https://gaana.com//song/jakhan-porbe-na-mor-payer-chinha-1
+Kana Machhi Bhon Bhon,Antara Chwdhury|Sabita Chowdhury,/artist/antara-chwdhury|/artist/sabita-chowdhury,03:11,https://gaana.com//song/kana-machhi-bhon-bhon
+Dui Naukaye Diya Pa,Alka Yagnik,/artist/alka-yagnik,04:12,https://gaana.com//song/dui-naukaye-diya-pa
+Shiter Shishir Bheja Raat,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:44,https://gaana.com//song/shiter-shishir-bheja-raat-1
+Mon Tomar Ei Bhram Gelo Na,Panna Lal Bhattacharjee,/artist/panna-lal-bhattacharjee,03:08,https://gaana.com//song/mon-tomar-ei-bhram-gelo-na-1
+Ami Tomar Preme Habo Sabar,Sagar Sen,/artist/sagar-sen,03:14,https://gaana.com//song/ami-tomar-preme-habo-sabar-1
+Mahabiswey Mahabiswey,Debabrata Biswas,/artist/debabrata-biswas,02:57,https://gaana.com//song/mahabiswey-mahabiswey
+Priyotamo Ki Likhi Tomay,Lata Mangeshkar,/artist/lata-mangeshkar,03:36,https://gaana.com//song/priyotama-ki-likhi-tomay
+O Bideshi Bandhu,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:35,https://gaana.com//song/o-bideshi-bandhu-2
+Nayan Chherey Geley,Debabrata Biswas,/artist/debabrata-biswas,03:29,https://gaana.com//song/nayan-chherey-geley-1
+Aaro Katodin Ami Khunjechhi Tomake,Aarti Mukherji,/artist/aarti-mukherji,02:47,https://gaana.com//song/aaro-katodin-ami-khunjechhi-tomake-3
+Kalyankarini Saptanadi Bhagini,Chandrabali Rudra Dutta,/artist/chandrabali-rudra-dutta,03:43,https://gaana.com//song/kalyankarini-saptanadi-bhagini-1
+Shono Go Dakhin Hawa,S. D. Burman,/artist/sdburman,03:17,https://gaana.com//song/shono-go-dakhin-hawa-3
+Prem Kise Hoy,Asha Bhosle,/artist/asha-bhosle-1,03:52,https://gaana.com//song/prem-kise-hoy
+King Of The Ghosts Gives 3 Boons,Satyajit Ray,/artist/satyajit-ray,01:37,https://gaana.com//song/king-of-the-ghosts-gives-3-boons
+Kon Pakhi Dhara Dite Chaaye,Hemant Kumar,/artist/hemanta-mukherjee,03:23,https://gaana.com//song/kon-pakhi-dhara-dite-chaaye-1
+Bharaa Thaak Smritisudhaay,Debabrata Biswas,/artist/debabrata-biswas,03:23,https://gaana.com//song/bharaa-thaak-smritisudhaay-2
+Naam Rekhechhi Bonolata,Shyamal Mitra,/artist/shyamal-mitra,03:03,https://gaana.com//song/naam-rekhechhi-bonolata-3
+Ami Apon Koriya Chahini,Asha Bhosle,/artist/asha-bhosle-1,03:55,https://gaana.com//song/ami-apan-koriya-chahini
+"Barne, Gandhe, Chhande, Gitite",S. D. Burman,/artist/sdburman,03:13,https://gaana.com//song/barne-gandhe-chhande-gitite-3
+Hay Go Amar Mon Mane Na,Asha Bhosle,/artist/asha-bhosle-1,03:16,https://gaana.com//song/hay-go-amar-mon-mane-na
+Darjeeling Jatra,R. D. Burman,/artist/r-d-burman,03:08,https://gaana.com//song/darjeeling-jatra-2
+Ja Peyechhi,Amit Kumar,/artist/amit-kumar,03:21,https://gaana.com//song/ja-peyechhi-3
+Se To Elo Na,Kishore Kumar,/artist/kishore-kumar,03:09,https://gaana.com//song/se-to-elo-na
+Na Na Jeo Na,Manna Dey,/artist/manna-dey,03:05,https://gaana.com//song/na-na-jeo-na-2
+Ghoomer,Om Pawar|Shamim|Rehana Mirza|Shiv Ram|Master Alauddin|Shobha Purohitanand Kuar,/artist/om-pawar|/artist/shamim|/artist/rehana-mirza|/artist/shiv-ram|/artist/master-alauddin-7|/artist/shobha-purohitanand-kuar-3,03:26,https://gaana.com//song/ghoomer-1
+Pratidhwani Suni,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:21,https://gaana.com//song/pratidhwani-suni-2
+Charu Theme,various,/artist/various-2,01:04,https://gaana.com//song/charu-theme
+Ke Jay Amritadhamjatri,Ritu Guha,/artist/ritu-guha,02:58,https://gaana.com//song/ke-jaay-amritadhamjaatri
+Badal Kalo Ghirlo Go,Lata Mangeshkar,/artist/lata-mangeshkar,03:09,https://gaana.com//song/badal-kalo-ghirlo-go
+Baro Asha Kare,Asha Bhosle,/artist/asha-bhosle-1,03:43,https://gaana.com//song/baro-asha-kare
+Onek Khujechi Khuje Payine,Mohammad Aziz,/artist/mohammad-aziz,06:16,https://gaana.com//song/onek-khujechi-khuje-payine
+Aar Nai Je Deri,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,02:38,https://gaana.com//song/aar-nai-je-deri
+Rai Jago Rai Jago Bole,Amar Pal,/artist/amar-pal,03:01,https://gaana.com//song/rai-jago-rai-jago-bole-2
+"Ogo Kangal, Amare Kangal Karechho",Ritu Guha,/artist/ritu-guha,03:44,https://gaana.com//song/ogo-kangal-amare-kangal-karechho
+Play Out [ Sonar Kella ],various,/artist/various-2,45:26,https://gaana.com//song/play-out-sonar-kella
+Eto Kachhe Dujane,Kishore Kumar,/artist/kishore-kumar,03:53,https://gaana.com//song/eto-kachhe-dujane
+Amra Korbo Joy,Bhupen Hazarika|Chorus,/artist/dr-bhupen-hazarika-2|/artist/chorus,04:13,https://gaana.com//song/amra-korbo-joy-5
+E Jiban Premeri Ek Patabahar Kabita,Kishore Kumar,/artist/kishore-kumar,04:58,https://gaana.com//song/e-jiban-premeri-ek-patabahar-kabita
+Megh Aar Kuyashay Hok,Kishore Kumar|Aarti Mukherji,/artist/kishore-kumar|/artist/aarti-mukherji,03:29,https://gaana.com//song/megh-aar-kuyashay-hok
+Jare Ja Tel Dega,Purna Das Baul,/artist/purna-das-baul,03:37,https://gaana.com//song/jare-ja-tel-dega
+Amar Bela Je Jai,Asha Bhosle,/artist/asha-bhosle-1,02:36,https://gaana.com//song/amar-bela-je-jai
+Badhu Kon Alo (Part 2),Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,04:04,https://gaana.com//song/achhe-shudhu-a-nayan-jaal
+Shudhu Jaoya Aasa,Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,03:47,https://gaana.com//song/sudhu-jaoa-asha
+Chanchal Mon Anmona Hoy,Lata Mangeshkar|Hemant Kumar,/artist/lata-mangeshkar|/artist/hemanta-mukherjee,02:56,https://gaana.com//song/chanchal-mon-anmona-hoy-1
+Bhola Mon Moner Katha,Shyamal Mitra,/artist/shyamal-mitra,03:35,https://gaana.com//song/bhola-mon-moner-katha
+Amar Andhar Bhubane,Kishore Kumar,/artist/kishore-kumar,04:48,https://gaana.com//song/amar-andhar-bhubane
+Banshi Keno Hai,Lata Mangeshkar,/artist/lata-mangeshkar,03:18,https://gaana.com//song/banshi-keno-hai-2
+Hey Priyotama Ami To Tomay,Kishore Kumar,/artist/kishore-kumar,05:11,https://gaana.com//song/he-priyotama-ami-to-tomay
+"Sakhi, Bhabana Kahare Bale",Sumitra Sen,/artist/sumitra-sen,03:12,https://gaana.com//song/sakhi-bhabana-kahare-bale-3
+Klaanti Aamaar Kshamaa Koro,Debabrata Biswas,/artist/debabrata-biswas,03:02,https://gaana.com//song/klaanti-aamaar-kshamaa-koro-1
+Tunhu Mamo Monpran Hey (Stereo),Sandhya Mukherjee,/artist/sandhya-mukherjee,03:28,https://gaana.com//song/tunhu-mamo-monopran-hey
+Jabo Ki Jabo Na,Asha Bhosle,/artist/asha-bhosle-1,03:02,https://gaana.com//song/jabo-ki-jabo-na-4
+Dekhe Elam Ruper Agun,Manna Dey,/artist/manna-dey,02:33,https://gaana.com//song/dekhe-elam-ruper-agun
+E Ki Holo,Kishore Kumar,/artist/kishore-kumar,03:22,https://gaana.com//song/e-ki-holo
+Gharete Bhramar Elo,Sumitra Sen,/artist/sumitra-sen,04:00,https://gaana.com//song/gharete-bhramar-elo-8
+Ma Tui Amay Daya Korbi Ki Na Bal,Manna Dey,/artist/manna-dey,02:55,https://gaana.com//song/maa-tui-aamay-daya-korbi-kina-bal
+Aaj Bikeler Dake Tomar Chithi,Banasree Sengupta,/artist/banasree-sengupta,03:29,https://gaana.com//song/aaj-bikeler-dake-tomar-chithi-2
+Aaro Bhalo Hoto,Hemant Kumar,/artist/hemanta-mukherjee,03:04,https://gaana.com//song/aaro-bhalo-hoto-1
+Tumi Je Amar,Asha Bhosle,/artist/asha-bhosle-1,03:41,https://gaana.com//song/tumi-je-amar
+Amar Khela Jakhon Chhilo Tomar Sane,Hemant Kumar,/artist/hemanta-mukherjee,03:23,https://gaana.com//song/amar-khela-jakhon-chhilo-tomar-sane-3
+Shono Ei To Samay,R. D. Burman,/artist/r-d-burman,04:58,https://gaana.com//song/shono-ei-to-samay
+Ami Gun Kormu Ekjonare,Anuradha Paudwal,/artist/anuradha-paudwal-2,03:52,https://gaana.com//song/ami-gun-kormu-ekjonare
+Nibhrita Praner,Debabrata Biswas,/artist/debabrata-biswas,02:48,https://gaana.com//song/nibhrita-praner
+Dinguli Mor Sonar Khanchay Roilo Na,Dwijen Mukherjee,/artist/dwijen-mukherjee,03:26,https://gaana.com//song/dinguli-mor-sonar-khachay-1
+Keno Dure Thako,Hemant Kumar,/artist/hemanta-mukherjee,02:48,https://gaana.com//song/keno-dure-thako
+Jabar Belay Pichhu Theke,Lata Mangeshkar,/artist/lata-mangeshkar,03:23,https://gaana.com//song/jabar-belay-pichhu-theke-1
+Tomake Shonate E Gaan,Lata Mangeshkar,/artist/lata-mangeshkar,03:31,https://gaana.com//song/tomake-shonate-e-gaan
+Akash Keno Daake,Kishore Kumar,/artist/kishore-kumar,03:14,https://gaana.com//song/akash-keno-daake-2
+Jani Jani Tumi Esechho E Pathe,Sudeshna Chatterjee,/artist/sudeshna-chatterjee,04:22,https://gaana.com//song/jani-jani-esechho-e-pathe
+Hey Mor Debota,Debabrata Biswas,/artist/debabrata-biswas,03:35,https://gaana.com//song/hey-mor-debota
+Jodi Baran Karo Tabe Gabo Na,Lata Mangeshkar,/artist/lata-mangeshkar,03:29,https://gaana.com//song/jodi-baran-karo-tabe-gabo-na
+Ami Jani Na,Asha Bhosle|Abhijeet Bhattacharya,/artist/asha-bhosle-1|/artist/abhijeet-1,04:39,https://gaana.com//song/ami-jani-na-1
+Aaro Kachakachi,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,03:35,https://gaana.com//song/aaro-kachakachi
+Ogo Abar Natun Kore,Mukesh,/artist/mukesh,03:22,https://gaana.com//song/ogo-abar-natun-kare
+Deep Nibhey Gechhey,Indrani Sen,/artist/indrani-sen,03:18,https://gaana.com//song/deep-nibhey-gechhey
+Mon Mor Megher Sangi,Hemant Kumar,/artist/hemanta-mukherjee,03:05,https://gaana.com//song/mon-mor-megher-sangi-6
+Aachhey Dukkha,Debabrata Biswas,/artist/debabrata-biswas,02:47,https://gaana.com//song/aachhey-dukkha-1
+Saat Sakaale,Lata Mangeshkar,/artist/lata-mangeshkar,03:55,https://gaana.com//song/saat-sakaale
+Jakhan Ami Anek Dure,Kishore Kumar,/artist/kishore-kumar,06:11,https://gaana.com//song/jakhan-ami-anek-dure
+Jodi Baran Karo Tabe Gabo Na,Lata Mangeshkar,/artist/lata-mangeshkar,03:29,https://gaana.com//song/jadi-baran-karo-tabe-gahibo-na-2
+Prano Bhariye Trisha Hariye,Debabrata Biswas,/artist/debabrata-biswas,03:04,https://gaana.com//song/prano-bhariye-trisha-hariye
+Mor Bhabonare (Female),SAHANA BAJPEI,/artist/sahana-bajpei,04:07,https://gaana.com//song/morbhabonarefemale
+Hai Re Poda Banshi,Lata Mangeshkar,/artist/lata-mangeshkar,06:32,https://gaana.com//song/hai-re-poda-banshi-1
+Tomar Oi Dhupchhaya Rang,Shyamal Mitra,/artist/shyamal-mitra,03:19,https://gaana.com//song/tomar-oi-dhupchhaya-rang-3
+Je Chhilo Amar Swapancharini,Srikanto Acharya,/artist/srikanto-acharya,03:45,https://gaana.com//song/je-chhilo-amar-swapancharini
+Sri Sri Krishnalila,RADHA RANI,/artist/radha-rani,42:59,https://gaana.com//song/sri-sri-krishnalila-1
+Dinguli Mor,Debabrata Biswas,/artist/debabrata-biswas,03:05,https://gaana.com//song/dinguli-mor-1
+Mora Dujonai Rajar Jamai,Anup Ghoshal,/artist/anup-ghoshal-1,05:09,https://gaana.com//song/mora-dujonai-raar-jamai
+Amay Nahe Go,Feroza Begum,/artist/feroza-begum,04:13,https://gaana.com//song/amay-nahe-go-7
+Naam Dhore Kejano,Alka Yagnik,/artist/alka-yagnik,05:35,https://gaana.com//song/naam-dhore-kejano
+Shai Pakhitar,Alka Yagnik,/artist/alka-yagnik,04:59,https://gaana.com//song/shai-pakhitar
+Deko Naa Aamarey,Indrani Sen,/artist/indrani-sen,04:05,https://gaana.com//song/deko-naa-aamarey
+O Amar Pran Sajani (Champabothi Kanya),Lata Mangeshkar,/artist/lata-mangeshkar,04:59,https://gaana.com//song/o-amar-pran-sajani
+Phote Je Rakta Golap,Kishore Kumar,/artist/kishore-kumar,03:26,https://gaana.com//song/phote-je-rakta-golap
+Bhulo Na Pratham Se Din,Lata Mangeshkar,/artist/lata-mangeshkar,05:00,https://gaana.com//song/bhulo-na-pratham-se-din-1
+Jadi Akash Hoto Ankhi,Aarti Mukherji,/artist/aarti-mukherji,02:57,https://gaana.com//song/jadi-akash-hoto-ankhi-2
+Tung Tung Tung,C.L.T.,/artist/clt-7,03:24,https://gaana.com//song/tung-tung-tung
+Habuchandra Raja,Antara Chwdhury,/artist/antara-chwdhury,05:32,https://gaana.com//song/habuchandra-raja
+E Mon Amar Hariye Jay,Asha Bhosle,/artist/asha-bhosle-1,04:52,https://gaana.com//song/e-mon-amar-hariye-jay
+Rangiye Diye Jao,Hemant Kumar,/artist/hemanta-mukherjee,02:21,https://gaana.com//song/rangiye-diye-jao-jao-jao-go-2
+Tomar Kaache Jabo,Alka Yagnik,/artist/alka-yagnik,04:55,https://gaana.com//song/tomar-kaache-jabo
+Sei Raate Raat Chhilo Purnima,Kishore Kumar,/artist/kishore-kumar,04:05,https://gaana.com//song/sei-raate-raat-chhilo-purnima-3
+Jafrani Rang Akashe,Asha Bhosle,/artist/asha-bhosle-1,04:05,https://gaana.com//song/jafrani-rang-akashe
+Tomar Pujar Chhaley,Debabrata Biswas,/artist/debabrata-biswas,03:06,https://gaana.com//song/tomar-pujar-chhaley
+Shyam Roop Dhariya,S. D. Burman,/artist/sdburman,02:53,https://gaana.com//song/shyam-roop-dhariya
+O Jhar Jhar Jharna,Lata Mangeshkar,/artist/lata-mangeshkar,03:11,https://gaana.com//song/o-jhar-jhar-jharna-2
+"Madhur, Tomar Shesh Jey Na Pai",Indrani Sen,/artist/indrani-sen,04:44,https://gaana.com//song/madhur-tomar-shesh-jey-na-pai
+Ami Jwalbo Na Mor,Indrani Sen,/artist/indrani-sen,04:04,https://gaana.com//song/ami-jwalbo-na-mor
+Kar Milano Chao Birahi,Indrani Sen,/artist/indrani-sen,03:53,https://gaana.com//song/kar-milano-chao-birahi
+Pran Chay Chokkhu Na Chay,Sagar Sen,/artist/sagar-sen,02:05,https://gaana.com//song/pran-chay-chokkhu-na-chay-3
+Ki Rupe,Bitu Samajpati|Others|Sanghamitra Banerjee,/artist/bitu-samajpati|/artist/others|/artist/sanghamitra-banerjee-1,03:03,https://gaana.com//song/ki-rupe
+Amar Ga Chhamchham Kare,Asha Bhosle|Bappi Lahiri,/artist/asha-bhosle-1|/artist/bappi-lahiri,05:01,https://gaana.com//song/amar-ga-chhamchham-kare-1
+Esse Chhile Tobu,Debabrata Biswas,/artist/debabrata-biswas,02:53,https://gaana.com//song/esse-chhile-tobu
+Ore Mon Pakhi,Lata Mangeshkar,/artist/lata-mangeshkar,03:13,https://gaana.com//song/ore-mon-pakhi
+Bare Bare Ke Jeno Dake,Manabendra Mukherjee,/artist/manabendra-mukherjee,03:16,https://gaana.com//song/bare-bare-ke-jeno-dake
+Beshi Ki Boli Jakhon Boli,Bappi Lahiri|Asha Bhosle,/artist/bappi-lahiri|/artist/asha-bhosle-1,07:22,https://gaana.com//song/beshi-ki-boli-jakhon-boli
+Chirodin Kancha Bansher,Swapan Basu,/artist/swapan-basu,06:32,https://gaana.com//song/chiradin-kacha-bansher
+Chalo Chole Jai Haate Haat Rekhe,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,03:06,https://gaana.com//song/chalo-chole-jai-haate-haat-rekhe-1
+Bandha Moner Duar Diyechhi,Asha Bhosle,/artist/asha-bhosle-1,03:29,https://gaana.com//song/bandha-moner-duar-diyechhi
+Haowa Megh Saraye Phul Jharaye,Kishore Kumar,/artist/kishore-kumar,04:46,https://gaana.com//song/haowa-megh-saraye-phul-jharaye-1
+Khukumani Go Sonaa,Antara Chwdhury|Sabita Chowdhury,/artist/antara-chwdhury|/artist/sabita-chowdhury,03:15,https://gaana.com//song/khukumani-go-sonaa
+Diner Shese Ghumer Deshe,Hemant Kumar,/artist/hemanta-mukherjee,06:02,https://gaana.com//song/diner-shese-ghumer-deshe-1
+Tari Amar Hathat Dubey Jai,Indrani Sen,/artist/indrani-sen,03:57,https://gaana.com//song/tari-amar-hathat-dubey-jai
+Ami Tomay Jato Shuniyechhilem Gaan,Hemant Kumar,/artist/hemanta-mukherjee,02:47,https://gaana.com//song/ami-tomay-jato-shuniyechhilem-gaan
+Tomar Dake Sara Dite,Aarti Mukherji,/artist/aarti-mukherji,03:06,https://gaana.com//song/tomar-dake-sara-dite-1
+Ki Je Bhabi Elomelo,Asha Bhosle,/artist/asha-bhosle-1,03:21,https://gaana.com//song/ki-je-bhabi-elomelo
+Ekta Gaan Likho Amar Janyo,Pratima Banerjee,/artist/pratima-banerjee,03:17,https://gaana.com//song/ekta-gaan-likho-amar-janyo-2
+Ei Agune Haat Rakho,Nachiketa Chakraborty,/artist/nachiketa-chakraborty,06:38,https://gaana.com//song/ei-agune-haat-rakho
+Ami To Tomar Chirodiner Hnasi Kannar Sathi,Nirmal Mishra,/artist/nirmal-mishra,03:17,https://gaana.com//song/ami-to-tomar-chirodiner-hnasi-kannar-sathi
+Dekte Dekte Din Chole,Mahendra Kapoor,/artist/mahendra-kapoor,03:19,https://gaana.com//song/dekte-dekte-din-chole
+Amio Pather Mato,Hemant Kumar,/artist/hemanta-mukherjee,03:31,https://gaana.com//song/amio-pather-mato
+Dure Dure Kachhe Kachhe,Aarti Mukherji,/artist/aarti-mukherji,03:18,https://gaana.com//song/dure-dure-kache-kache
+Lakshmiti Dohai Tomar,Asha Bhosle,/artist/asha-bhosle-1,03:19,https://gaana.com//song/lakshmiti-dohai-tomar
+Ekhono Sarengita Bajchhe,Haimanti Shukla,/artist/haimanti-shukla,03:16,https://gaana.com//song/ekhono-sarengita-bajchhe-haimanti-sukla-1
+Angur Angur Chokh,Asha Bhosle,/artist/asha-bhosle-1,04:17,https://gaana.com//song/angur-angur-chokh
+Je Jon Premer Bhav Jane Na,Runa Laila,/artist/runa-laila,02:44,https://gaana.com//song/je-jon-premer-bhav-jane-na
+Orey Jay Naa Ki Jaanaa,Debabrata Biswas,/artist/debabrata-biswas,03:19,https://gaana.com//song/orey-jay-naa-ki-jaanaa
+O Duti Ankhi Jeno,Hemant Kumar,/artist/hemanta-mukherjee,03:16,https://gaana.com//song/o-duti-ankhi-jeno-1
+Tumi Nirmal Karo Mangal Kare,Panna Lal Bhattacharjee,/artist/panna-lal-bhattacharjee,03:02,https://gaana.com//song/tumi-nirmal-karo-mangal-kare
+Nabo Anande Jago Aaji,Hemant Kumar,/artist/hemanta-mukherjee,02:36,https://gaana.com//song/nabo-anande-jago-aaji
+Kaharba Noy Dadra Bajao,Manna Dey,/artist/manna-dey,04:00,https://gaana.com//song/kahaarba-noy-dadra-bajao
+Amay Prashna Kare Neel Dhrubatara,Hemant Kumar,/artist/hemanta-mukherjee,03:15,https://gaana.com//song/amay-prashna-kare-neel-dhrubatara-1
+Banya Banya E Aranya,Aarti Mukherji,/artist/aarti-mukherji,03:45,https://gaana.com//song/banya-banya-e-aranya-3
+Ki Gabo Ami Ki Shunabo,Aarti Mukherji,/artist/aarti-mukherji,03:32,https://gaana.com//song/ki-gabo-ami-ki-shunabo-4
+Praaney Gaan Naai,Indrani Sen,/artist/indrani-sen,02:43,https://gaana.com//song/praaney-gaan-naai
+The Camel Ride,various,/artist/various-2,01:11,https://gaana.com//song/the-camel-ride
+Dak Pathale Kaal Sakale,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,04:48,https://gaana.com//song/dak-pathale-kaal-sakale-1
+Tumi Esechhile Porshu,S. D. Burman,/artist/sdburman,03:17,https://gaana.com//song/tumi-esechhile-porshu-1
+Jani Na Se Kon Sudur Pare,Haimanti Shukla,/artist/haimanti-shukla,03:18,https://gaana.com//song/jani-na-se-kon-sudur-pare-1
+Tomar Kachhe- E- Bar,Debabrata Biswas,/artist/debabrata-biswas,02:59,https://gaana.com//song/tomar-kachhe-e-bar
+Dil Dariyar Majhete,Purna Das Baul,/artist/purna-das-baul,02:54,https://gaana.com//song/dil-dariyar-majhete
+Jani Nai Go Sadhan,Debabrata Biswas|Others,/artist/debabrata-biswas|/artist/others,03:02,https://gaana.com//song/jani-nai-go-sadhan
+Ei Je Nadi Jay Sagare,Kishore Kumar,/artist/kishore-kumar,03:29,https://gaana.com//song/ei-je-nadi-jay-sagare-2
+Kar Manjir Baje Rini,Shyamal Mitra,/artist/shyamal-mitra,03:04,https://gaana.com//song/kar-manjir-baje-rini-3
+Khonpar Ei Golap Diye,Sivaji Chatterjee,/artist/sivaji-chatterjee,03:41,https://gaana.com//song/khopar-ei-golap-diye
+Tumi Jey Surer Aagun,Indrani Sen,/artist/indrani-sen,02:47,https://gaana.com//song/tumi-jey-surer-aagun
+Bharat Amar Bharat Barsha,Manna Dey,/artist/manna-dey,03:25,https://gaana.com//song/bharat-amar-bharat-barsha
+Din Jaye Raat Jaye,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:40,https://gaana.com//song/din-jaye-raat-jaye
+Bahudiner Agete Godhulir Belate,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:39,https://gaana.com//song/bahudiner-agete-godhulir-belate-1
+Amar Sesh Paraner Kodi,Debabrata Biswas,/artist/debabrata-biswas,02:57,https://gaana.com//song/amar-sesh-paraner-kodi
+Aaj Mon Cheyechhe,Lata Mangeshkar,/artist/lata-mangeshkar,03:17,https://gaana.com//song/aaj-mon-cheyechhe-1
+Ei Je Heri Go Debi Amari,Hemant Kumar,/artist/hemanta-mukherjee,01:38,https://gaana.com//song/ei-je-heri-go-debi-amari
+Jiya Manat Na - Thumree,Mahendra Kapoor,/artist/mahendra-kapoor,06:11,https://gaana.com//song/jiya-manat-na-thumree
+Ei Bhabey,Kumar Sanu,/artist/kumar-sanu,04:00,https://gaana.com//song/ei-bhabey
+Akaraney Akaley Mor,Debabrata Biswas,/artist/debabrata-biswas,03:07,https://gaana.com//song/akaraney-akaley-mor
+Se To Elo Na,Kishore Kumar,/artist/kishore-kumar,03:09,https://gaana.com//song/se-to-elo-na-3
+Ei Sundar Swarnali Sandhaye,Geeta Dutt,/artist/geeta-dutt,03:25,https://gaana.com//song/ei-sundar-swarnali-sandhaye-3
+Payal Baje Chham Chham Chham - Thumree,Mahendra Kapoor,/artist/mahendra-kapoor,06:12,https://gaana.com//song/payal-baje-chham-chham-chham-thumree
+Chinechhi Chinechhi Tomar E Mon,Aarti Mukherji,/artist/aarti-mukherji,03:13,https://gaana.com//song/chinechhi-chinechhi-tomar-e-mon-4
+Bhalobashar Moto Bhalo Kauke,Udit Narayan,/artist/udit-narayan,05:20,https://gaana.com//song/bhalobashar-moto-bhalo-kauke
+Swapney Aamaar Mone Holo,Indrani Sen,/artist/indrani-sen,02:59,https://gaana.com//song/swapney-aamaar-mone-holo
+Tomra Paisa Diye,Asha Bhosle,/artist/asha-bhosle-1,04:09,https://gaana.com//song/tomra-paisa-diye
+Ei Edike Eso Esona,Asha Bhosle,/artist/asha-bhosle-1,03:09,https://gaana.com//song/ei-edike-eso-esona-2
+Milan Hobe Katodine,Farida Parveen,/artist/farida-parveen,02:29,https://gaana.com//song/milan-habe-katodine-1
+Haowa Megh Saraye Phul Jharaye,Kishore Kumar,/artist/kishore-kumar,04:46,https://gaana.com//song/haowa-megh-saraye-phul-jharaye
+Baani Tabo Dhai,Debabrata Biswas,/artist/debabrata-biswas,03:44,https://gaana.com//song/baani-tabo-dhai
+Na Na Kache Eso Na,Lata Mangeshkar,/artist/lata-mangeshkar,04:52,https://gaana.com//song/na-na-kache-eso-na
+Tomar Bhubane Phuler Mela,Akhil Bandhu Ghosh,/artist/akhil-bandhu-ghosh,02:56,https://gaana.com//song/tomar-bhubane-phuler-mela-2
+Bojho Na Keno Je,Lata Mangeshkar,/artist/lata-mangeshkar,02:48,https://gaana.com//song/bojho-na-keno-je
+Oi Padma Chokher Neel Jamunay,Shyamal Mitra,/artist/shyamal-mitra,03:37,https://gaana.com//song/oi-padma-chokher-neel-jamunay-2
+Kon Bhiruke Bhoy Dekhabi,Suchitra Mitra,/artist/suchitra-mitra,02:37,https://gaana.com//song/kon-bhiruke-bhoy-dekhabi
+Entry Of The Halla King,various,/artist/various-2,50:36,https://gaana.com//song/entry-of-the-halla-king
+Bhanusingher Padavali (Drama),Banani Ghosh|Bani Tagore|Bela Mukherjee|Kanika Banerjee|Nilima Sen|Pratima Mukherjee|Suchitra Mitra|Sumitra Roy|Hemant Kumar,/artist/banani-ghosh|/artist/bani-tagore|/artist/bela-mukherjee|/artist/kanika-banerjee|/artist/nilima-sen|/artist/pratima-mukherjee|/artist/suchitra-mitra|/artist/sumitra-roy|/artist/hemanta-mukherjee,23:08,https://gaana.com//song/bhanusingher-padavali
+Pather Shes Kothay,Hemant Kumar,/artist/hemanta-mukherjee,03:01,https://gaana.com//song/pather-shes-kothay-3
+Jodi Jante Chao Tumi,Hemant Kumar,/artist/hemanta-mukherjee,03:22,https://gaana.com//song/jodi-jante-chao-tumi-hemanta-mukherjee
+O Mago Ma,Antara Chwdhury,/artist/antara-chwdhury,03:15,https://gaana.com//song/o-mago-ma-2
+Tomari Jharnatalar Nirjane,Asha Bhosle,/artist/asha-bhosle-1,03:48,https://gaana.com//song/tomari-jharnatalar-nirjane-3
+Aaha Ki Darun Dekhtey,Kishore Kumar,/artist/kishore-kumar,02:42,https://gaana.com//song/aaha-ki-darun-dekhtey
+Baro Bishad Bhara Rajani,Lata Mangeshkar|Chorus,/artist/lata-mangeshkar|/artist/chorus,04:39,https://gaana.com//song/baro-bishad-bhara-rajani
+E Kemon Ranga Jadu,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:02,https://gaana.com//song/e-kemon-ranga-jadu-2
+Tobu Bole Keno Sahasai,Kishore Kumar,/artist/kishore-kumar,03:09,https://gaana.com//song/tobu-bole-keno-sahasai
+Krishnachura Shon Shon Shon,Lata Mangeshkar,/artist/lata-mangeshkar,02:55,https://gaana.com//song/krishnachuda-shon-shon-shon
+Tui Ki Amar Putul Putul,Manna Dey,/artist/manna-dey,03:03,https://gaana.com//song/tui-ki-amar-putul-putul
+Naam Amar Kishore Kumar Ganguly,Kishore Kumar,/artist/kishore-kumar,06:46,https://gaana.com//song/naam-amar-kishore-kumar-ganguly
+E Jhumri Re,Kishore Kumar,/artist/kishore-kumar,03:12,https://gaana.com//song/e-jhumri-re-cholechhi-eka-2
+Jeno Kichhu Mone Korona,Akhil Bandhu Ghosh,/artist/akhil-bandhu-ghosh,03:03,https://gaana.com//song/jeno-kichhu-mone-korona-2
+Chokhe Naame Brishti,Asha Bhosle,/artist/asha-bhosle-1,03:17,https://gaana.com//song/chokhe-naame-brishti-1
+Opare Thakbo Ami,Kishore Kumar,/artist/kishore-kumar,03:29,https://gaana.com//song/opare-thakbo-ami
+Khub Chena Chena Mukhkhani,Asha Bhosle,/artist/asha-bhosle-1,03:38,https://gaana.com//song/khub-chena-chena-mukhkhani-1
+O Shyam Jakhan Takhan,Sujata Mukherjee|Aarti Mukherji,/artist/sujata-mukherjee|/artist/aarti-mukherji,03:27,https://gaana.com//song/o-shyam-jakhan-takhan
+Baba O Khoka,Kishore Kumar,/artist/kishore-kumar,03:28,https://gaana.com//song/baba-o-khoka
+Dhale Jete Jete,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,04:21,https://gaana.com//song/dhale-jete-jete
+Amar Mon Manne Na,Asha Bhosle,/artist/asha-bhosle-1,03:46,https://gaana.com//song/amar-mon-manne-na
+Ekti Kunri Duti Pata,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:08,https://gaana.com//song/ekti-kunri-duti-pata-1
+Khub Chena Chena Mukhkhani,Asha Bhosle,/artist/asha-bhosle-1,03:38,https://gaana.com//song/khub-chena-chena-mukhkhani
+Putul Putul,Antara Chwdhury,/artist/antara-chwdhury,04:00,https://gaana.com//song/putul-putul
+Aamar Moner Kato Sukh Niye,Mukesh,/artist/mukesh,03:18,https://gaana.com//song/aamar-moner-kato-sukh-niye
+Jaubansarosinire,Hemant Kumar,/artist/hemanta-mukherjee,03:14,https://gaana.com//song/jaubansarosinire-1
+O Mor Moyna Go,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,https://gaana.com//song/o-mor-moyna-go-3
+Nijhum Nishithe,Hemant Kumar,/artist/hemanta-mukherjee,03:15,https://gaana.com//song/nijhum-nishithe
+E Manihar Amay Nahi Saje,Hemant Kumar,/artist/hemanta-mukherjee,02:48,https://gaana.com//song/e-manihar-amay-nahi-saje-1
+Kolka Paper Eyey Sarita,Kumar Sanu,/artist/kumar-sanu,03:00,https://gaana.com//song/kolka-paper-eyey-sarita
+O Aamar Kandher Anchal,Asha Bhosle,/artist/asha-bhosle-1,03:37,https://gaana.com//song/o-aamar-kandher-anchal
+Bujhte Nari Naree Ki Chay,Kishore Kumar,/artist/kishore-kumar,45:08,https://gaana.com//song/bujhte-nari-naree-ki-chay
+Anek Jamano Byatha,Kishore Kumar,/artist/kishore-kumar,03:28,https://gaana.com//song/anek-jamano-byatha
+Jodi Jante Chao Tumi,Hemant Kumar,/artist/hemanta-mukherjee,03:22,https://gaana.com//song/jadi-jante-chao-tumi
+Saat Suron Ki Bandh Payeliya,Hemant Kumar|Shakti Thakur,/artist/hemanta-mukherjee|/artist/shakti-thakur,05:02,https://gaana.com//song/saat-suron-ki-bandh-payeliya-1
+Ekkhana Megh Bhese Elo Akashe,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:00,https://gaana.com//song/ekkhana-megh-bhese-elo-akashe-3
+Chokhe Chokh Rekhe - Kishore Kumar,Kishore Kumar,/artist/kishore-kumar,05:13,https://gaana.com//song/chokhe-chokh-rekhe-10
+Ore Mon Ke Emon Daga,Amit Kumar|Bhupinder Singh|Mohammed Rafi|Aarti Mukherji,/artist/amit-kumar|/artist/bhupinder-singh|/artist/mohammad-rafi|/artist/aarti-mukherji,11:14,https://gaana.com//song/ore-man-ke-amon
+E Mon Mor Jani Na Kotha Je Haralo,Nirmal Mishra,/artist/nirmal-mishra,03:15,https://gaana.com//song/e-mon-mor-jani-na-kotha-je-haralo-2
+Amar Silpi Kishore Kumar,Kumar Sanu,/artist/kumar-sanu,06:00,https://gaana.com//song/amar-silpi-kishore-kumar
+Chole Chole Majhkhane,Hemant Kumar,/artist/hemanta-mukherjee,03:15,https://gaana.com//song/chole-chole-majhkhane
+Ke Jay Re,Asha Bhosle,/artist/asha-bhosle-1,04:50,https://gaana.com//song/ke-jay-re
+Duti Mon Aar Nei,Chitra Singh,/artist/chitra-singh,03:48,https://gaana.com//song/duti-mon-aar-nei
+"Lajja, Mori Mori Eki Lajja",Aarti Mukherji,/artist/aarti-mukherji,03:48,https://gaana.com//song/lajja-mori-mori-eki-lajja-2
+Mor Swapneri Saathi,Kishore Kumar,/artist/kishore-kumar,04:32,https://gaana.com//song/mor-swapneri-saathi
+Story and Songs Part I,Asha Bhosle|Kishore Kumar|Shyamal Mitra,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/shyamal-mitra,30:11,https://gaana.com//song/story-songs-part-i
+O Dayal Bichar Karo,Akhil Bandhu Ghosh,/artist/akhil-bandhu-ghosh,02:41,https://gaana.com//song/o-dayal-bichar-karo-1
+Twamishwaranang,Debabrata Biswas,/artist/debabrata-biswas,06:28,https://gaana.com//song/twamishwaranang-1
+"Bondhu, Michhe Raag Koro Na",Chinmoy Chatterjee,/artist/chinmoy-chatterjee,03:14,https://gaana.com//song/bandhu-michhe-raag-karo-na-1
+Amar Praner Manus Achhe Prane,Sagar Sen,/artist/sagar-sen,02:44,https://gaana.com//song/amar-praner-manus-achhe-prane
+Prem Baro Madhur,Kishore Kumar,/artist/kishore-kumar,05:13,https://gaana.com//song/prem-baro-madhur-3
+Joubansarasineere,Hemant Kumar|Sushil Mullick,/artist/hemanta-mukherjee|/artist/sushil-mullick,02:36,https://gaana.com//song/joubansarasineere
+Jhor Jhor Jhoriche Sharabon,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:02,https://gaana.com//song/jhor-jhor-jhoriche-sharabon
+Bhalobasar Agun Jwele,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,https://gaana.com//song/bhalobasar-agun-jwele
+O Kalo Horin Chokhe,Shyamal Mitra,/artist/shyamal-mitra,03:24,https://gaana.com//song/o-kalo-horin-chokhe
+Ei Mom Jochhonay Ango Bhijiye,Aarti Mukherji,/artist/aarti-mukherji,03:28,https://gaana.com//song/ei-mom-jochhonay-ango-bhijiye-2
+Jiban Jakhan Shukaye Jay,Hemant Kumar,/artist/hemanta-mukherjee,03:17,https://gaana.com//song/jiban-jakhan-shukaye-jay-2
+Bolte Tumi Paro,Aarti Mukherji,/artist/aarti-mukherji,03:22,https://gaana.com//song/bolte-tumi-paro-2
+Sakal Janam Bhore O Mor Daradiya,Kanika Banerjee,/artist/kanika-banerjee,03:01,https://gaana.com//song/sakal-janam-bhore-o-mor-daradiya
+Badsha Begumer Khelaghare,Sharon Prabhakar,/artist/sharon-prabhakar,04:26,https://gaana.com//song/badsha-begumer-khelaghare-1
+Twamishwaranang,Debabrata Biswas,/artist/debabrata-biswas,06:28,https://gaana.com//song/twamishwaranang
+Aaji Marmardhwani Keno Jagilo Re,Hemant Kumar,/artist/hemanta-mukherjee,03:02,https://gaana.com//song/aji-marmardhwani-keno-jagilo-re-2
+Deko Na Amare Deko Na,Asha Bhosle,/artist/asha-bhosle-1,04:01,https://gaana.com//song/deko-na-amare-deko-na-1
+Jakhan Manusher Dukkhhe,Shyamal Mitra,/artist/shyamal-mitra,03:28,https://gaana.com//song/jakhan-manusher-dukkhhe
+Mone Rabe Ki Na Rabe Amare,Hemant Kumar,/artist/hemanta-mukherjee,02:41,https://gaana.com//song/mone-rabe-ki-na-rabe-amare-6
+Bhulo Na Pratham Se Din,Lata Mangeshkar,/artist/lata-mangeshkar,05:00,https://gaana.com//song/bhulo-na-pratham-se-din
+Swapno Amar Hariye Gechhe,R. D. Burman,/artist/r-d-burman,03:06,https://gaana.com//song/swapno-amar-hariye-gechhe
+On The Merry Go Round,Suzi Miller,/artist/suzi-miller,05:51,https://gaana.com//song/on-the-merry-go-round
+Mayabono Biharini Harini,Kishore Kumar,/artist/kishore-kumar,03:56,https://gaana.com//song/mayabono-biharini-harini-2
+Goopy Gyne Bagha Byne,various,/artist/various-2,02:43,https://gaana.com//song/tittle-music-2
+Bhiru Bhiru Chokhe Cheye Chole Gele,Shyamal Mitra,/artist/shyamal-mitra,03:04,https://gaana.com//song/bhiru-bhiru-chokhe-cheye-chole-gele-2
+Mehedir Rang Makhano,Asha Bhosle,/artist/asha-bhosle-1,04:08,https://gaana.com//song/mehedir-rang-makhano
+Megher Swapan Dekhi,Hemant Kumar,/artist/hemanta-mukherjee,03:33,https://gaana.com//song/megher-swapan-dekhi-1
+Prabhat Samaye Sachir Angina Majhe,Amar Pal,/artist/amar-pal,02:49,https://gaana.com//song/prabhat-samaye-sachir-angina-majhe-2
+Neel Kamal Lal Kamal - Thakurmaar Jhuli,Asha Devi|Kazi Sabyasachi|Lalita Dhar Chowdhury|Manju Banerjee|Reshma Chowdhury|Sailen Mukherjee|Hemant Kumar|Aarti Mukherji|Suparnakanti Ghosh|Sandhya Mukherjee|Dolly Ghosh|Amit Dasgupta|Papiya Bagchi|Sanat Banerjee|Shyamal Mitra|Nirmalendu Choudhury|Anup Ghoshal|Master Arindam|Party|Aparajita Dutta|Chandrakanta Seal|Anghuman Roy|Janaki Dutta|Biswajit Roychowdhury|Montu Bhattacharya,/artist/asha-devi|/artist/kazi-sabyasachi|/artist/lalita-dhar-chowdhury|/artist/manju-banerjee|/artist/reshma-chowdhury|/artist/sailen-mukherjee|/artist/hemanta-mukherjee|/artist/aarti-mukherji|/artist/suparnakanti-ghosh|/artist/sandhya-mukherjee|/artist/dolly-ghosh|/artist/amit-dasgupta|/artist/papiya-bagchi|/artist/sanat-banerjee|/artist/shyamal-mitra|/artist/nirmalendu-choudhury|/artist/anup-ghoshal-1|/artist/master-arindam|/artist/party|/artist/aparajita-dutta-2|/artist/chandrakanta-seal-8|/artist/anghuman-roy-2|/artist/janaki-dutta-2|/artist/biswajit-roychowdhury-2|/artist/montu-bhattacharya-2,18:41,https://gaana.com//song/neel-kamal-laal-kamal
+Bipinbabur Karan,Kishore Kumar,/artist/kishore-kumar,04:03,https://gaana.com//song/bipinbabur-karansudha
+Emoni Barosa Chilo Sedin,Feroza Begum,/artist/feroza-begum,03:23,https://gaana.com//song/emoni-barosa-chilo-sedin
+Tui Je Kemon Dayamoyee,Panna Lal Bhattacharjee,/artist/panna-lal-bhattacharjee,03:19,https://gaana.com//song/tui-je-kemon-dayamoyi
+Kaal Kakhan Aasbe Balo Na,R. D. Burman,/artist/r-d-burman,03:09,https://gaana.com//song/kaal-kakhon-asbe-balo-na
+Golemale Golemale,Purna Das Baul,/artist/purna-das-baul,03:15,https://gaana.com//song/golemale-golemale-1
+Keno Kichhu Katha Balo Na,Lata Mangeshkar,/artist/lata-mangeshkar,03:05,https://gaana.com//song/keno-kichhu-katha-balo-na-2
+Amar Ei Path Chaoyatei Ananda,Hemant Kumar,/artist/hemanta-mukherjee,02:51,https://gaana.com//song/amar-ei-pathchaoyatei-ananda-1
+Khaat Paalankey,Amar Pal,/artist/amar-pal,03:28,https://gaana.com//song/khaat-paalankey
+Aadho Aalo Chhayte,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,05:15,https://gaana.com//song/aadho-aalo-chhayte-1
+Ogo Aar Kichhu To Naai,Lata Mangeshkar,/artist/lata-mangeshkar,03:11,https://gaana.com//song/ogo-aar-kichhu-to-naai-2
+Naol Kishori Go,Hemant Kumar,/artist/hemanta-mukherjee,02:53,https://gaana.com//song/naol-kishori-go
+Chanting Of Sloka,Atanu Sanyal,/artist/atanu-sanyal,04:59,https://gaana.com//song/chanting-of-sloka-1
+Pagol (Pagol Pagol and Je Tore Pagol Bale),Dohar,/artist/dohar,04:17,https://gaana.com//song/pagol-pagol-pagol-je-tore-pagol-bale
+Ei Balukabelay Ami Likhechhinu,Hemant Kumar,/artist/hemanta-mukherjee,03:31,https://gaana.com//song/ei-balukabelae-aami-likhechhi
+O Kokila Tore Sudhai Re,Manna Dey,/artist/manna-dey,03:09,https://gaana.com//song/o-kokila-tore-sudhai-re
+O Aamar Kandher Anchal,Asha Bhosle,/artist/asha-bhosle-1,03:37,https://gaana.com//song/o-aamar-kandher-anchal-1
+Utho Utho Gourchand,Amar Pal,/artist/amar-pal,03:01,https://gaana.com//song/utho-utho-gourchand-1
+O Tota Pakhi Re,Nirmal Mishra,/artist/nirmal-mishra,02:56,https://gaana.com//song/o-tota-pakhi-re
+Kachhe Theke Dur Rachilo,Hemant Kumar,/artist/hemanta-mukherjee,03:09,https://gaana.com//song/kachhe-theke-dur-rachilo
+Dakhina Malay Ase Dhire Bohi,Shankarlal Mukherjee,/artist/shankarlal-mukherjee,03:24,https://gaana.com//song/dakhina-malay-ase-dhire-bohi
+Ghore Ferar Gaan,Vishal Dadlani,/artist/vishal-dadlani,03:51,https://gaana.com//song/ghoreferargaan
+Ami Premer Pather Pathik,Kishore Kumar,/artist/kishore-kumar,03:25,https://gaana.com//song/ami-premer-pather-pathik-1
+Ei Monta Jodi,Asha Bhosle,/artist/asha-bhosle-1,03:11,https://gaana.com//song/aye-monta-jodi
+Chokhe Jodi Jol Kare Talomal,Hemant Kumar,/artist/hemanta-mukherjee,03:29,https://gaana.com//song/chokhe-jodi-jol-kare-talomal
+Kshama Koro More,Sagar Sen,/artist/sagar-sen,03:36,https://gaana.com//song/kshama-koro-more
+Ami Nei Ami Nei,Kishore Kumar,/artist/kishore-kumar,03:02,https://gaana.com//song/ami-nei-ami-nei
+Chhere Dao Reshmi Churi,Sabitabrata Dutta,/artist/sabitabrata-dutta,04:09,https://gaana.com//song/chhere-dao-reshmi-churi-1
+Janam Abdhi,Manna Dey,/artist/manna-dey,03:55,https://gaana.com//song/janam-abdhi
+Dujanete Lekha Gaan,Kishore Kumar,/artist/kishore-kumar,03:09,https://gaana.com//song/dujanete-lekha-gaan
+Hey Priyotama Ami To Tomay,Kishore Kumar,/artist/kishore-kumar,05:11,https://gaana.com//song/hey-priyotama-ami-to-tomay-1
+Thikana Na Rekhe Bhaloi Korechho,Haimanti Shukla,/artist/haimanti-shukla,04:09,https://gaana.com//song/thikana-na-rekhe-bhaloi-korechho-2
+Nahi Keho Mor,Anup Ghoshal,/artist/anup-ghoshal-1,03:03,https://gaana.com//song/nahi-keho-mor
+Dak Diye Jai,Hemant Kumar,/artist/hemanta-mukherjee,03:26,https://gaana.com//song/dak-diye-jai
+Bondhu Kon Alo Laglo Chokhe,Sagar Sen,/artist/sagar-sen,03:27,https://gaana.com//song/bnadhu-kon-aalo-laglo-chokhe
+Baju Mor Khule Khule Jay,Shefali Ghosh,/artist/shefali-ghosh,03:06,https://gaana.com//song/baju-mor-khule-khule-jay
+Aaj Hridaye Bhalobese,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:38,https://gaana.com//song/aaj-hridaye-bhalobese
+Ami Tomay Jato Shuniyechhilem Gaan,Hemant Kumar,/artist/hemanta-mukherjee,02:47,https://gaana.com//song/ami-tomay-jato-shuniyechhilem-gaan-1
+Tare Ami Chokhe Dekhini,Kishore Kumar,/artist/kishore-kumar,03:07,https://gaana.com//song/tare-ami-chokhe-dekhini-3
+Abar Habe To Dekha,Manna Dey,/artist/manna-dey,03:11,https://gaana.com//song/abar-habe-to-dekha-3
+Paro Jodi Phire Eso (1965),Manna Dey,/artist/manna-dey,03:05,https://gaana.com//song/paro-jodi-phire-eso-1
+Ami Ki Aar Bhalo Habona,Manna Dey,/artist/manna-dey,03:19,https://gaana.com//song/ami-ki-aar-bhalo-habona-1
+O Malik Sara Jiban Kandale,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:53,https://gaana.com//song/o-malik-sara-jiban-kandale-1
+Haajaar Taaraar Aaloy,Lata Mangeshkar,/artist/lata-mangeshkar,04:38,https://gaana.com//song/haajaar-taaraar-aaloy
+Sahasra Jane More Prashna Kare,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:09,https://gaana.com//song/sahasra-jane-more-prashna-kare-2
+Sabar Aarale,Lata Mangeshkar,/artist/lata-mangeshkar,04:53,https://gaana.com//song/sabar-aarale
+Ami Tomar Sange Bendhechhi Amar Pran,Hemant Kumar,/artist/hemanta-mukherjee,03:26,https://gaana.com//song/ami-tomar-sange-bendhechhi-amar-pran-7
+Amar Duarkhani Batas Ese,Sandhya Mukherjee,/artist/sandhya-mukherjee,03:26,https://gaana.com//song/amar-duarkhani-batas-ese
+Dujon Bhayra Bhai,Anup Ghoshal,/artist/anup-ghoshal-1,01:02,https://gaana.com//song/dujon-bhayra-bhai
+Amar Paran Jaha Chay,Sagar Sen,/artist/sagar-sen,03:03,https://gaana.com//song/amar-paran-jaha-chay-13
+Tui Jato Phool,Asha Bhosle,/artist/asha-bhosle-1,03:36,https://gaana.com//song/tui-jato-phool-1
+A Jibon Madhu,Sharon Prabhakar,/artist/sharon-prabhakar,06:29,https://gaana.com//song/a-jibon-madhu
+Amar Naam Kishore Kumar Ganguly,Kishore Kumar|Chorus,/artist/kishore-kumar|/artist/chorus,06:42,https://gaana.com//song/amar-naam-kishore-kumar-ganguly
+Jani Tumi Phire Asbe Aabar,Hemant Kumar,/artist/hemanta-mukherjee,03:20,https://gaana.com//song/jani-tumi-phire-asbe-aabar
+"Na Jeyo Na, Tumi Jeyo Na",Hemant Kumar,/artist/hemanta-mukherjee,03:29,https://gaana.com//song/na-jeyo-na-tumi-jeyo-na
+Jani E Bhul,Aarti Mukherji,/artist/aarti-mukherji,03:14,https://gaana.com//song/jani-e-bhul-2
+Ogo Megh Tumi Ure Jao,Hemant Kumar,/artist/hemanta-mukherjee,03:39,https://gaana.com//song/ogo-megh-tumi-ure-jao
+Moner Darja Khule Dilam,Alka Yagnik,/artist/alka-yagnik,05:00,https://gaana.com//song/moner-darja-khule-dilam
+Edin Aaji Kon Ghore Go,Sumitra Sen,/artist/sumitra-sen,02:22,https://gaana.com//song/edin-aaji-kon-ghore-go
+Nai Nai E Anadhar Theke,Kishore Kumar,/artist/kishore-kumar,03:25,https://gaana.com//song/nai-nai-e-anadhar-theke
+Tare Ami Chokhe Dekhini,Kishore Kumar,/artist/kishore-kumar,03:07,https://gaana.com//song/tare-ami-chokhe-dekhini-kishore-kumar-1
+Tumi Kon Kananer Phul,Asha Bhosle,/artist/asha-bhosle-1,03:58,https://gaana.com//song/tumi-kon-kananer-phul-3
+Taire Naire Na,Antara Chwdhury,/artist/antara-chwdhury,04:01,https://gaana.com//song/taire-naire-na-1
+Basanta (Part-1) With Recitation,Arghya Sen|Banani Ghosh|Chinmoy Chatterjee|Dwijen Mukherjee|Gora Sarbadhikari|Kanika Banerjee|Kazi Sabyasachi|Suchitra Mitra|Hemant Kumar|Ritu Guha|Sagar Sen|Purabi Mukherjee|Sushil Mullick|Sumitra Ghosh|Swapan Gupta,/artist/arghya-sen|/artist/banani-ghosh|/artist/chinmoy-chatterjee|/artist/dwijen-mukherjee|/artist/gora-sarbadhikari|/artist/kanika-banerjee|/artist/kazi-sabyasachi|/artist/suchitra-mitra|/artist/hemanta-mukherjee|/artist/ritu-guha|/artist/sagar-sen|/artist/purabi-mukherjee|/artist/sushil-mullick|/artist/sumitra-ghosh|/artist/swapan-gupta,24:35,https://gaana.com//song/basanta-part1
+Prem Kathatai Chhoto,Asha Bhosle,/artist/asha-bhosle-1,03:29,https://gaana.com//song/prem-kathatai-chhoto
+"Bone Phagun, Mone Agun",S. D. Burman,/artist/sdburman,03:17,https://gaana.com//song/bone-phagunmone-agun
+Nitya Tomar Je Phul Phote,Hemant Kumar,/artist/hemanta-mukherjee,03:18,https://gaana.com//song/nittya-tomar-je-phool-phote-1
+Sona Bandhu,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:00,https://gaana.com//song/sona-bandhu
+Mon Je Amar Kemon Kemon Kare,Ruma Guha Thakurta|Geeta Dutt,/artist/ruma-guha-thakurta|/artist/geeta-dutt,03:03,https://gaana.com//song/mon-je-amar-kemon-kemon-kare
+Dhale Jete Jete,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,04:21,https://gaana.com//song/dhale-jete-jete-1
+Runner,Lata Mangeshkar,/artist/lata-mangeshkar,05:05,https://gaana.com//song/runner-53
+E Shudhu Gaaner Din,Sandhya Mukherjee,/artist/sandhya-mukherjee,03:31,https://gaana.com//song/e-shudhu-gaaner-din-1
+Tarader Kane Kane,Nirmal Mishra,/artist/nirmal-mishra,03:09,https://gaana.com//song/tarader-kane-kane-1
+Jetey Jetey ( Manna Dey ),Manna Dey|Arundhati Holme Chowdhury,/artist/manna-dey|/artist/arundhati-holme-chowdhury,03:05,https://gaana.com//song/jetey-jetey-manna-dey-1
+Kar Nikunje Raat Katay,Feroza Begum,/artist/feroza-begum,04:04,https://gaana.com//song/kar-nikunje-raat-katay
+Puruliar Bajar Morey,Subhas Chakraborty,/artist/subhas-chakraborty,02:50,https://gaana.com//song/puruliar-bajar-morey
+Chalo Jai Chole Jai,Kishore Kumar,/artist/kishore-kumar,02:56,https://gaana.com//song/chalo-jai-chole-jai-3
+Tiya Tiya Tiya,Shyamasree Mazumder,/artist/shyamasree-mazumder,02:38,https://gaana.com//song/tiya-tiya-tiya
+Amar Mayer Naamti Dayamoyee,Dhananjoy Bhattacharya,/artist/dhananjoy-bhattacharya,03:26,https://gaana.com//song/amar-mayer-naamti-dayamoyee
+Din Chole Jay Sobi Badlay,Hemant Kumar,/artist/hemanta-mukherjee,03:24,https://gaana.com//song/din-chole-jay-sobee-bodlay
+Ei Sundar Swarnali Sandhaye,Geeta Dutt,/artist/geeta-dutt,03:25,https://gaana.com//song/ei-sundar-swarnali-sandhaye-2
+Sanyasi Raja - Dialogue - Jogjiban Raja Samlao And Songs,Manna Dey|Hemant Kumar,/artist/manna-dey|/artist/hemanta-mukherjee,27:14,https://gaana.com//song/songs-5
+Banshi Shune Ki,Asha Bhosle,/artist/asha-bhosle-1,05:25,https://gaana.com//song/banshi-shune-ki-1
+Bhalo Kore Tumi Cheye Dekho,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,https://gaana.com//song/bhalo-kore-tumi-cheye-dekho
+Raanar,Lata Mangeshkar,/artist/lata-mangeshkar,05:50,https://gaana.com//song/raanar
+Amar Moner Video Camera,Subir Nandi,/artist/subir-nandi,03:06,https://gaana.com//song/amar-moner-video-camera
+Banshi Keno Hai,Lata Mangeshkar,/artist/lata-mangeshkar,03:18,https://gaana.com//song/banshi-keno-hai-1
+Kader Kuler Bou,Ramkumar Chatterjee,/artist/ramkumar-chatterjee,03:30,https://gaana.com//song/kader-kuler-bou-2
+Keno Amay Pagol Kore Jas,Hemant Kumar,/artist/hemanta-mukherjee,03:23,https://gaana.com//song/keno-amay-pagal-kore-jas-1
+Noorjahan Noorjahan,Feroza Begum,/artist/feroza-begum,03:07,https://gaana.com//song/noorjahan-noorjahan
+Akash Pathe Prem Korechhi,Kishore Kumar,/artist/kishore-kumar,04:52,https://gaana.com//song/akash-pathe-prem-karechhi
+Jana Ajana Pathey Cholechhi,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,04:29,https://gaana.com//song/jana-ajana-pathey-cholechhi
+Hanti Hanti Pa Pa,Manna Dey,/artist/manna-dey,02:46,https://gaana.com//song/hanti-hanti-pa-pa
+Kon Se Alor Swapna Niye,Asha Bhosle,/artist/asha-bhosle-1,03:18,https://gaana.com//song/kon-se-alor-swapna-niye
+Jhar Jhar Jhare,Amit Kumar|Asha Bhosle,/artist/amit-kumar|/artist/asha-bhosle-1,03:39,https://gaana.com//song/jhar-jhar-jharey
+Boudidi Go,Swapna Chakraborty,/artist/swapna-chakraborty,03:03,https://gaana.com//song/boudidi-go
+Champabati Meye Ogo,Shyamal Mitra,/artist/shyamal-mitra,02:57,https://gaana.com//song/champabati-meye-ogo-1
+Anandadhara Bahichhe Bhubane,Kanika Banerjee,/artist/kanika-banerjee,03:28,https://gaana.com//song/anandadhara-bahichhe-bhubane-4
+Bristi Thamar Sheshe,Asha Bhosle,/artist/asha-bhosle-1,03:05,https://gaana.com//song/bristi-thamar-shese
+Balo To Arshi Tumi,Nirmal Mishra,/artist/nirmal-mishra,03:17,https://gaana.com//song/balo-to-arshi-tumi-1
+Ami :- (Ami-Poem and Sakalei Ami),Dohar,/artist/dohar,06:12,https://gaana.com//song/ami-amipoem-sakalei-ami
+Kato Gaan Haralam,Geeta Dutt,/artist/geeta-dutt,03:17,https://gaana.com//song/kato-gaan-haralam
+E Jiban Premeri Ek Patabahar Kabita,Kishore Kumar,/artist/kishore-kumar,04:58,https://gaana.com//song/e-jiban-premeri-ek-patabahar-kabita-2
+Maner Mayur,Asha Bhosle,/artist/asha-bhosle-1,04:02,https://gaana.com//song/maner-mayur
+Aaj Jiban Khunje Pabi,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:48,https://gaana.com//song/aaj-jibon-khunje-pabi
+Bhalobashar Tumi Ki Jano,Namita Ghoshal,/artist/namita-ghoshal,02:41,https://gaana.com//song/bhalobashar-tumi-ki-jano
+Mon Matal Sanjh Sakal,Mukesh,/artist/mukesh,03:18,https://gaana.com//song/mon-matal-sanjh-sakal-5
+Sedin Tomay Dekhechhilam,Hemant Kumar,/artist/hemanta-mukherjee,03:21,https://gaana.com//song/sedin-tomay-dekhechhilam-1
+Ebar Nirab Kore Dao Hey Tomar Mukhar Kabire,Hemant Kumar,/artist/hemanta-mukherjee,03:03,https://gaana.com//song/ebar-nirab-kore-dao-he-tomar-mukhar-kabi-1
+Jodi Kichhu Amare Shudhao,Shyamal Mitra,/artist/shyamal-mitra,03:02,https://gaana.com//song/jodi-kichhu-amare-shudhao
+Biraha Baro Bhalo Lage,S. D. Burman,/artist/sdburman,03:16,https://gaana.com//song/biraha-baro-bhalo-lage-3
+Katodin Dekhini Tomay,Manna Dey,/artist/manna-dey,03:11,https://gaana.com//song/katodin-dekhini-tomay-4
+Ora Akarone Chanchal,Hemant Kumar,/artist/hemanta-mukherjee,02:53,https://gaana.com//song/ora-akarone-chanchal
+Mor Bhabonare (Male),Saptarshi,/artist/saptarshi,04:07,https://gaana.com//song/morbhabonaremale
+Pratham Na Hoy Dwitiya Na Hoy,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:01,https://gaana.com//song/pratham-na-hoy-dwitiya-na-hoy-2
+Banshi Shune Aar Kaj Nai,S. D. Burman,/artist/sdburman,03:16,https://gaana.com//song/banshi-shune-aar-kaj-nai-6
+Amar Swapna Tumi Ogo,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,03:56,https://gaana.com//song/amar-swapna-tumi-ogo-20
+O Keno Eto Sundari Holo,Manna Dey,/artist/manna-dey,03:21,https://gaana.com//song/o-keno-eto-sundari-holo-5
+Tomar Haat Dhorlam,Haimanti Shukla,/artist/haimanti-shukla,03:48,https://gaana.com//song/tomaar-haath-dhorlam
+Mone Mone Se Janina,Aarti Mukherji,/artist/aarti-mukherji,02:58,https://gaana.com//song/mone-mone-se-janina-1
+Ami Phuldanite Sajiye Rakha,Asha Bhosle,/artist/asha-bhosle-1,03:39,https://gaana.com//song/ami-phooldanite-sajiye-rakha
+Rojoni Phurate Ekhonoje Baki,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:22,https://gaana.com//song/rojoni-phurate-ekhonoje-baki
+The Prisoners,various,/artist/various-2,43:13,https://gaana.com//song/the-prisoners
+Ogo Bondhu Amar,BHAKTA DAS BAUL,/artist/bhakta-das-baul,07:00,https://gaana.com//song/ogo-bondhu-amar
+Diye Gechhi Sabi,Hemant Kumar,/artist/hemanta-mukherjee,03:08,https://gaana.com//song/diye-gechhi-sabi-1
+Jhun Jhun Moyna Nacho Na,Mukesh,/artist/mukesh,03:14,https://gaana.com//song/jhun-jhun-moyna-nacho-na-3
+Amay Bhasaili Re Amay Dubaili Re,Manabendra Mukherjee,/artist/manabendra-mukherjee,02:59,https://gaana.com//song/amai-bhasaili-re
+Sankha Bajiye Maake,Sandhya Mukherjee,/artist/sandhya-mukherjee,02:29,https://gaana.com//song/sankha-bajiye-maake
+Sarata Jibon Palonke,Satinath Mukhyopadhyay,/artist/satinath-mukhyopadhyay,03:37,https://gaana.com//song/sarata-jibon-palonke
+Jakey Pabo Na,Lata Mangeshkar,/artist/lata-mangeshkar,05:13,https://gaana.com//song/jakey-pabo-na
+Bhora Thak Smritisudhay,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,03:13,https://gaana.com//song/bhora-thak-smritisudhay
+Lakshmiti Dohai Tomar,Asha Bhosle,/artist/asha-bhosle-1,03:19,https://gaana.com//song/lakshmiti-dohai-tomar-1
+Raat Dupure Kothay Jabe,Asha Bhosle,/artist/asha-bhosle-1,03:46,https://gaana.com//song/raat-dupure-kothay-jabe
+Ek Phule Char Rang Dhorechhe,Dinendra Chowdhury,/artist/dinendra-chowdhury,03:02,https://gaana.com//song/ek-phule-char-rang-dharechhe
+Ogo Nirupama,Kishore Kumar,/artist/kishore-kumar,03:11,https://gaana.com//song/ogo-nirupama
+Marubhumi,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:00,https://gaana.com//song/marubhumi
+Phiriya Jodi Se,Manabendra Mukherjee,/artist/manabendra-mukherjee,03:09,https://gaana.com//song/phiriya-jadi-se
+Dujane Dekha Holo Madhujamini Re,Kanika Banerjee,/artist/kanika-banerjee,02:39,https://gaana.com//song/dujane-dekha-holo-madhujamini-re-2
+Jato Bhabna Chhilo,Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,03:13,https://gaana.com//song/jato-swapno-chhilo
+Jemon Beni Temni Rabey,Purna Das Baul,/artist/purna-das-baul,03:07,https://gaana.com//song/jemon-beni-temni-rabey
+Mangaldeep Jwele (Part 2),Bappi Lahiri,/artist/bappi-lahiri,02:59,https://gaana.com//song/mangaldeep-jwele-2
+Sandhya Belay Tumi Ami Bose Achi Dujone,Asha Bhosle,/artist/asha-bhosle-1,03:31,https://gaana.com//song/sandhya-belay-tumi-ami-1
+Amar Je Din Bhese Gechhe,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,03:05,https://gaana.com//song/amar-je-din-bhese-gechhe-chokher-jale
+Orey Bondhurey Moner Katha,S. D. Burman,/artist/sdburman,03:15,https://gaana.com//song/orey-bondhurey-moner-katha
+Nayan Sarasi Keno Bhoreche Jaale,Kishore Kumar,/artist/kishore-kumar,03:24,https://gaana.com//song/nayan-sarasi-keno-bhoreche-jaale-3
+Jeno Chiradini Ei Hoy,Aarti Mukherji,/artist/aarti-mukherji,03:18,https://gaana.com//song/jeno-chiradini-ei-hoy-1
+Jato Baar Aalo Jwalate Chai,Dwijen Mukherjee,/artist/dwijen-mukherjee,02:59,https://gaana.com//song/jato-baar-aalo-jwalate-chai-raag-kamod
+Chaina Amar Reshmi Chudi,Asha Bhosle,/artist/asha-bhosle-1,04:54,https://gaana.com//song/chaina-amar-reshmi-chudi
+Ami Eto Je Tomay Bhalobesechhi,Manashi Mukherjee,/artist/manashi-mukherjee,03:21,https://gaana.com//song/ami-eto-je-tomay-bhalobesechi
+Sei Bhalo Sei Bhalo,Hemant Kumar,/artist/hemanta-mukherjee,03:01,https://gaana.com//song/sei-bhalo-sei-bhalo-17
+Jare Ja Ure Rajar Kumar (Part 2),Hemant Kumar,/artist/hemanta-mukherjee,02:51,https://gaana.com//song/jare-ja-ure-rajar-kumar-2
+Mrinmoyee Sad,various,/artist/various-2,01:11,https://gaana.com//song/mrinmoyee-sad-samapti
+Ei Path Jodi Na Shes Hoy,Sandhya Mukherjee,/artist/sandhya-mukherjee,01:52,https://gaana.com//song/ei-path-jodi-na-shes-hoy-8
+Maa Durgar Onek Roop,Udit Narayan,/artist/udit-narayan,05:59,https://gaana.com//song/maa-durgar-onek-roop
+O Jhar Jhar Jharna,Lata Mangeshkar,/artist/lata-mangeshkar,03:11,https://gaana.com//song/o-jhar-jhar-jharna-1
+Saraswati Bidyebati,Sanat Singha,/artist/sanat-singha,03:26,https://gaana.com//song/saraswati-bidyebati-1
+Tumi Jodi Thakte,Kumar Sanu,/artist/kumar-sanu,05:00,https://gaana.com//song/tumi-jodi-thakte
+Ministers Get Necklaces,various,/artist/various-2,01:14,https://gaana.com//song/ministers-get-necklaces
+Ke Jay Re,Asha Bhosle,/artist/asha-bhosle-1,04:53,https://gaana.com//song/ke-jay-re-1
+Dukkher Timir Jodi Jwale,Debabrata Biswas,/artist/debabrata-biswas,02:53,https://gaana.com//song/dukkher-timir-jodi-jwale
+Jano Naki Tumi,Asha Bhosle|Bappi Lahiri,/artist/asha-bhosle-1|/artist/bappi-lahiri,04:51,https://gaana.com//song/jano-naki-tumi
+Kemone Taribo Tara,Lata Mangeshkar,/artist/lata-mangeshkar,02:53,https://gaana.com//song/kemone-taribo-tara
+Aaji Manda Madhura Pabane,Sreekumar Chatterjee,/artist/sreekumar-chatterjee,04:23,https://gaana.com//song/aaji-manda-madhura-pabane-1
+Aaju Rang Khelatu,Sandhya Mukherjee,/artist/sandhya-mukherjee,03:14,https://gaana.com//song/aaju-rang-khelatu
+Shono Kono Ekdin,Hemant Kumar,/artist/hemanta-mukherjee,03:02,https://gaana.com//song/shono-kono-ekdin-7
+O Je Mane Na Mana,Kanika Banerjee,/artist/kanika-banerjee,02:52,https://gaana.com//song/o-je-mane-na-mana-24
+Sei Raate Raat Chhilo Purnima,Kishore Kumar,/artist/kishore-kumar,04:05,https://gaana.com//song/sei-raate-raat-chhilo-purnima-1
+Oi Malatilata Dole,Sagar Sen,/artist/sagar-sen,03:03,https://gaana.com//song/oi-malatilata-dole-5
+Keno Tumi Chupi Chupi,Kishore Kumar,/artist/kishore-kumar,03:00,https://gaana.com//song/keno-tumi-chupi-chupi-4
+Ami Boli Tomay Dure Thako,Lata Mangeshkar,/artist/lata-mangeshkar,03:06,https://gaana.com//song/ami-boli-tomay-dure-thako
+Na Deko Na Deko Na Go More,Asha Bhosle,/artist/asha-bhosle-1,04:32,https://gaana.com//song/na-deko-na-deko-na-go-more-1
+Chithi (Tumi Aaj Kato Durey),Jaganmoy Mitra,/artist/jaganmoy-mitra,06:57,https://gaana.com//song/chithi-tumi-aaj-kato-durey
+Behaya Banshi Dake Je,Lata Mangeshkar,/artist/lata-mangeshkar,03:02,https://gaana.com//song/behaya-banshi-dake-je
+Kalka Parer Nil Sarita,Kumar Sanu,/artist/kumar-sanu,03:52,https://gaana.com//song/kalka-parer-nil-sarita
+Gopal Re O Gopal,Anusuya Ghosh,/artist/anusuya-ghosh,07:09,https://gaana.com//song/gopal-re-o-gopal
+Sab Kata Janala Khule Daona,Sabina Yasmeen,/artist/sabina-yasmeen,05:07,https://gaana.com//song/sab-kata-janala-khule-daona
+Title Music - Teen Kanya,Satyajit Ray,/artist/satyajit-ray,01:26,https://gaana.com//song/title-music-teen-kanya
+Lal Paahaarir Dyashe Jaa,Subhas Chakraborty,/artist/subhas-chakraborty,02:55,https://gaana.com//song/lal-paahaarir-dyashe-jaa
+Amar Ma Eshchen Ghare,Manju Das,/artist/manju-das,02:35,https://gaana.com//song/amar-ma-eshchen-ghare
+Antara Jar Athai Sagar (manna),Manna Dey,/artist/manna-dey,03:17,https://gaana.com//song/antara-jar-athai-sagar-manna
+Amanush - Dialogue - Maap Korben Huzur,Abhhi Bhattacharya|Anil Chatterjee|Uttam Kumar|Sharmila Tagore,/artist/abhhi-bhattacharya|/artist/anil-chatterjee|/artist/uttam-kumar|/artist/sharmila-tagore,26:03,https://gaana.com//song/dialogues-and-song-1-amanush
+Lord Bhanu (1 and 2)(Comic Sketch),Basabi Ghatak|Bithi Ganguly|Chandidas Chakraborty|Debnarayan Chatterjee|Dilip Ghosh|Dwijadas Chakraborty|Robin Mukherjee|Sudhin Mukherjee|Sandip Bhattacharya|Swapan Pathak|Bhanu Bandopadhyay,/artist/basabi-ghatak|/artist/bithi-ganguly|/artist/chandidas-chakraborty|/artist/debnarayan-chatterjee|/artist/dilip-ghosh|/artist/dwijadas-chakraborty|/artist/robin-mukherjee|/artist/sudhin-mukherjee|/artist/sandip-bhattacharya|/artist/swapan-pathak|/artist/bhanu-bandopadhyay-45,13:04,https://gaana.com//song/lord-bhanu-1-2
+Keu Kakhano Thik,Antara Chwdhury,/artist/antara-chwdhury,05:46,https://gaana.com//song/keu-kakhano-thik
+"Aparupa, Aparupa",Lata Mangeshkar,/artist/lata-mangeshkar,03:15,https://gaana.com//song/aparupa-aparupa
+Ogo Kajal Nayana Harini,Hemant Kumar,/artist/hemanta-mukherjee,03:25,https://gaana.com//song/ogo-kajal-nayana-harini
+Amar Paran Jaha Chaay,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,02:41,https://gaana.com//song/amar-paran-jaha-chaay
+Dance Of The Ghosts,various,/artist/various-2,03:07,https://gaana.com//song/dance-of-the-ghosts
+Ami Pathbhola Ek Pathik Esechhi,Asha Bhosle|Hemant Kumar,/artist/asha-bhosle-1|/artist/hemanta-mukherjee,03:14,https://gaana.com//song/ami-pathbhola-ek-pathik-esechhi-2
+O Ki Mahishal Re,Ayesha Sarkar,/artist/ayesha-sarkar,03:01,https://gaana.com//song/o-ki-mahishal-re
+"Rodanbhora E Basanta, Sakhi",Hemant Kumar,/artist/hemanta-mukherjee,03:05,https://gaana.com//song/rodonbhara-e-basanta-sakhi-2
+Akashe Surja Achhe Jatodin,Asha Bhosle,/artist/asha-bhosle-1,03:04,https://gaana.com//song/akashe-surja-aachhe-jatodin
+Tumi Surjya Tumi Chandra,Amar Roy|Asha Bhosle|Chittapriya Mukherjee,/artist/amar-roy|/artist/asha-bhosle-1|/artist/chittapriya-mukherjee,06:21,https://gaana.com//song/tumi-surjya-tumi-chandra
+Keno Tumi badle Gechho,Akhil Bandhu Ghosh,/artist/akhil-bandhu-ghosh,03:09,https://gaana.com//song/keno-tumi-badle-gechho-1
+Jiban Jakhan Shukaye Jay (Mono),Suchitra Mitra,/artist/suchitra-mitra,03:11,https://gaana.com//song/jibon-jakhan-shukaye-jai-1
+Tumi Sandhyar Meghmala,Rakhi Sarkar,/artist/rakhi-sarkar,04:03,https://gaana.com//song/tumi-sandhyar-meghomala-2
+Rakhal Chandra Matal,Kishore Kumar,/artist/kishore-kumar,26:22,https://gaana.com//song/rakhal-chandra-matal-geeti-alekhya
+Dur Dwipbasini,Feroza Begum,/artist/feroza-begum,04:38,https://gaana.com//song/dur-dwipbasini
+Borfi,various,/artist/various-2,47:06,https://gaana.com//song/borfi-theme
+Karo Keu Naiko Aami,Kishore Kumar,/artist/kishore-kumar,04:46,https://gaana.com//song/karo-keu-naiko-aami
+O Pahar (Female Version),Kavita Krishnamurthy,/artist/kavita-subramaniam,07:22,https://gaana.com//song/o-pahar-female-version
+Teler Shishi,Antara Chwdhury,/artist/antara-chwdhury,02:51,https://gaana.com//song/teler-shishi
+Eso Kachhe Eso (Part 1),Lata Mangeshkar,/artist/lata-mangeshkar,03:28,https://gaana.com//song/eso-kachhe-eso-1
+Tomader Aasare Aaj,Lata Mangeshkar,/artist/lata-mangeshkar,04:38,https://gaana.com//song/tomader-aasare-aaj
+Andhakare Ese Tumi,Manabendra Mukherjee,/artist/manabendra-mukherjee,02:43,https://gaana.com//song/andhakarey-ese-tumi
+Moynaparar Meye (Krishnakali and Surer Guru),Dohar,/artist/dohar,11:46,https://gaana.com//song/moynaparar-meye-krishnakali-surer-guru
+Guru Guru Guru Guru Ghana Megh Garaje,Chorus,/artist/chorus,01:04,https://gaana.com//song/guru-guru-guru-guru-ghana-megh-garaje
+Mone Pore Ruby Roy,R. D. Burman,/artist/r-d-burman,03:25,https://gaana.com//song/mone-pore-ruby-roy-5
+"Barne, Gandhe, Chhande, Gitite",S. D. Burman,/artist/sdburman,03:13,https://gaana.com//song/barne-gandhe-chhande-gitite
+Haay Haay Praan Jaay,Lata Mangeshkar,/artist/lata-mangeshkar,03:32,https://gaana.com//song/haay-haay-praan-jaay
+Samay Gele Sadhan Hobe Na,Farida Parveen,/artist/farida-parveen,03:42,https://gaana.com//song/samoy-gele-sadhan-habe-na
+Swapna Dekhi Danriye Achho,Sriradha Banerjee,/artist/sriradha-banerjee,03:19,https://gaana.com//song/swapna-dekhi-danriye-achho-1
+Tumi Shakti Tumi Debi,Abhijit Mukherjee,/artist/abhijit-mukherjee,04:03,https://gaana.com//song/tumi-shakti-tumi-debi-1
+Dekho Gorbito Bir Ver.2,Anup Ghoshal,/artist/anup-ghoshal-1,01:31,https://gaana.com//song/dekho-gorbito-bir
+Story and Songs Part Ii,Asha Bhosle|Kishore Kumar|Shyamal Mitra,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/shyamal-mitra,29:18,https://gaana.com//song/story-songs-part-ii
+Emon Mon Byabsaa,Purna Das Baul,/artist/purna-das-baul,03:07,https://gaana.com//song/emon-mon-byabsaa
+Agamani Gaan Shona Jay (Aashwin),Manna Dey,/artist/manna-dey,04:02,https://gaana.com//song/agamani-gaan-shona-jay-aashwin
+Amar Jabar Belay Pichhu Dake,Hemant Kumar,/artist/hemanta-mukherjee,03:03,https://gaana.com//song/amar-jabar-belay-pichhu-dake-4
+O Prajapati Prajapati,Lata Mangeshkar,/artist/lata-mangeshkar,03:00,https://gaana.com//song/o-prajapati-prajapati-3
+Amar Moner Manusher Sone,Pratima Banerjee,/artist/pratima-banerjee,02:51,https://gaana.com//song/amar-moner-manusher-sone
+Aamar Swapna Je,Lata Mangeshkar|Kishore Kumar,/artist/lata-mangeshkar|/artist/kishore-kumar,07:28,https://gaana.com//song/aamar-swapna-je
+Eka Nare,Antara Chwdhury,/artist/antara-chwdhury,03:38,https://gaana.com//song/eka-nare
+Jharapata Go Ami Tomari Dale,Hemant Kumar,/artist/hemanta-mukherjee,02:54,https://gaana.com//song/jharapata-go-ami-tomari-dale-3
+Danrale Duare Mor,Feroza Begum,/artist/feroza-begum,04:35,https://gaana.com//song/danraley-duarey-mor
+(Ami) Takdum Takdum Bajai,S. D. Burman,/artist/sdburman,03:07,https://gaana.com//song/-ami-takdum-takdum-bajai
+Tui Phele Esechhis Kare,Hemant Kumar,/artist/hemanta-mukherjee,02:55,https://gaana.com//song/tui-phele-esechhis-kare-3
+Ei Je Nodi - Nodire,Hemant Kumar,/artist/hemanta-mukherjee,03:41,https://gaana.com//song/ei-je-nodi-nodire
+O Mon Kakhan Shuru,Sandhya Mukherjee|Shyamal Mitra,/artist/sandhya-mukherjee|/artist/shyamal-mitra,03:32,https://gaana.com//song/o-mon-kakhan-shuru
+Sona Ghumalo Para Juralo,Geeta Dutt,/artist/geeta-dutt,03:15,https://gaana.com//song/sona-ghumalo-para-juralo-1
+Pahare Jongole Ek Manushkhekho Bagh Thake,Asha Bhosle,/artist/asha-bhosle-1,05:25,https://gaana.com//song/pahare-jongole-ek-manushkhekho-bagh-thake
+Alo Amar Alo Ogo,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,02:26,https://gaana.com//song/alo-amar-alo-ogo-10
+Shuno Shuno Go Sabe,Kishore Kumar,/artist/kishore-kumar,07:29,https://gaana.com//song/shuno-shuno-go-sabe
+Kanthe Amar Daogo Bani,Pamela Mukherjee,/artist/pamela-mukherjee,04:19,https://gaana.com//song/kanthe-aamar-daogo-bani-1
+Bak Halo Binapani,Sreekumar Chatterjee,/artist/sreekumar-chatterjee,05:25,https://gaana.com//song/bak-halo-binapani-1
+Kato Raaginir Bhul Bhangate,Hemant Kumar,/artist/hemanta-mukherjee,03:05,https://gaana.com//song/kato-raaginir-bhul-bhangate
+Nao Go Ma Phul Nao,Lata Mangeshkar,/artist/lata-mangeshkar,03:02,https://gaana.com//song/nao-go-ma-phool-nao
+Keno Dako Bare Bare,Sandhya Mukherjee,/artist/sandhya-mukherjee,03:06,https://gaana.com//song/keno-dako-bare-bare
+Mone Pade Sei Sab,Kishore Kumar,/artist/kishore-kumar,03:30,https://gaana.com//song/mone-pade-sei-sab
+Jak Dhuye Jak Muchhe Jak,Shyamal Mitra,/artist/shyamal-mitra,03:23,https://gaana.com//song/jak-dhuye-jak-muchhe-jak
+Aloy Alor Smriti,Atanu Sanyal,/artist/atanu-sanyal,03:02,https://gaana.com//song/aloy-alor-smriti-1
+Jhiri Jhiri Batas Kande,Shyamal Mitra,/artist/shyamal-mitra,03:14,https://gaana.com//song/jhiri-jhiri-batas-kande
+Chaina Amar Reshmi Chudi,Asha Bhosle,/artist/asha-bhosle-1,04:54,https://gaana.com//song/chaina-amar-reshmi-chudi-1
+Shikhtey Tomaay Hobeyi,Kishore Kumar,/artist/kishore-kumar,04:59,https://gaana.com//song/shikhtey-tomaay-hobeyi
+Keno Bani Tabo Nahi Shuni Nath Hey,Sagar Sen,/artist/sagar-sen,03:31,https://gaana.com//song/keno-bani-tabo-nahi-shuni-nath-hey
+O Didimoni,Aarti Mukherji,/artist/aarti-mukherji,02:41,https://gaana.com//song/o-didimoni
+Dur Noy Beshi Dur Oi (Jaak Ja Gechhe Ta Jaak),Shyamal Mitra,/artist/shyamal-mitra,02:48,https://gaana.com//song/dur-noy-beshi-dur-oi-jaak-ja-gechhe-ta-jaak-shyamal-mitra
+Amar Moner Ei Mayurmahale,Kishore Kumar,/artist/kishore-kumar,03:09,https://gaana.com//song/amar-moner-ei-mayurmahale-3
+Banshi Shune Aar Kaj Nai,S. D. Burman,/artist/sdburman,03:16,https://gaana.com//song/banshi-shune-aar-kaj-nai-4
+Nishi Raat Banka Chand Akashe,Banasree Sengupta,/artist/banasree-sengupta,04:24,https://gaana.com//song/nishi-raat-baankaa-chaand-aakaashe
+Nitol Paye Rinik Jhinik,S. D. Burman,/artist/sdburman,03:29,https://gaana.com//song/nitol-paye-rinik-jhinik
+Jodio Rajani Pohalo,Lata Mangeshkar,/artist/lata-mangeshkar,04:28,https://gaana.com//song/jodio-rajani-pohalo
+Aarati Korte Chokh,Sanjay Chakraborty,/artist/sanjay-chakraborty,04:57,https://gaana.com//song/aarati-korte-chokh-1
+Nao Gaan Bhare,Antara Chwdhury,/artist/antara-chwdhury,03:38,https://gaana.com//song/nao-gaan-bhare
+Amar Malatilata Dole,Lata Mangeshkar,/artist/lata-mangeshkar,03:33,https://gaana.com//song/amar-malatilata-dole-lata-mangeshkar
+Bhanu Elo Kolkatay - 1 And 2 - Comic,Sudhin Mukherjee|Sushil Das|Vivekananda Roy|Bhanu Bandopadhyay|Sudhir Bhattacharya|Shaila Devi,/artist/sudhin-mukherjee|/artist/sushil-das|/artist/vivekananda-roy|/artist/bhanu-bandopadhyay-14|/artist/sudhir-bhattacharya|/artist/shaila-devi,11:15,https://gaana.com//song/bhanu-elo-kolkatay-1-2
+Takhon Tomar Ekush Bachhar,Aarti Mukherji,/artist/aarti-mukherji,03:22,https://gaana.com//song/takhon-tomar-ekush-bachhar-3
+Seito Sravan,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,https://gaana.com//song/seito-sravan
+Jhim Chiki Chak,Lata Mangeshkar|Chorus,/artist/lata-mangeshkar|/artist/chorus,03:25,https://gaana.com//song/jhim-chiki-chak
+Amar Mon Cheye Roy Mone Mone,Hemant Kumar,/artist/hemanta-mukherjee,03:15,https://gaana.com//song/amar-mon-cheye-roy-mone-mone-3
+Chiradin Kancha Bansher Khancha,Purna Das Baul,/artist/purna-das-baul,03:39,https://gaana.com//song/chiradin-kancha-bansher-khancha
+Aay Aay Chhute Aay,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:12,https://gaana.com//song/aay-aay-chhute-aay
+Bhupatis Grief,various,/artist/various-2,01:29,https://gaana.com//song/bhupatis-grief
+Ja Jare Ja Ja Pakhi,Shyamal Mitra,/artist/shyamal-mitra,03:18,https://gaana.com//song/ja-jare-ja-ja-pakhi-2
+Harinam Ke Aanilo,BHAKTA DAS BAUL,/artist/bhakta-das-baul,05:00,https://gaana.com//song/harinam-ke-aanilo
+Sukhe Amai Rakhbe Keno,Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,04:07,https://gaana.com//song/sukhe-amai-rakhbe-keno
+Bharatbarso Surjer Ek Naam,Calcutta Youth Choir,/artist/calcutta-youth-choir,04:02,https://gaana.com//song/bharatbarso-surjer-ek-naam-1
+Mone Pore Ruby Roy,R. D. Burman,/artist/r-d-burman,03:25,https://gaana.com//song/mone-pore-ruby-roy-2
+Dharanir Pathe Pathe,Lata Mangeshkar,/artist/lata-mangeshkar,05:11,https://gaana.com//song/dharanir-pathe-pathe-3
+Kotodin Dekhini Tomay,Feroza Begum,/artist/feroza-begum,03:45,https://gaana.com//song/kotodin-dekhini-tomay
+Har-Mana Har,Sivaji Chatterjee,/artist/sivaji-chatterjee,03:45,https://gaana.com//song/harmana-har-1
+Son Go Lalite,Manju Das,/artist/manju-das,02:29,https://gaana.com//song/son-go-lalite
+Kono Ek Chena Pathe,Aarti Mukherji,/artist/aarti-mukherji,03:18,https://gaana.com//song/kono-ek-chena-pathe
+Ei To Bhalo Legechhilo,Debabrata Biswas,/artist/debabrata-biswas,03:11,https://gaana.com//song/ei-to-bhalo-legechhilo-5
+Oi Dur Diganta Pare,Mohammed Rafi,/artist/mohammad-rafi,03:22,https://gaana.com//song/oi-dur-diganta-pare
+Sadhya Kire Amar Se Rup Chinite,Nirmalendu Choudhury,/artist/nirmalendu-choudhury,02:35,https://gaana.com//song/sadhya-kire-amar-se-ruchi-nite
+Duyo Duyo Ari,Lata Mangeshkar,/artist/lata-mangeshkar,03:09,https://gaana.com//song/duyo-duyo-ari-1
+Tumi Ki Ekhon Dekhicho Swapan,Feroza Begum,/artist/feroza-begum,03:28,https://gaana.com//song/tumi-ki-eakhon-dekhichho-swapan
+Ek Bnao Mele Na,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:23,https://gaana.com//song/ek-bnao-mele-na
+Amar Kuasha Je Orna,Asha Bhosle|Chorus,/artist/asha-bhosle-1|/artist/chorus,02:49,https://gaana.com//song/amar-kuasha-je-orna
+Dekhona Amay Ogo Aayna,Lata Mangeshkar,/artist/lata-mangeshkar,03:37,https://gaana.com//song/dekhona-aamay-ogo-aaina
+Amar A Bedan Majhe Tumi,Nirmal Mishra,/artist/nirmal-mishra,03:08,https://gaana.com//song/amar-a-bedan-majhe-tumi-1
+Thik Saare Panchta Jei Bejechhe,Kishore Kumar,/artist/kishore-kumar,03:14,https://gaana.com//song/thik-saare-panchta-jei-bejechhe
+Kala Aar Na Bajan Banshari,Bishnupada Das,/artist/bishnupada-das,03:43,https://gaana.com//song/kala-aar-na-bajan-banshari
+Amay Prashna Kare Neel Dhrubatara,Hemant Kumar,/artist/hemanta-mukherjee,03:15,https://gaana.com//song/amay-prashna-kare-neel-dhrubatara-2
+Salma Jarir Jhalak,Asha Bhosle,/artist/asha-bhosle-1,04:33,https://gaana.com//song/salma-jarir-jhalak
+Ami Jar Nupurer Chhanda,Madhuri Chatterjee,/artist/madhuri-chatterjee,02:48,https://gaana.com//song/ami-jar-nupurer-chhanda-2
+Tumi Pathar Chokheo Je Dristi,Lata Mangeshkar,/artist/lata-mangeshkar,05:51,https://gaana.com//song/tumi-pathar-chokheo-je-dristi
+Shwasure Jamaiye Halud Phul,Swapna Chakraborty,/artist/swapna-chakraborty,03:15,https://gaana.com//song/shwasure-jamaiye-halud-phul
+Na Bole Esechhi,Aarti Mukherji,/artist/aarti-mukherji,03:21,https://gaana.com//song/na-bole-esechhi-1
+The Reciting Of Mantras,various,/artist/various-2,01:07,https://gaana.com//song/the-reciting-of-mantras
+Oi Ja Ami Bolte Bhule Gechhi,Akhil Bandhu Ghosh,/artist/akhil-bandhu-ghosh,02:52,https://gaana.com//song/oi-ja-ami-bolte-bhule-gechhi-1
+Bombe Khub Doore Noi,Alka Yagnik,/artist/alka-yagnik,05:00,https://gaana.com//song/bombe-khub-doore-noi
+Niyoti Amar Prothom,Satinath Mukhyopadhyay,/artist/satinath-mukhyopadhyay,03:31,https://gaana.com//song/niyoti-amar-prothom
+Aaji Shubhodine Pitar Bhabane,Sagar Sen,/artist/sagar-sen,02:45,https://gaana.com//song/aaji-shubhodine-pitar-bhabane
+Ho Re Re Re,Kishore Kumar,/artist/kishore-kumar,04:51,https://gaana.com//song/ho-re-re-re
+Dhire Jai,Manabendra Mukherjee,/artist/manabendra-mukherjee,03:33,https://gaana.com//song/dhire-jai
+Aaj Mukhete Bolle Tumi,Kishore Kumar,/artist/kishore-kumar,05:34,https://gaana.com//song/aaj-mukhete-bolle-tumi
+Tara Kon Aparadhe,Ramkumar Chatterjee,/artist/ramkumar-chatterjee,05:15,https://gaana.com//song/tara-kon-aparadhe
+The Hero,Rabindranath Tagore,/artist/rabindranath-tagore,02:30,https://gaana.com//song/the-hero
+Ke Jeno Abir,Asha Bhosle,/artist/asha-bhosle-1,03:33,https://gaana.com//song/ke-jeno-abir-chhariye-dilo
+Tumi Mor Pao Nai Parichay,Hemant Kumar,/artist/hemanta-mukherjee,03:17,https://gaana.com//song/tumi-mor-pao-nai-parichay-3
+Gaaner Koli Surer Durite,S. D. Burman,/artist/sdburman,03:15,https://gaana.com//song/gaaner-koli-surer-durite-2
+Amar Kantho Hote Gaan Ke Nilo,Hemant Kumar,/artist/hemanta-mukherjee,02:57,https://gaana.com//song/amar-kantho-hote-gaan-ke-nilo
+Chaaridike Paaper Andhar (Manush Janam Diye Bidhi),Kishore Kumar,/artist/kishore-kumar,03:23,https://gaana.com//song/chaaridike-paaper-andhar-manush-janam-diye-bidhi
+Ei Ki Go Shesh Daan,Feroza Begum,/artist/feroza-begum,03:56,https://gaana.com//song/ei-kigo-sesh-daan
+Ei Je Bangla,Sandhya Mukherjee|Hemant Kumar,/artist/sandhya-mukherjee|/artist/hemanta-mukherjee,07:36,https://gaana.com//song/ei-je-bangla
+Jatone Hridaye Rekho,Ajoy Chakrabarty,/artist/ajoy-chakrabarty,04:29,https://gaana.com//song/jatone-hridaye-rekho
+Tomar Je Oi Haater Mala,Asha Bhosle,/artist/asha-bhosle-1,03:22,https://gaana.com//song/tomar-je-oi-haater-mala
